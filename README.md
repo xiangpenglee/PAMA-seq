@@ -1,4 +1,4 @@
-# PAMA-seq
+![image](https://github.com/user-attachments/assets/1940ac9f-1ba9-49a9-a687-0da2b01275f0)# PAMA-seq
 Comprehensive Cross-Domain Taxonomic Classification of Microbiotas using Partitioned Amplification Multiplexed Amplicon Sequencing (PAMA-seq)
 
 ## Disclaimer:
@@ -9,6 +9,14 @@ Microbial communities encompass diverse bacteria, archaea, and eukaryotes that p
 
 ## Contents
 code/
+```
+PAMA-seq_Simulation_analysis.ipynb
+PAMA-seq_ocean_subsample.ipynb
+PAMA-seq_ocean_venn_diagram_R.ipynb
+PAMA-seq_zymo.ipynb
+PAMA_seq_gut.ipynb
+```
+
 
 
 
