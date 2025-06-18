@@ -61,6 +61,7 @@ Seqtk toolkit
 
 ## Data availability
 All sequencing data is accessible at the NCBI Sequence Read Archive (Accession numbers: PRJNA1232616).
+
 For Intermediate files and output files, please contact the author: (xli@chem.fsu.edu).
 
 
