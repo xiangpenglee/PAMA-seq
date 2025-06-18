@@ -1,0 +1,42 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	62.722046	2401	1224	Proteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	21.185999	811	976	Bacteroidetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	4.754441	182	2836	Bacillariophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	2.220481	85	201174	Actinobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	1.358412	52	203682	Planctomycetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	1.306165	50	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.653083	25	3041	Chlorophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.548589	21	1117	Cyanobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.548589	21	1239	Firmicutes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.287356	11	200795	Chloroflexi
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.156740	6	57723	Acidobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.130617	5	40117	Nitrospirae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.130617	5	142182	Gemmatimonadetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.130617	5	1853220	Rhodothermaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.104493	4	4890	Ascomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.078370	3	4762	Oomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.052247	2	2763	Rhodophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.052247	2	28890	Euryarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.052247	2	67819	Armatimonadetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.052247	2	203691	Spirochaetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.052247	2	363464	Candidatus Gracilibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.052247	2	651137	Thaumarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.052247	2	1134404	Ignavibacteriae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.052247	2	1293497	Nitrospinae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.052247	2	1913637	Mucoromycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	1090	Chlorobi
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	4761	Chytridiomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	6029	Microsporidia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	33682	Euglenozoa
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	67817	Candidatus Aminicenantes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	67818	Atribacterota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	134625	Kiritimatiellaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	256845	Lentisphaerae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	508458	Synergistetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	1379697	candidate division Zixibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	1752708	Candidatus Rokubacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	1801631	Candidatus Micrarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.026123	1	1930617	Calditrichaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	0.287356	11	10239	Viruses
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	2.586207	99	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1732655090008/kaiju_output/10K_5.kaiju	61.720002	6172	NA	unclassified
