@@ -1,0 +1,278 @@
+Kaiju,CZID-nt,CZID-nr,PAM-seq
+Balneolaeota,Bacillota,Candidatus Parvarchaeota,Acanthocephala
+Tenericutes,Candidatus Methylomirabilota,Bacillota,BRC1
+Candidatus Rokubacteria,Acidobacteriota,Thermodesulfobacteriota,Tenericutes
+Candidatus Wolfebacteria,Planctomycetota,Planctomycetota,Xenacoelomorpha
+Heterolobosea,Streptophyta,Streptophyta,Palpitomonas
+Candidatus Woesebacteria,Candidatus Lokiarchaeota,Nematoda,WS2
+Planctomycetes,Nematoda,Nitrososphaerota,Candidatus Wolfebacteria
+Ciliophora,Nitrososphaerota,Haptophyta,Heterolobosea
+Candidatus Bipolaricaulota,Haptophyta,Bacteroidota,Candidatus Woesebacteria
+candidate division CPR3,Blastocladiomycota,Thermotogota,Planctomycetes
+candidate division CPR2,Bacteroidota,Chytridiomycota,Ciliophora
+Candidatus Colwellbacteria,Thermotogota,Verrucomicrobiota,Microgenomates
+Cercozoa,Chytridiomycota,Candidatus Cloacimonadota,Fibrobacterota
+Candidatus Riflebacteria,Rhodothermota,Calditrichota,Marine Hydrothermal Vent Group(MHVG)
+Cyanobacteria,Euglenozoa,Placozoa,Verrucomicrobiota
+Evosea,Verrucomicrobiota,Basidiomycota,Centrohelida
+Thermotogae,Candidatus Cloacimonadota,Ascomycota,TM6 (Dependentiae)
+Candidatus Hydrogenedentes,Calditrichota,Apicomplexa,RBG-1 (Zixibacteria)
+Thermodesulfobacteria,Placozoa,Tardigrada,Hydrogenedentes
+Candidatus Dormibacteraeota,Ascomycota,Nucleocytoviricota,Spirochaetae
+Candidatus Terrybacteria,Campylobacterota,Rhodophyta,Methanobacteriota
+Candidatus Heimdallarchaeota,Basidiomycota,Evosea,Loricifera
+Candidatus Raymondbacteria,Apicomplexa,Euryarchaeota,Latescibacteria
+Candidatus Sumerlaeota,Nucleocytoviricota,Actinomycetota,Cercozoa
+Candidatus Woesearchaeota,Platyhelminthes,Nanoarchaeota,Platyhelminthes
+Candidatus Wildermuthbacteria,Rhodophyta,Uroviricota,Cyanobacteria
+Candidatus Adlerbacteria,Euryarchaeota,Tubulinea,Evosea
+Bacillariophyta,Actinomycetota,Candidatus Kryptoniota,Telonema
+Olpidiomycota,Nanoarchaeota,Oomycota,Hemichordata
+Candidatus Ryanbacteria,Uroviricota,Spirochaetota,Neocallimastigomycota
+Chlorobi,Thermodesulfobacteriota,Zoopagomycota,GAL15
+Bacteroidetes,Candidatus Thermoplasmatota,Arthropoda,Actinomycetota
+Viruses,Oomycota,Thermoproteota,WWE3
+Candidatus Schekmanbacteria,Mucoromycota,Microsporidia,Thermotogae
+Candidatus Saccharibacteria,Candidatus Melainabacteria,Chloroflexota,Candidatus Paceibacterota
+Candidatus Cryosericota,Zoopagomycota,Chlorophyta,Filasterea
+Abditibacteriota,Arthropoda,Kiritimatiellota,Cryptophyceae
+Candidatus Sungbacteria,Thermomicrobiota,Rotifera,Miscellaneous Euryarchaeotic Group(MEG)
+Actinobacteria,Microsporidia,Bacillariophyta,WPS-2
+Candidatus Portnoybacteria,Thermoproteota,Annelida,Candidatus Moduliflexota
+Candidatus Niyogibacteria,Chloroflexota,Pseudomonadota,Halobacteriota
+Blastocladiomycota,Chlorophyta,Candidatus Fermentibacteria,Candidatus Sumerlaeota
+Proteobacteria,Kiritimatiellota,Cyanobacteriota,Parcubacteria
+Candidatus Kuenenbacteria,Rotifera,Bdellovibrionota,unidentified archaeon   
+Acidobacteria,Mycoplasmatota,Candidatus Saccharibacteria,WS1
+Candidatus Magasanikbacteria,Bacillariophyta,Candidatus Cryosericota,Fervidibacteria
+Candidatus Uhrbacteria,Annelida,Cnidaria,Schekmanbacteria
+Discosea,Pseudomonadota,,Candidatus Adlerbacteria
+Candidatus Tectomicrobia,Candidatus Fermentibacteria,,Altiarchaeales
+Candidatus Gottesmanbacteria,Mollusca,,Kiritimatiellota
+Candidatus Omnitrophica,Cyanobacteriota,,Mycoplasmatota
+Candidatus Delongbacteria,Bdellovibrionota,,Myxococcota
+Rhodophyta,Candidatus Saccharibacteria,,Bacillariophyta
+Candidatus Glassbacteria,Cnidaria,,Chlorobi
+Candidatus Fischerbacteria,,,Balneolota
+Candidatus Giovannonibacteria,,,WS6
+Candidatus Diapherotrites,,,WSA2
+Chrysiogenetes,,,Ancient Archaeal Group(AAG)
+Nitrospinae,,,Ancyromonadida
+Candidatus Verstraetearchaeota,,,Bacteroidetes
+Candidatus Yonathbacteria,,,Cyanobacteriota
+Coprothermobacterota,,,Candidatus Azambacteria
+Candidatus Roizmanbacteria,,,Picozoa
+Zoopagomycota,,,Aquificota
+Microsporidia,,,Bdellovibrionota
+Candidatus Nealsonbacteria,,,Candidatus Saccharibacteria
+Chloroflexi,,,Nanobdellota
+Candidatus Kryptonia,,,Abditibacteriota
+Candidatus Falkowbacteria,,,Bacillota
+Candidatus Doudnabacteria,,,Acidobacteriota
+Candidatus Absconditabacteria,,,Planctomycetota
+Candidatus Altiarchaeota,,,Amoebozoa
+Lentisphaerae,,,Latescibacterota
+Candidatus Aenigmarchaeota,,,Actinobacteria
+Candidatus Eisenbacteria,,,Nematoda
+Candidatus Peregrinibacteria,,,Entomophthoromycota
+Candidatus Blackallbacteria,,,Blastocladiomycota
+Candidatus Wallbacteria,,,Zixibacteria
+Candidatus Shapirobacteria,,,Phoronida
+Candidatus Kaiserbacteria,,,Proteobacteria
+Fusobacteria,,,Candidatus Kuenenbacteria
+Candidatus Lokiarchaeota,,,Chaetognatha
+Rhodothermaeota,,,Acidobacteria
+Fibrobacteres,,,FBP
+Haptophyta,,,Patescibacteria
+Chytridiomycota,,,Choanoflagellida
+Chlamydiae,,,Apusomonadidae
+Candidatus Gracilibacteria,,,Discosea
+Candidatus Micrarchaeota,,,Bicosoecida
+Candidatus Yanofskybacteria,,,Caldisericota
+Imbricatea,,,MAST-12
+Candidatus Nanohaloarchaeota,,,Deinococcota
+Candidatus Harrisonbacteria,,,Rhodophyta
+Candidatus Cerribacteria,,,Discicristoidea
+Candidatus Cloacimonetes,,,MBNT15
+Perkinsozoa,,,Gemmatimonadota
+Candidatus Handelsmanbacteria,,,Candidatus Giovannonibacteria
+Aquificae,,,Holozoa
+Candidatus Curtissbacteria,,,Peregrinibacteria
+Candidatus Woykebacteria,,,Acetothermia
+Candidatus Parcubacteria,,,GN01
+Euryarchaeota,,,Nitrospinae
+Candidatus Desantisbacteria,,,Candidatus Hydrogenedentota
+Candidatus Komeilibacteria,,,Kickxellomycotina
+Spirochaetes,,,Candidatus Latescibacterota
+Synergistetes,,,Aerophobetes
+Candidatus Mcinerneyibacteriota,,,Hadesarchaea
+Candidatus Korarchaeota,,,Candidatus Calescamantes
+Caldiserica,,,Elusimicrobiota
+Oomycota,,,Margulisbacteria
+Candidatus Hydrothermae,,,Coprothermobacterota
+Endomyxa,,,Opalinata
+Preaxostyla,,,Zoopagomycota
+Candidatus Melainabacteria,,,Microsporidia
+Candidatus Poribacteria,,,Ichthyosporea
+Kiritimatiellaeota,,,Omnitrophica
+Candidatus Bathyarchaeota,,,Diapherotrites
+Calditrichaeota,,,Chloroflexi
+Candidatus Thorarchaeota,,,Nitrospirota
+Candidatus Goldbacteria,,,Candidatus Falkowbacteria
+Foraminifera,,,Porifera
+candidate division WWE3,,,SAR324 clade(Marine group B)
+Candidatus Zambryskibacteria,,,Annelida
+Candidatus Kapabacteria,,,Pseudomonadota
+candidate division WOR-3,,,Candidate division YNPFFA
+Candidatus Fermentibacteria,,,CPR2
+candidate division LCP-89,,,Lentisphaerae
+Elusimicrobia,,,Mollusca
+Candidatus Buchananbacteria,,,Nematomorpha
+Candidatus Muirbacteria,,,AC1
+Gemmatimonadetes,,,Candidatus Peregrinibacteria
+Verrucomicrobia,,,Prasinodermophyta
+Candidatus Marinimicrobia,,,NB1-j
+Candidatus Moranbacteria,,,Lentisphaerota
+Candidatus Daviesbacteria,,,Candidatus Shapirobacteria
+Candidatus Lloydbacteria,,,Dependentiae
+Euglenozoa,,,Candidatus Kaiserbacteria
+Deinococcus-Thermus,,,Cnidaria
+Candidatus Firestonebacteria,,,LCP-89
+Candidatus Latescibacteria,,,WA-aaa01f12
+Candidatus Aerophobetes,,,Onychophora
+Ascomycota,,,Thermodesulfobacteriota
+Basidiomycota,,,FCPU426
+Apicomplexa,,,Streptophyta
+Candidatus Berkelbacteria,,,Fusobacteria
+Candidatus Pacebacteria,,,Fibrobacteres
+Candidatus Margulisbacteria,,,Nitrososphaerota
+Cryptomycota,,,Haptophyta
+Candidatus Dadabacteria,,,Chlamydiota
+Candidatus Spechtbacteria,,,Chytridiomycota
+Nanoarchaeota,,,Ignavibacteriota
+Nitrospirae,,,Chlamydiae
+Candidatus Thermoplasmatota,,,Candidatus Gracilibacteria
+Candidatus Jorgensenbacteria,,,Rhodothermota
+Tubulinea,,,Sva0485
+Deferribacteres,,,Bryozoa
+Candidatus Aminicenantes,,,Atribacteria
+Fornicata,,,Candidatus Cloacimonadota
+Mucoromycota,,,PAUC34f
+Firmicutes,,,Calditrichota
+candidate division NC10,,,Bathyarchaeota
+Candidatus Levybacteria,,,KSB3 (Modulibacteria)
+Candidatus Abyssubacteria,,,Candidatus Magasanikiibacteriota
+Candidatus Nomurabacteria,,,Tardigrada
+Atribacterota,,,Priapulida
+Chlorophyta,,,Perkinsozoa
+Candidatus Lindowbacteria,,,Candidatus Omnitrophota
+Candidatus Kerfeldbacteria,,,DH147-EKD10
+Thaumarchaeota,,,Thermoplasmatota
+Dictyoglomi,,,MD2896-B216
+Candidatus Aureabacteria,,,Thermosulfidibacterota
+Candidatus Campbellbacteria,,,Gracilibacteria
+Candidatus Taylorbacteria,,,Aquificae
+candidate division Zixibacteria,,,D4P07G08
+Candidatus Coatesbacteria,,,Candidatus Curtissbacteria
+Crenarchaeota,,,Aminicenantes
+Parabasalia,,,Candidatus Parcubacteria
+Ignavibacteriae,,,Euryarchaeota
+Armatimonadetes,,,LKM15
+,,,Chordata
+,,,Breviatea
+,,,Synergistetes
+,,,AK8
+,,,Candidatus Moraniibacteriota
+,,,Tectomicrobia
+,,,Zoopagomycotina
+,,,Caldiserica
+,,,Oomycota
+,,,Endomyxa
+,,,Preaxostyla
+,,,Deferribacterota
+,,,Spirochaetota
+,,,Candidatus Melainabacteria
+,,,Arthropoda
+,,,Thermoproteota
+,,,Candidatus Collierbacteria
+,,,Dadabacteria
+,,,Gastrotricha
+,,,Candidatus Rokuibacteriota
+,,,Candidatus Amesbacteria
+,,,Candidatus Bathyarchaeota
+,,,Aenigmarchaeota
+,,,Rotifera
+,,,Cloacimonetes
+,,,Foraminifera
+,,,Saccharibacteria
+,,,candidate division WWE3
+,,,Marinimicrobia (SAR406 clade)
+,,,Excavata
+,,,Nemertea
+,,,Chlorobiota
+,,,Elusimicrobia
+,,,Dinoflagellata
+,,,MSBL1
+,,,Gemmatimonadetes
+,,,Verrucomicrobia
+,,,BJ-169
+,,,NAMAKO-1
+,,,Candidatus Parvarchaeota
+,,,Candidatus Methylomirabilota
+,,,Candidatus Kapaibacteriota
+,,,Fusobacteriota
+,,,Nanohaloarchaeota
+,,,RsaHf231
+,,,RCP2-54
+,,,Bacteroidota
+,,,Thermotogota
+,,,Candidatus Daviesbacteria
+,,,SBR1093
+,,,Parvarchaeota
+,,,Euglenozoa
+,,,Deinococcus-Thermus
+,,,Marine Benthic Group E
+,,,Gnathostomulida
+,,,Aigarchaeota
+,,,Ascomycota
+,,,Campylobacterota
+,,,Basidiomycota
+,,,Candidatus Berkelbacteria
+,,,Apicomplexa
+,,,SAR
+,,,Candidatus Aminicenantota
+,,,Archaeplastida
+,,,Ochrophyta
+,,,Armatimonadota
+,,,Cryptomycota
+,,,Desulfobacterota
+,,,Orthonectida
+,,,Nanoarchaeota
+,,,Woesearchaeota (DHVEG-6)
+,,,Nitrospirae
+,,,Tubulinea
+,,,Deferribacteres
+,,,Fornicata
+,,,Mucoromycota
+,,,Firmicutes
+,,,Metazoa (Animalia)
+,,,Marine Hydrothermal Vent Group 1(MHVG-1)
+,,,SR1 (Absconditabacteria)
+,,,Thermomicrobiota
+,,,Nitrospinota
+,,,Chloroflexota
+,,,Chlorophyta
+,,,Candidatus Nomurabacteria
+,,,Atribacterota
+,,,Thaumarchaeota
+,,,Dictyoglomi
+,,,Actinobacteriota
+,,,Candidatus Campbellbacteria
+,,,Echinodermata
+,,,Lokiarchaeota
+,,,Synergistota
+,,,Brachiopoda
+,,,Crenarchaeota
+,,,Parabasalia
+,,,Ignavibacteriae
+,,,Armatimonadetes
