@@ -1,0 +1,16 @@
+Species,Assembly,refseq,kingdom,ncbi_id,Read_counts
+Plasmodium falciparum 3D7,GCA_000002765,GCF_000002765.6,Eukaryota,36329,1400000
+Methanosarcina acetivorans C2A,ASM734v1,GCF_000007345.1,archaea,188937,100000
+Colwellia psychrerythraea 34H,ASM1232v1,GCF_000012325.1,bacteria,167879,100000
+Methanobrevibacter smithii ATCC 35061,ASM1652v1,GCF_000016525.1,archaea,420247,100000
+Methanocella arvoryzae MRE50,ASM6344v1,GCF_000063445.1,archaea,351160,100000
+Phaeodactylum tricornutum CCAP 1055/1,ASM15095v2,GCF_000150955.2,Eukaryota,556484,8273014
+Methanothrix soehngenii GP6,ASM20441v1,GCF_000204415.1,archaea,990316,200000
+Neospora caninum Liverpool,ASM20886v2,GCF_000208865.1,Eukaryota,572307,1397237
+Oleispira antarctica RB-8,ASM96789v1,GCF_000967895.1,bacteria,698738,100000
+Dokdonia donghaensis DSW-1,ASM165375v1,GCF_001653755.1,bacteria,1300343,100000
+Methanosphaera cuniculi,ASM228719v1,GCF_002287195.1,archaea,1077256,2900000
+Pseudoalteromonas agarivorans DSM 14585,ASM231085v1,GCF_002310855.1,bacteria,1312369,200000
+Tenacibaculum mesophilum,ASM936225v1,GCF_009362255.1,bacteria,104268,100000
+Vitis vinifera (wine grape),ASM3070453v1,GCF_030704535.1,Eukaryota,29760,2100000
+Amyelois transitella,ilAmyTran1.1,GCF_032362555.1,Eukaryota,680683,3300000

@@ -1,0 +1,16 @@
+ncbi_id,Species,Assembly,refseq,Read_counts,superkingdom,kingdom,phylum,class,order,family,genus,species
+36329,Plasmodium falciparum 3D7,GCA_000002765,GCF_000002765.6,1400000,,,Apicomplexa,Aconoidasida,Haemosporida,Plasmodiidae,Plasmodium,Plasmodium falciparum 3D7
+188937,Methanosarcina acetivorans C2A,ASM734v1,GCF_000007345.1,100000,,Methanobacteriati,Methanobacteriota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanosarcina acetivorans C2A
+167879,Colwellia psychrerythraea 34H,ASM1232v1,GCF_000012325.1,100000,,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,Colwellia psychrerythraea 34H
+420247,Methanobrevibacter smithii ATCC 35061,ASM1652v1,GCF_000016525.1,100000,,Methanobacteriati,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,Methanobrevibacter smithii ATCC 35061
+351160,Methanocella arvoryzae MRE50,ASM6344v1,GCF_000063445.1,100000,,Methanobacteriati,Methanobacteriota,Methanomicrobia,Methanocellales,Methanocellaceae,Methanocella,Methanocella arvoryzae MRE50
+556484,Phaeodactylum tricornutum CCAP 1055/1,ASM15095v2,GCF_000150955.2,8273014,,,Bacillariophyta,Bacillariophyceae,Naviculales,Phaeodactylaceae,Phaeodactylum,Phaeodactylum tricornutum CCAP 1055/1
+990316,Methanothrix soehngenii GP6,ASM20441v1,GCF_000204415.1,200000,,Methanobacteriati,Methanobacteriota,Methanomicrobia,Methanotrichales,Methanotrichaceae,Methanothrix,Methanothrix soehngenii GP6
+572307,Neospora caninum Liverpool,ASM20886v2,GCF_000208865.1,1397237,,,Apicomplexa,Conoidasida,Eucoccidiorida,Sarcocystidae,Neospora,Neospora caninum Liverpool
+698738,Oleispira antarctica RB-8,ASM96789v1,GCF_000967895.1,100000,,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Oleispira,Oleispira antarctica RB-8
+1300343,Dokdonia donghaensis DSW-1,ASM165375v1,GCF_001653755.1,100000,,Pseudomonadati,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Dokdonia,Dokdonia donghaensis DSW-1
+1077256,Methanosphaera cuniculi,ASM228719v1,GCF_002287195.1,2900000,,Methanobacteriati,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera,Methanosphaera cuniculi
+1312369,Pseudoalteromonas agarivorans DSM 14585,ASM231085v1,GCF_002310855.1,200000,,Pseudomonadati,Pseudomonadota,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas agarivorans DSM 14585
+104268,Tenacibaculum mesophilum,ASM936225v1,GCF_009362255.1,100000,,Pseudomonadati,Bacteroidota,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Tenacibaculum,Tenacibaculum mesophilum
+29760,Vitis vinifera (wine grape),ASM3070453v1,GCF_030704535.1,2100000,,Viridiplantae,Streptophyta,Magnoliopsida,Vitales,Vitaceae,Vitis,Vitis vinifera
+680683,Amyelois transitella,ilAmyTran1.1,GCF_032362555.1,3300000,,Metazoa,Arthropoda,Insecta,Lepidoptera,Pyralidae,Amyelois,Amyelois transitella
