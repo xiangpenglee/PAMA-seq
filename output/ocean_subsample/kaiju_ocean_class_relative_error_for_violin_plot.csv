@@ -1,0 +1,1166 @@
+,class,read count,relative error
+0,Gammaproteobacteria,1K,0.030406007557754237
+1,Alphaproteobacteria,1K,0.08879562616803101
+2,Flavobacteriia,1K,0.14154944331596828
+3,Betaproteobacteria,1K,0.2807415894760069
+4,Deltaproteobacteria,1K,0.26342687418402605
+5,Coscinodiscophyceae,1K,0.1540777601485321
+6,Saprospiria,1K,0.7975554366664508
+7,Actinomycetia,1K,0.21114359724058113
+8,Bacillariophyceae,1K,0.4050462936504912
+9,Planctomycetia,1K,0.4677071733467427
+10,Trebouxiophyceae,1K,
+11,Verrucomicrobiae,1K,0.7126096406869612
+12,Gemmatimonadetes,1K,
+13,Anaerolineae,1K,0.43301270189221935
+14,Cytophagia,1K,0.4937179676991845
+15,Dinophyceae,1K,0.37267799624996495
+16,Pedinophyceae,1K,
+17,Pelagophyceae,1K,
+18,Sphingobacteriia,1K,
+19,Ktedonobacteria,1K,
+20,Mamiellophyceae,1K,0.7071067811865475
+21,Nitrospinia,1K,
+22,Rhodothermia,1K,0.38490017945975047
+23,Viruses,1K,0.6928203230275509
+24,Bacteroidia,1K,0.34641016151377546
+25,Spirotrichea,1K,
+26,Bacilli,1K,0.5471012044321932
+27,Atractiellomycetes,1K,
+28,Mediophyceae,1K,
+29,Acidithiobacillia,1K,
+30,Bangiophyceae,1K,
+31,Epsilonproteobacteria,1K,
+32,Acidimicrobiia,1K,
+33,Agaricomycetes,1K,
+34,Glomeromycetes,1K,
+35,Oligoflexia,1K,
+36,Chitinophagia,1K,
+37,Chlorobia,1K,
+38,Nitrospira,1K,
+39,Holophagae,1K,
+40,Elardia,1K,
+41,Opitutae,1K,
+42,Chrysophyceae,1K,
+43,Fragilariophyceae,1K,
+44,Deferribacteres,1K,
+45,Leotiomycetes,1K,
+46,Sordariomycetes,1K,
+47,Clostridia,1K,
+48,Thermoflexia,1K,
+49,Balneolia,1K,
+50,Hydrogenophilalia,1K,
+51,Chlorophyceae,1K,
+52,Phycisphaerae,1K,
+53,Cryptophyceae,1K,
+54,Euglenida,1K,
+55,Eustigmatophyceae,1K,
+56,Choanoflagellata,1K,
+57,Erysipelotrichia,1K,
+58,Florideophyceae,1K,
+59,Phaeophyceae,1K,
+60,Oligohymenophorea,1K,
+61,Chloroflexia,1K,
+62,Ulvophyceae,1K,
+63,Rubrobacteria,1K,
+64,Eumycetozoa,1K,
+65,Dothideomycetes,1K,
+66,Eurotiomycetes,1K,
+67,Taphrinomycetes,1K,
+68,Thermotogae,1K,
+69,Deinococci,1K,
+70,Fibrobacteria,1K,
+71,Acidobacteriia,1K,
+72,Dehalococcoidia,1K,
+73,Zetaproteobacteria,1K,
+74,Ignavibacteria,1K,
+75,Kiritimatiellae,1K,
+76,Candidatus Thermofonsia,1K,
+77,Candidatus Cryosericia,1K,
+78,Spirochaetia,1K,
+79,Chlamydiia,1K,
+80,Fusobacteriia,1K,
+81,Caldilineae,1K,
+82,Xanthophyceae,1K,
+83,Saccharomycetes,1K,
+84,Thermodesulfobacteria,1K,
+85,Stylonematophyceae,1K,
+86,Ardenticatenia,1K,
+87,Calditrichia,1K,
+88,Mortierellomycetes,1K,
+89,Zoopagomycetes,1K,
+90,Candidatus Brocadiia,1K,
+91,Thermoplasmata,1K,
+92,Thermoleophilia,1K,
+93,Kinetoplastea,1K,
+94,Mollicutes,1K,
+95,Methanomicrobia,1K,
+96,Negativicutes,1K,
+97,Lentisphaeria,1K,
+98,Tissierellia,1K,
+99,Mucoromycetes,1K,
+100,Pyramimonadophyceae,1K,
+101,Chytridiomycetes,1K,
+102,Nitriliruptoria,1K,
+103,Ustilaginomycetes,1K,
+104,Synurophyceae,1K,
+105,Heterotrichea,1K,
+106,Exobasidiomycetes,1K,
+107,Armatimonadia,1K,
+108,Candidatus Lambdaproteobacteria,1K,
+109,Bigyra,1K,
+110,Dictyochophyceae,1K,
+111,Raphidophyceae,1K,
+112,Halobacteria,1K,
+113,Neocallimastigomycetes,1K,
+114,Synergistia,1K,
+115,Thermoanaerobaculia,1K,
+116,Fimbriimonadia,1K,
+117,Vicinamibacteria,1K,
+118,Candidatus Muproteobacteria,1K,
+119,Candidatus Ozemobacteria,1K,
+120,Aconoidasida,1K,
+121,Monoblepharidomycetes,1K,
+122,Spartobacteria,1K,
+123,Chloropicophyceae,1K,
+124,Tichowtungiia,1K,
+125,Coriobacteriia,1K,
+126,Schizosaccharomycetes,1K,
+127,Tremellomycetes,1K,
+128,Entomophthoromycetes,1K,
+129,Chlorodendrophyceae,1K,
+130,Variosea,1K,
+131,Glaucocystophyceae,1K,
+132,Chrysiogenetes,1K,
+133,Microbotryomycetes,1K,
+134,Aquificae,1K,
+135,Centroplasthelida,1K,
+136,Candidatus Marinamargulisbacteria,1K,
+137,Nephroselmidophyceae,1K,
+138,Conoidasida,1K,
+139,Basidiobolomycetes,1K,
+140,Malasseziomycetes,1K,
+141,Chitinispirillia,1K,
+142,Theionarchaea,1K,
+143,Olpidiomycetes,1K,
+144,Umbelopsidomycetes,1K,
+145,Kickxellomycetes,1K,
+146,Harpellomycetes,1K,
+147,Candidatus Poseidoniia,1K,
+148,Thermodesulfovibrionia,1K,
+149,Olisthodiscophyceae,1K,
+150,Candidatus Uabimicrobiia,1K,
+151,Phytomyxea,1K,
+152,Pucciniomycetes,1K,
+153,Methanobacteria,1K,
+154,Endogonomycetes,1K,
+155,Lecanoromycetes,1K,
+156,Pezizomycetes,1K,
+157,Endomicrobia,1K,
+158,Nitrososphaeria,1K,
+159,Tepidiformia,1K,
+160,Mixiomycetes,1K,
+161,Colpodea,1K,
+162,Bolidophyceae,1K,
+163,Thermomicrobia,1K,
+164,Chitinivibrionia,1K,
+165,Dacrymycetes,1K,
+166,Chthonomonadetes,1K,
+167,Blastocatellia,1K,
+168,Candidatus Sumerlaeia,1K,
+169,Thermoprotei,1K,
+170,Orbiliomycetes,1K,
+171,Gloeobacteria,1K,
+172,Blastocladiomycetes,1K,
+173,Nanohaloarchaea,1K,
+174,Candidatus Geothermincolia,1K,
+175,Chlorarachniophyceae,1K,
+176,Neolectomycetes,1K,
+177,Archaeoglobi,1K,
+178,Compsopogonophyceae,1K,
+179,Hadesarchaea,1K,
+180,Longimicrobia,1K,
+181,Methylacidiphilae,1K,
+182,Terrimicrobia,1K,
+183,Candidatus Mcinerneyibacteria,1K,
+184,Candidatus Peribacteria,1K,
+185,Phyllopharyngea,1K,
+186,Pneumocystidomycetes,1K,
+187,Picocystophyceae,1K,
+188,Litostomatea,1K,
+189,Nassophorea,1K,
+190,Polycystinea,1K,
+191,Methanococci,1K,
+192,Dictyoglomia,1K,
+193,Armophorea,1K,
+194,Ascetosporea,1K,
+195,Coprothermobacteria,1K,
+196,Candidatus Limnocylindria,1K,
+197,Atribacteria,1K,
+198,Candidatus Aquicultoria,1K,
+199,Flabellinia,1K,
+200,Dimargaritomycetes,1K,
+201,Thermococci,1K,
+202,Limnochordia,1K,
+203,Abditibacteria,1K,
+204,Candidatus Termititenacia,1K,
+205,Candidatus Methanofastidiosa,1K,
+206,Wallemiomycetes,1K,
+207,Elusimicrobia,1K,
+208,Rhodellophyceae,1K,
+209,Palmophyllophyceae,1K,
+210,Candidatus Riflemargulisbacteria,1K,
+211,Candidatus Micrarchaeia,1K,
+212,Xylonomycetes,1K,
+213,Arthoniomycetes,1K,
+214,Candidatus Babeliae,1K,
+215,Candidatus Methanoliparia,1K,
+216,Geoglossomycetes,1K,
+217,Candidatus Nanoarchaeia,1K,
+218,Karyorelictea,1K,
+219,Candidatus Nanoperiomorbia,1K,
+220,Caldisericia,1K,
+221,Candidatus Eremiobacteria,1K,
+222,Candidatus Nanohalobia,1K,
+223,Methanopyri,1K,
+224,Candidatus Fermentibacteria (class),1K,
+225,Echinamoebida,1K,
+226,Chrysomerophyceae,1K,
+227,Pinguiophyceae,1K,
+228,Thecofilosea,1K,
+229,Conexivisphaeria,1K,
+230,Methanonatronarchaeia,1K,
+231,Candidatus Humimicrobiia,1K,
+232,Candidatus Saccharimonia,1K,
+233,Gammaproteobacteria,10K,0.02098553860173054
+234,Alphaproteobacteria,10K,0.040730526023149846
+235,Flavobacteriia,10K,0.029619170438870628
+236,Betaproteobacteria,10K,0.05773491098552285
+237,Deltaproteobacteria,10K,0.11290133942708533
+238,Coscinodiscophyceae,10K,0.05885314646701559
+239,Saprospiria,10K,0.1292199210337026
+240,Actinomycetia,10K,0.11895840388278685
+241,Bacillariophyceae,10K,0.11244139040533192
+242,Planctomycetia,10K,0.17758839970762902
+243,Trebouxiophyceae,10K,0.4829038818668629
+244,Verrucomicrobiae,10K,0.14605459900221643
+245,Gemmatimonadetes,10K,0.38030001206094344
+246,Anaerolineae,10K,0.5705127207547052
+247,Cytophagia,10K,0.20197832487007517
+248,Dinophyceae,10K,
+249,Pedinophyceae,10K,
+250,Pelagophyceae,10K,
+251,Sphingobacteriia,10K,0.4043186276767133
+252,Ktedonobacteria,10K,
+253,Mamiellophyceae,10K,0.24894915349433172
+254,Nitrospinia,10K,
+255,Rhodothermia,10K,0.5014627042462879
+256,Viruses,10K,0.17770068351376064
+257,Bacteroidia,10K,0.2834452365844804
+258,Spirotrichea,10K,0.5
+259,Bacilli,10K,0.22222222222222224
+260,Atractiellomycetes,10K,
+261,Mediophyceae,10K,0.39032623616292955
+262,Acidithiobacillia,10K,
+263,Bangiophyceae,10K,
+264,Epsilonproteobacteria,10K,0.4212708580028639
+265,Acidimicrobiia,10K,0.2739613390873894
+266,Agaricomycetes,10K,0.6546536707079771
+267,Glomeromycetes,10K,0.7071067811865475
+268,Oligoflexia,10K,0.34815531191139565
+269,Chitinophagia,10K,0.5235475903822737
+270,Chlorobia,10K,
+271,Nitrospira,10K,0.3423265984407288
+272,Holophagae,10K,
+273,Elardia,10K,
+274,Opitutae,10K,0.2803710061719192
+275,Chrysophyceae,10K,
+276,Fragilariophyceae,10K,0.7071067811865475
+277,Deferribacteres,10K,
+278,Leotiomycetes,10K,0.43301270189221935
+279,Sordariomycetes,10K,0.4330127018922193
+280,Clostridia,10K,0.3011039359538722
+281,Thermoflexia,10K,
+282,Balneolia,10K,
+283,Hydrogenophilalia,10K,
+284,Chlorophyceae,10K,0.8413197549333736
+285,Phycisphaerae,10K,0.49215295678475024
+286,Cryptophyceae,10K,0.40824829046386296
+287,Euglenida,10K,0.4
+288,Eustigmatophyceae,10K,0.4
+289,Choanoflagellata,10K,0.4714045207910316
+290,Erysipelotrichia,10K,
+291,Florideophyceae,10K,0.4
+292,Phaeophyceae,10K,0.7071067811865475
+293,Oligohymenophorea,10K,
+294,Chloroflexia,10K,
+295,Ulvophyceae,10K,
+296,Rubrobacteria,10K,0.43301270189221935
+297,Eumycetozoa,10K,
+298,Dothideomycetes,10K,
+299,Eurotiomycetes,10K,
+300,Taphrinomycetes,10K,
+301,Thermotogae,10K,
+302,Deinococci,10K,
+303,Fibrobacteria,10K,
+304,Acidobacteriia,10K,
+305,Dehalococcoidia,10K,
+306,Zetaproteobacteria,10K,
+307,Ignavibacteria,10K,0.4330127018922193
+308,Kiritimatiellae,10K,
+309,Candidatus Thermofonsia,10K,
+310,Candidatus Cryosericia,10K,
+311,Spirochaetia,10K,0.8413197549333736
+312,Chlamydiia,10K,0.49487165930539345
+313,Fusobacteriia,10K,
+314,Caldilineae,10K,0.34641016151377546
+315,Xanthophyceae,10K,
+316,Saccharomycetes,10K,
+317,Thermodesulfobacteria,10K,
+318,Stylonematophyceae,10K,
+319,Ardenticatenia,10K,
+320,Calditrichia,10K,
+321,Mortierellomycetes,10K,0.4714045207910316
+322,Zoopagomycetes,10K,
+323,Candidatus Brocadiia,10K,
+324,Thermoplasmata,10K,
+325,Thermoleophilia,10K,0.43301270189221935
+326,Kinetoplastea,10K,
+327,Mollicutes,10K,
+328,Methanomicrobia,10K,
+329,Negativicutes,10K,
+330,Lentisphaeria,10K,
+331,Tissierellia,10K,
+332,Mucoromycetes,10K,
+333,Pyramimonadophyceae,10K,
+334,Chytridiomycetes,10K,
+335,Nitriliruptoria,10K,
+336,Ustilaginomycetes,10K,
+337,Synurophyceae,10K,
+338,Heterotrichea,10K,
+339,Exobasidiomycetes,10K,
+340,Armatimonadia,10K,
+341,Candidatus Lambdaproteobacteria,10K,
+342,Bigyra,10K,
+343,Dictyochophyceae,10K,
+344,Raphidophyceae,10K,
+345,Halobacteria,10K,
+346,Neocallimastigomycetes,10K,
+347,Synergistia,10K,
+348,Thermoanaerobaculia,10K,
+349,Fimbriimonadia,10K,
+350,Vicinamibacteria,10K,
+351,Candidatus Muproteobacteria,10K,
+352,Candidatus Ozemobacteria,10K,
+353,Aconoidasida,10K,
+354,Monoblepharidomycetes,10K,
+355,Spartobacteria,10K,
+356,Chloropicophyceae,10K,
+357,Tichowtungiia,10K,
+358,Coriobacteriia,10K,
+359,Schizosaccharomycetes,10K,
+360,Tremellomycetes,10K,
+361,Entomophthoromycetes,10K,
+362,Chlorodendrophyceae,10K,
+363,Variosea,10K,
+364,Glaucocystophyceae,10K,
+365,Chrysiogenetes,10K,
+366,Microbotryomycetes,10K,
+367,Aquificae,10K,
+368,Centroplasthelida,10K,
+369,Candidatus Marinamargulisbacteria,10K,
+370,Nephroselmidophyceae,10K,
+371,Conoidasida,10K,
+372,Basidiobolomycetes,10K,
+373,Malasseziomycetes,10K,
+374,Chitinispirillia,10K,
+375,Theionarchaea,10K,
+376,Olpidiomycetes,10K,
+377,Umbelopsidomycetes,10K,
+378,Kickxellomycetes,10K,
+379,Harpellomycetes,10K,
+380,Candidatus Poseidoniia,10K,
+381,Thermodesulfovibrionia,10K,
+382,Olisthodiscophyceae,10K,
+383,Candidatus Uabimicrobiia,10K,
+384,Phytomyxea,10K,
+385,Pucciniomycetes,10K,
+386,Methanobacteria,10K,
+387,Endogonomycetes,10K,
+388,Lecanoromycetes,10K,
+389,Pezizomycetes,10K,
+390,Endomicrobia,10K,
+391,Nitrososphaeria,10K,
+392,Tepidiformia,10K,
+393,Mixiomycetes,10K,
+394,Colpodea,10K,
+395,Bolidophyceae,10K,
+396,Thermomicrobia,10K,
+397,Chitinivibrionia,10K,
+398,Dacrymycetes,10K,
+399,Chthonomonadetes,10K,
+400,Blastocatellia,10K,
+401,Candidatus Sumerlaeia,10K,
+402,Thermoprotei,10K,
+403,Orbiliomycetes,10K,
+404,Gloeobacteria,10K,
+405,Blastocladiomycetes,10K,
+406,Nanohaloarchaea,10K,
+407,Candidatus Geothermincolia,10K,
+408,Chlorarachniophyceae,10K,
+409,Neolectomycetes,10K,
+410,Archaeoglobi,10K,
+411,Compsopogonophyceae,10K,
+412,Hadesarchaea,10K,
+413,Longimicrobia,10K,
+414,Methylacidiphilae,10K,
+415,Terrimicrobia,10K,
+416,Candidatus Mcinerneyibacteria,10K,
+417,Candidatus Peribacteria,10K,
+418,Phyllopharyngea,10K,
+419,Pneumocystidomycetes,10K,
+420,Picocystophyceae,10K,
+421,Litostomatea,10K,
+422,Nassophorea,10K,
+423,Polycystinea,10K,
+424,Methanococci,10K,
+425,Dictyoglomia,10K,
+426,Armophorea,10K,
+427,Ascetosporea,10K,
+428,Coprothermobacteria,10K,
+429,Candidatus Limnocylindria,10K,
+430,Atribacteria,10K,
+431,Candidatus Aquicultoria,10K,
+432,Flabellinia,10K,
+433,Dimargaritomycetes,10K,
+434,Thermococci,10K,
+435,Limnochordia,10K,
+436,Abditibacteria,10K,
+437,Candidatus Termititenacia,10K,
+438,Candidatus Methanofastidiosa,10K,
+439,Wallemiomycetes,10K,
+440,Elusimicrobia,10K,
+441,Rhodellophyceae,10K,
+442,Palmophyllophyceae,10K,
+443,Candidatus Riflemargulisbacteria,10K,
+444,Candidatus Micrarchaeia,10K,
+445,Xylonomycetes,10K,
+446,Arthoniomycetes,10K,
+447,Candidatus Babeliae,10K,
+448,Candidatus Methanoliparia,10K,
+449,Geoglossomycetes,10K,
+450,Candidatus Nanoarchaeia,10K,
+451,Karyorelictea,10K,
+452,Candidatus Nanoperiomorbia,10K,
+453,Caldisericia,10K,
+454,Candidatus Eremiobacteria,10K,
+455,Candidatus Nanohalobia,10K,
+456,Methanopyri,10K,
+457,Candidatus Fermentibacteria (class),10K,
+458,Echinamoebida,10K,
+459,Chrysomerophyceae,10K,
+460,Pinguiophyceae,10K,
+461,Thecofilosea,10K,
+462,Conexivisphaeria,10K,
+463,Methanonatronarchaeia,10K,
+464,Candidatus Humimicrobiia,10K,
+465,Candidatus Saccharimonia,10K,
+466,Gammaproteobacteria,100K,0.013631239291724396
+467,Alphaproteobacteria,100K,0.010088693357496513
+468,Flavobacteriia,100K,0.022932041209291355
+469,Betaproteobacteria,100K,0.01166129914541047
+470,Deltaproteobacteria,100K,0.024667947481327147
+471,Coscinodiscophyceae,100K,0.04011786168132395
+472,Saprospiria,100K,0.08720288082232532
+473,Actinomycetia,100K,0.037210340082047454
+474,Bacillariophyceae,100K,0.013914597577852348
+475,Planctomycetia,100K,0.01603817138721447
+476,Trebouxiophyceae,100K,0.13671132463179075
+477,Verrucomicrobiae,100K,0.08764301486535253
+478,Gemmatimonadetes,100K,0.24660748797014545
+479,Anaerolineae,100K,0.12699751766768563
+480,Cytophagia,100K,0.018310678143289797
+481,Dinophyceae,100K,0.13780758217607414
+482,Pedinophyceae,100K,0.631906287004296
+483,Pelagophyceae,100K,0.3333333333333333
+484,Sphingobacteriia,100K,0.09112901991076275
+485,Ktedonobacteria,100K,0.5590169943749473
+486,Mamiellophyceae,100K,0.07697100416654382
+487,Nitrospinia,100K,0.26715811196765754
+488,Rhodothermia,100K,0.08498691238660407
+489,Viruses,100K,0.04676187785645947
+490,Bacteroidia,100K,0.08419652532328911
+491,Spirotrichea,100K,0.2740682007909842
+492,Bacilli,100K,0.11842104808562362
+493,Atractiellomycetes,100K,0.4714045207910316
+494,Mediophyceae,100K,0.17326035365168777
+495,Acidithiobacillia,100K,0.1666666666666666
+496,Bangiophyceae,100K,0.4255231590028169
+497,Epsilonproteobacteria,100K,0.19048941041989342
+498,Acidimicrobiia,100K,0.11610588437739774
+499,Agaricomycetes,100K,0.47453219290568566
+500,Glomeromycetes,100K,0.23980967569211126
+501,Oligoflexia,100K,0.22157137822442735
+502,Chitinophagia,100K,0.23290924551442288
+503,Chlorobia,100K,0.534291238958381
+504,Nitrospira,100K,0.13715219261436928
+505,Holophagae,100K,0.44605149670891475
+506,Elardia,100K,
+507,Opitutae,100K,0.042341492634078264
+508,Chrysophyceae,100K,
+509,Fragilariophyceae,100K,0.17384862783440183
+510,Deferribacteres,100K,0.34641016151377546
+511,Leotiomycetes,100K,0.46565731465733207
+512,Sordariomycetes,100K,0.38030001206094344
+513,Clostridia,100K,0.0739358078058318
+514,Thermoflexia,100K,0.4714045207910316
+515,Balneolia,100K,0.5770069148510867
+516,Hydrogenophilalia,100K,0.6098953339214036
+517,Chlorophyceae,100K,0.22568712322315124
+518,Phycisphaerae,100K,0.1611225405898871
+519,Cryptophyceae,100K,0.1117801137765645
+520,Euglenida,100K,0.08298826628866146
+521,Eustigmatophyceae,100K,0.4656573146573322
+522,Choanoflagellata,100K,0.5868455973269636
+523,Erysipelotrichia,100K,0.6388765649999398
+524,Florideophyceae,100K,0.5473452081269226
+525,Phaeophyceae,100K,0.38400817320977265
+526,Oligohymenophorea,100K,0.32609324671871925
+527,Chloroflexia,100K,0.3912303982179758
+528,Ulvophyceae,100K,0.4714045207910316
+529,Rubrobacteria,100K,0.4707511531578504
+530,Eumycetozoa,100K,0.7061267297367758
+531,Dothideomycetes,100K,0.23385358667337136
+532,Eurotiomycetes,100K,0.3141885053534503
+533,Taphrinomycetes,100K,
+534,Thermotogae,100K,0.43301270189221935
+535,Deinococci,100K,0.4513354669242202
+536,Fibrobacteria,100K,
+537,Acidobacteriia,100K,0.33517911826710506
+538,Dehalococcoidia,100K,0.5705127207547053
+539,Zetaproteobacteria,100K,0.28287329502457864
+540,Ignavibacteria,100K,0.14541565660971886
+541,Kiritimatiellae,100K,0.28837799078513765
+542,Candidatus Thermofonsia,100K,0.40824829046386296
+543,Candidatus Cryosericia,100K,
+544,Spirochaetia,100K,0.13462486253166292
+545,Chlamydiia,100K,0.12129525798926998
+546,Fusobacteriia,100K,0.6435846357954428
+547,Caldilineae,100K,0.46205911157505775
+548,Xanthophyceae,100K,0.6319062870042959
+549,Saccharomycetes,100K,0.3102481300269571
+550,Thermodesulfobacteria,100K,0.6928203230275509
+551,Stylonematophyceae,100K,
+552,Ardenticatenia,100K,0.4
+553,Calditrichia,100K,0.3912303982179758
+554,Mortierellomycetes,100K,0.5471012044321931
+555,Zoopagomycetes,100K,
+556,Candidatus Brocadiia,100K,0.7460835241445826
+557,Thermoplasmata,100K,0.27216552697590873
+558,Thermoleophilia,100K,0.4745198618852563
+559,Kinetoplastea,100K,0.34401045807689073
+560,Mollicutes,100K,0.4330127018922193
+561,Methanomicrobia,100K,0.6000923289995463
+562,Negativicutes,100K,0.3243911093675884
+563,Lentisphaeria,100K,0.8426500884694863
+564,Tissierellia,100K,0.3849001794597505
+565,Mucoromycetes,100K,0.6324555320336759
+566,Pyramimonadophyceae,100K,
+567,Chytridiomycetes,100K,0.3446761565477978
+568,Nitriliruptoria,100K,0.4625924443258072
+569,Ustilaginomycetes,100K,0.4714045207910316
+570,Synurophyceae,100K,
+571,Heterotrichea,100K,0.5471012044321931
+572,Exobasidiomycetes,100K,
+573,Armatimonadia,100K,
+574,Candidatus Lambdaproteobacteria,100K,0.4714045207910316
+575,Bigyra,100K,0.21114359724058104
+576,Dictyochophyceae,100K,0.282842712474619
+577,Raphidophyceae,100K,0.4750730937913075
+578,Halobacteria,100K,0.4999999999999999
+579,Neocallimastigomycetes,100K,0.5590169943749473
+580,Synergistia,100K,0.34641016151377546
+581,Thermoanaerobaculia,100K,0.6666666666666666
+582,Fimbriimonadia,100K,0.43301270189221935
+583,Vicinamibacteria,100K,0.4
+584,Candidatus Muproteobacteria,100K,0.686978002202548
+585,Candidatus Ozemobacteria,100K,
+586,Aconoidasida,100K,0.7200822998230955
+587,Monoblepharidomycetes,100K,0.4714045207910316
+588,Spartobacteria,100K,0.5926547641093316
+589,Chloropicophyceae,100K,0.4255231590028169
+590,Tichowtungiia,100K,0.5773502691896256
+591,Coriobacteriia,100K,0.38030001206094344
+592,Schizosaccharomycetes,100K,0.4714045207910316
+593,Tremellomycetes,100K,0.6123724356957946
+594,Entomophthoromycetes,100K,
+595,Chlorodendrophyceae,100K,0.3849001794597505
+596,Variosea,100K,
+597,Glaucocystophyceae,100K,0.43301270189221935
+598,Chrysiogenetes,100K,0.43301270189221935
+599,Microbotryomycetes,100K,
+600,Aquificae,100K,0.6972166887783962
+601,Centroplasthelida,100K,
+602,Candidatus Marinamargulisbacteria,100K,0.4714045207910316
+603,Nephroselmidophyceae,100K,0.4714045207910316
+604,Conoidasida,100K,0.5061943174124038
+605,Basidiobolomycetes,100K,
+606,Malasseziomycetes,100K,
+607,Chitinispirillia,100K,
+608,Theionarchaea,100K,
+609,Olpidiomycetes,100K,
+610,Umbelopsidomycetes,100K,0.39999999999999997
+611,Kickxellomycetes,100K,
+612,Harpellomycetes,100K,0.2857142857142857
+613,Candidatus Poseidoniia,100K,0.37267799624996495
+614,Thermodesulfovibrionia,100K,
+615,Olisthodiscophyceae,100K,
+616,Candidatus Uabimicrobiia,100K,
+617,Phytomyxea,100K,0.45825756949558394
+618,Pucciniomycetes,100K,0.7071067811865476
+619,Methanobacteria,100K,
+620,Endogonomycetes,100K,
+621,Lecanoromycetes,100K,0.4714045207910316
+622,Pezizomycetes,100K,
+623,Endomicrobia,100K,
+624,Nitrososphaeria,100K,0.43301270189221935
+625,Tepidiformia,100K,
+626,Mixiomycetes,100K,0.4714045207910316
+627,Colpodea,100K,
+628,Bolidophyceae,100K,0.4714045207910316
+629,Thermomicrobia,100K,0.43301270189221935
+630,Chitinivibrionia,100K,
+631,Dacrymycetes,100K,
+632,Chthonomonadetes,100K,
+633,Blastocatellia,100K,0.43301270189221935
+634,Candidatus Sumerlaeia,100K,
+635,Thermoprotei,100K,
+636,Orbiliomycetes,100K,
+637,Gloeobacteria,100K,
+638,Blastocladiomycetes,100K,
+639,Nanohaloarchaea,100K,
+640,Candidatus Geothermincolia,100K,
+641,Chlorarachniophyceae,100K,
+642,Neolectomycetes,100K,
+643,Archaeoglobi,100K,
+644,Compsopogonophyceae,100K,
+645,Hadesarchaea,100K,
+646,Longimicrobia,100K,
+647,Methylacidiphilae,100K,
+648,Terrimicrobia,100K,
+649,Candidatus Mcinerneyibacteria,100K,
+650,Candidatus Peribacteria,100K,
+651,Phyllopharyngea,100K,
+652,Pneumocystidomycetes,100K,
+653,Picocystophyceae,100K,
+654,Litostomatea,100K,
+655,Nassophorea,100K,
+656,Polycystinea,100K,
+657,Methanococci,100K,
+658,Dictyoglomia,100K,
+659,Armophorea,100K,
+660,Ascetosporea,100K,
+661,Coprothermobacteria,100K,
+662,Candidatus Limnocylindria,100K,
+663,Atribacteria,100K,
+664,Candidatus Aquicultoria,100K,
+665,Flabellinia,100K,
+666,Dimargaritomycetes,100K,
+667,Thermococci,100K,
+668,Limnochordia,100K,
+669,Abditibacteria,100K,
+670,Candidatus Termititenacia,100K,
+671,Candidatus Methanofastidiosa,100K,
+672,Wallemiomycetes,100K,
+673,Elusimicrobia,100K,
+674,Rhodellophyceae,100K,
+675,Palmophyllophyceae,100K,
+676,Candidatus Riflemargulisbacteria,100K,
+677,Candidatus Micrarchaeia,100K,
+678,Xylonomycetes,100K,
+679,Arthoniomycetes,100K,
+680,Candidatus Babeliae,100K,
+681,Candidatus Methanoliparia,100K,
+682,Geoglossomycetes,100K,
+683,Candidatus Nanoarchaeia,100K,
+684,Karyorelictea,100K,
+685,Candidatus Nanoperiomorbia,100K,
+686,Caldisericia,100K,
+687,Candidatus Eremiobacteria,100K,
+688,Candidatus Nanohalobia,100K,
+689,Methanopyri,100K,
+690,Candidatus Fermentibacteria (class),100K,
+691,Echinamoebida,100K,
+692,Chrysomerophyceae,100K,
+693,Pinguiophyceae,100K,
+694,Thecofilosea,100K,
+695,Conexivisphaeria,100K,
+696,Methanonatronarchaeia,100K,
+697,Candidatus Humimicrobiia,100K,
+698,Candidatus Saccharimonia,100K,
+699,Gammaproteobacteria,1M,0.0017796189983273196
+700,Alphaproteobacteria,1M,0.0029031460546345925
+701,Flavobacteriia,1M,0.003262637789649109
+702,Betaproteobacteria,1M,0.015260006062365218
+703,Deltaproteobacteria,1M,0.016003429130921332
+704,Coscinodiscophyceae,1M,0.01893782198542529
+705,Saprospiria,1M,0.018200548204995816
+706,Actinomycetia,1M,0.008954159506132542
+707,Bacillariophyceae,1M,0.010699726890085986
+708,Planctomycetia,1M,0.016222306925076684
+709,Trebouxiophyceae,1M,0.01946090657735042
+710,Verrucomicrobiae,1M,0.019877033043266504
+711,Gemmatimonadetes,1M,0.09984567971057852
+712,Anaerolineae,1M,0.03994036949942721
+713,Cytophagia,1M,0.012707596025148983
+714,Dinophyceae,1M,0.0453740277942583
+715,Pedinophyceae,1M,0.34471315683307935
+716,Pelagophyceae,1M,0.10644083276123995
+717,Sphingobacteriia,1M,0.0058107717568097565
+718,Ktedonobacteria,1M,0.3134507697255684
+719,Mamiellophyceae,1M,0.01129977985936549
+720,Nitrospinia,1M,0.10847737300607724
+721,Rhodothermia,1M,0.043274491481406656
+722,Viruses,1M,0.048320636363670205
+723,Bacteroidia,1M,0.037345842973837626
+724,Spirotrichea,1M,0.12962425977323772
+725,Bacilli,1M,0.034906763311779825
+726,Atractiellomycetes,1M,0.6085806194501846
+727,Mediophyceae,1M,0.015196276002803403
+728,Acidithiobacillia,1M,0.16992989923956026
+729,Bangiophyceae,1M,0.24842328236084255
+730,Epsilonproteobacteria,1M,0.05703208770265553
+731,Acidimicrobiia,1M,0.029319672491562514
+732,Agaricomycetes,1M,0.07042042591885683
+733,Glomeromycetes,1M,0.09739810041063295
+734,Oligoflexia,1M,0.04232163431986366
+735,Chitinophagia,1M,0.046683717205217516
+736,Chlorobia,1M,0.16196776161994167
+737,Nitrospira,1M,0.061322834173525104
+738,Holophagae,1M,0.1136329855729661
+739,Elardia,1M,
+740,Opitutae,1M,0.02409271614744379
+741,Chrysophyceae,1M,0.3761078310693836
+742,Fragilariophyceae,1M,0.06171097637230874
+743,Deferribacteres,1M,0.18372443549727793
+744,Leotiomycetes,1M,0.21379598941461167
+745,Sordariomycetes,1M,0.07071067811865474
+746,Clostridia,1M,0.028339252003978133
+747,Thermoflexia,1M,0.22612433149569616
+748,Balneolia,1M,0.09677148771134662
+749,Hydrogenophilalia,1M,0.12283505009457912
+750,Chlorophyceae,1M,0.03842490253105149
+751,Phycisphaerae,1M,0.026024557098140347
+752,Cryptophyceae,1M,0.03741011974487882
+753,Euglenida,1M,0.07654172243504895
+754,Eustigmatophyceae,1M,0.14509255338728763
+755,Choanoflagellata,1M,0.07229353531251285
+756,Erysipelotrichia,1M,0.1380762040688991
+757,Florideophyceae,1M,0.1935363762806163
+758,Phaeophyceae,1M,0.1675975189311839
+759,Oligohymenophorea,1M,0.1392771825712482
+760,Chloroflexia,1M,0.15108784424285157
+761,Ulvophyceae,1M,0.2565639165054103
+762,Rubrobacteria,1M,0.1633072914311419
+763,Eumycetozoa,1M,0.19136638615493573
+764,Dothideomycetes,1M,0.08267216858936027
+765,Eurotiomycetes,1M,0.18909703016609805
+766,Taphrinomycetes,1M,0.22017369119317784
+767,Thermotogae,1M,0.11571603327573934
+768,Deinococci,1M,0.14766737304866404
+769,Fibrobacteria,1M,0.18108895570007358
+770,Acidobacteriia,1M,0.17185637117495878
+771,Dehalococcoidia,1M,0.14400306495366474
+772,Zetaproteobacteria,1M,0.11184422538680307
+773,Ignavibacteria,1M,0.14007471278106515
+774,Kiritimatiellae,1M,0.11263143079803298
+775,Candidatus Thermofonsia,1M,0.11098530327057077
+776,Candidatus Cryosericia,1M,0.39123039821797584
+777,Spirochaetia,1M,0.04067234459979167
+778,Chlamydiia,1M,0.10247491180866287
+779,Fusobacteriia,1M,0.051004478389812584
+780,Caldilineae,1M,0.05407380704358752
+781,Xanthophyceae,1M,0.210818510677892
+782,Saccharomycetes,1M,0.05773502691896252
+783,Thermodesulfobacteria,1M,0.06481090123120987
+784,Stylonematophyceae,1M,0.5
+785,Ardenticatenia,1M,0.16751484856512247
+786,Calditrichia,1M,0.21502123350817015
+787,Mortierellomycetes,1M,0.24166091947189144
+788,Zoopagomycetes,1M,0.2614562582918986
+789,Candidatus Brocadiia,1M,0.14917075726155138
+790,Thermoplasmata,1M,0.1453889211816659
+791,Thermoleophilia,1M,0.06073871862125244
+792,Kinetoplastea,1M,0.18107455235345857
+793,Mollicutes,1M,0.09105391988558546
+794,Methanomicrobia,1M,0.13037222960659664
+795,Negativicutes,1M,0.15909902576697318
+796,Lentisphaeria,1M,0.12610738164812513
+797,Tissierellia,1M,0.2586376307428623
+798,Mucoromycetes,1M,0.20154656421606224
+799,Pyramimonadophyceae,1M,0.3905288278548064
+800,Chytridiomycetes,1M,0.17982362837101634
+801,Nitriliruptoria,1M,0.135963881858513
+802,Ustilaginomycetes,1M,0.42377366716560716
+803,Synurophyceae,1M,0.41110230118647634
+804,Heterotrichea,1M,0.1333783360267401
+805,Exobasidiomycetes,1M,0.17810540797843832
+806,Armatimonadia,1M,0.2507385540462558
+807,Candidatus Lambdaproteobacteria,1M,0.4714045207910316
+808,Bigyra,1M,0.12455967213813374
+809,Dictyochophyceae,1M,0.08049555547707231
+810,Raphidophyceae,1M,0.14860689544713815
+811,Halobacteria,1M,0.28
+812,Neocallimastigomycetes,1M,0.1685499656158105
+813,Synergistia,1M,0.3440487269586881
+814,Thermoanaerobaculia,1M,0.2582395605971806
+815,Fimbriimonadia,1M,0.28523840334983314
+816,Vicinamibacteria,1M,0.0909413072319648
+817,Candidatus Muproteobacteria,1M,0.09877579401822197
+818,Candidatus Ozemobacteria,1M,0.8571428571428573
+819,Aconoidasida,1M,0.21383266517260524
+820,Monoblepharidomycetes,1M,0.6976872406904875
+821,Spartobacteria,1M,0.15471102134617398
+822,Chloropicophyceae,1M,0.28884214365396427
+823,Tichowtungiia,1M,0.40620192023179796
+824,Coriobacteriia,1M,0.2007218378710874
+825,Schizosaccharomycetes,1M,0.4714045207910318
+826,Tremellomycetes,1M,0.24996408819919705
+827,Entomophthoromycetes,1M,0.44628203812223394
+828,Chlorodendrophyceae,1M,0.3364055948997212
+829,Variosea,1M,0.2019449900565147
+830,Glaucocystophyceae,1M,0.3102481300269572
+831,Chrysiogenetes,1M,0.38540102570865575
+832,Microbotryomycetes,1M,0.41286141192238524
+833,Aquificae,1M,0.25416321426045996
+834,Centroplasthelida,1M,0.5590169943749475
+835,Candidatus Marinamargulisbacteria,1M,0.5926547641093316
+836,Nephroselmidophyceae,1M,0.29614946106471113
+837,Conoidasida,1M,0.31794023242431974
+838,Basidiobolomycetes,1M,0.3510981290092154
+839,Malasseziomycetes,1M,0.30900827029565264
+840,Chitinispirillia,1M,0.8660254037844387
+841,Theionarchaea,1M,0.43301270189221935
+842,Olpidiomycetes,1M,0.6666666666666666
+843,Umbelopsidomycetes,1M,0.21114359724058107
+844,Kickxellomycetes,1M,0.46565731465733207
+845,Harpellomycetes,1M,0.22821773229381925
+846,Candidatus Poseidoniia,1M,0.3661507312906685
+847,Thermodesulfovibrionia,1M,0.5336321894427541
+848,Olisthodiscophyceae,1M,
+849,Candidatus Uabimicrobiia,1M,0.21029685178073057
+850,Phytomyxea,1M,0.1613153565718017
+851,Pucciniomycetes,1M,0.2671581119676576
+852,Methanobacteria,1M,0.2614562582918985
+853,Endogonomycetes,1M,0.3637652289278589
+854,Lecanoromycetes,1M,0.46481112585226425
+855,Pezizomycetes,1M,0.2874309805554531
+856,Endomicrobia,1M,0.57282196186948
+857,Nitrososphaeria,1M,0.5926547641093317
+858,Tepidiformia,1M,0.9938079899999063
+859,Mixiomycetes,1M,0.6123724356957945
+860,Colpodea,1M,
+861,Bolidophyceae,1M,0.38213201686406945
+862,Thermomicrobia,1M,0.2978016741735238
+863,Chitinivibrionia,1M,0.5926547641093317
+864,Dacrymycetes,1M,0.6666666666666669
+865,Chthonomonadetes,1M,0.3849001794597505
+866,Blastocatellia,1M,0.3192425318836931
+867,Candidatus Sumerlaeia,1M,
+868,Thermoprotei,1M,0.5099019513592784
+869,Orbiliomycetes,1M,0.49215295678475035
+870,Gloeobacteria,1M,0.42695628191498325
+871,Blastocladiomycetes,1M,0.17496355305594125
+872,Nanohaloarchaea,1M,
+873,Candidatus Geothermincolia,1M,
+874,Chlorarachniophyceae,1M,0.7497534111391513
+875,Neolectomycetes,1M,0.5471012044321932
+876,Archaeoglobi,1M,0.4330127018922193
+877,Compsopogonophyceae,1M,0.3912303982179758
+878,Hadesarchaea,1M,0.34641016151377546
+879,Longimicrobia,1M,0.4074501503251656
+880,Methylacidiphilae,1M,0.46481112585226425
+881,Terrimicrobia,1M,0.4
+882,Candidatus Mcinerneyibacteria,1M,0.7071067811865475
+883,Candidatus Peribacteria,1M,0.5
+884,Phyllopharyngea,1M,0.37267799624996495
+885,Pneumocystidomycetes,1M,0.5590169943749475
+886,Picocystophyceae,1M,0.4750730937913075
+887,Litostomatea,1M,0.4330127018922193
+888,Nassophorea,1M,
+889,Polycystinea,1M,
+890,Methanococci,1M,0.5000000000000001
+891,Dictyoglomia,1M,
+892,Armophorea,1M,
+893,Ascetosporea,1M,
+894,Coprothermobacteria,1M,
+895,Candidatus Limnocylindria,1M,
+896,Atribacteria,1M,
+897,Candidatus Aquicultoria,1M,0.4
+898,Flabellinia,1M,0.8660254037844386
+899,Dimargaritomycetes,1M,0.4714045207910316
+900,Thermococci,1M,
+901,Limnochordia,1M,0.24743582965269684
+902,Abditibacteria,1M,0.4082482904638631
+903,Candidatus Termititenacia,1M,0.49487165930539356
+904,Candidatus Methanofastidiosa,1M,0.34641016151377546
+905,Wallemiomycetes,1M,0.4
+906,Elusimicrobia,1M,
+907,Rhodellophyceae,1M,
+908,Palmophyllophyceae,1M,
+909,Candidatus Riflemargulisbacteria,1M,
+910,Candidatus Micrarchaeia,1M,
+911,Xylonomycetes,1M,0.4714045207910316
+912,Arthoniomycetes,1M,
+913,Candidatus Babeliae,1M,
+914,Candidatus Methanoliparia,1M,
+915,Geoglossomycetes,1M,
+916,Candidatus Nanoarchaeia,1M,
+917,Karyorelictea,1M,
+918,Candidatus Nanoperiomorbia,1M,
+919,Caldisericia,1M,
+920,Candidatus Eremiobacteria,1M,
+921,Candidatus Nanohalobia,1M,
+922,Methanopyri,1M,
+923,Candidatus Fermentibacteria (class),1M,
+924,Echinamoebida,1M,
+925,Chrysomerophyceae,1M,
+926,Pinguiophyceae,1M,
+927,Thecofilosea,1M,
+928,Conexivisphaeria,1M,
+929,Methanonatronarchaeia,1M,
+930,Candidatus Humimicrobiia,1M,
+931,Candidatus Saccharimonia,1M,
+932,Gammaproteobacteria,10M,0.0007445129824194495
+933,Alphaproteobacteria,10M,0.0006320926601377085
+934,Flavobacteriia,10M,0.0007801137742491672
+935,Betaproteobacteria,10M,0.0028733552144469383
+936,Deltaproteobacteria,10M,0.0018658466277476804
+937,Coscinodiscophyceae,10M,0.0009325252569289236
+938,Saprospiria,10M,0.003967040335101741
+939,Actinomycetia,10M,0.0015692560148120637
+940,Bacillariophyceae,10M,0.00048431988434583954
+941,Planctomycetia,10M,0.0037773743137224113
+942,Trebouxiophyceae,10M,0.0011903302580813934
+943,Verrucomicrobiae,10M,0.0016826067558266737
+944,Gemmatimonadetes,10M,0.015365791498361668
+945,Anaerolineae,10M,0.006340227050437392
+946,Cytophagia,10M,0.0016847809457056868
+947,Dinophyceae,10M,0.012232319584476141
+948,Pedinophyceae,10M,0.06745384813799687
+949,Pelagophyceae,10M,0.01802342151476458
+950,Sphingobacteriia,10M,0.009475368297584306
+951,Ktedonobacteria,10M,0.02110999378643936
+952,Mamiellophyceae,10M,0.004932298726367529
+953,Nitrospinia,10M,0.013772386363029914
+954,Rhodothermia,10M,0.004968624817356463
+955,Viruses,10M,0.006743895129762408
+956,Bacteroidia,10M,0.0019731037186468295
+957,Spirotrichea,10M,0.01232389961809724
+958,Bacilli,10M,0.01571964220136434
+959,Atractiellomycetes,10M,0.07557067120151162
+960,Mediophyceae,10M,0.015778284264645705
+961,Acidithiobacillia,10M,0.032961814025871713
+962,Bangiophyceae,10M,0.04418144406874904
+963,Epsilonproteobacteria,10M,0.009864699856001418
+964,Acidimicrobiia,10M,0.003825761343962859
+965,Agaricomycetes,10M,0.019250765523722478
+966,Glomeromycetes,10M,0.013421022614223458
+967,Oligoflexia,10M,0.01170474330985024
+968,Chitinophagia,10M,0.009175109260004515
+969,Chlorobia,10M,0.04034836660083838
+970,Nitrospira,10M,0.005302933617410735
+971,Holophagae,10M,0.026010643626295005
+972,Elardia,10M,0.2222222222222222
+973,Opitutae,10M,0.00449375659521472
+974,Chrysophyceae,10M,0.03436916881197309
+975,Fragilariophyceae,10M,0.018244815349103473
+976,Deferribacteres,10M,0.014259656863277568
+977,Leotiomycetes,10M,0.009897846056590259
+978,Sordariomycetes,10M,0.026426260377369126
+979,Clostridia,10M,0.0044184021637525845
+980,Thermoflexia,10M,0.08549196301199875
+981,Balneolia,10M,0.01725146552616268
+982,Hydrogenophilalia,10M,0.020221739113695687
+983,Chlorophyceae,10M,0.02037312154959794
+984,Phycisphaerae,10M,0.004039714378798213
+985,Cryptophyceae,10M,0.009237884287882336
+986,Euglenida,10M,0.021750867136409998
+987,Eustigmatophyceae,10M,0.010095825279232721
+988,Choanoflagellata,10M,0.023748685949248793
+989,Erysipelotrichia,10M,0.05472425255882987
+990,Florideophyceae,10M,0.02005672934567684
+991,Phaeophyceae,10M,0.03150738770471252
+992,Oligohymenophorea,10M,0.016203368902117616
+993,Chloroflexia,10M,0.061383759415982474
+994,Ulvophyceae,10M,0.028355723824324816
+995,Rubrobacteria,10M,0.021657804170640088
+996,Eumycetozoa,10M,0.023844502265585477
+997,Dothideomycetes,10M,0.01655473610138267
+998,Eurotiomycetes,10M,0.025872958121360763
+999,Taphrinomycetes,10M,0.20993849958796232
+1000,Thermotogae,10M,0.03565244274890153
+1001,Deinococci,10M,0.029496978299310216
+1002,Fibrobacteria,10M,0.12039400451422477
+1003,Acidobacteriia,10M,0.012699229170953
+1004,Dehalococcoidia,10M,0.03068963125593995
+1005,Zetaproteobacteria,10M,0.020590594716613942
+1006,Ignavibacteria,10M,0.01943596388661678
+1007,Kiritimatiellae,10M,0.019636937567555742
+1008,Candidatus Thermofonsia,10M,0.0338069677102897
+1009,Candidatus Cryosericia,10M,0.19354838709677424
+1010,Spirochaetia,10M,0.0177505197415881
+1011,Chlamydiia,10M,0.006970882367682341
+1012,Fusobacteriia,10M,0.013729977116704827
+1013,Caldilineae,10M,0.012209004579845464
+1014,Xanthophyceae,10M,0.030405569912442646
+1015,Saccharomycetes,10M,0.03269791587504425
+1016,Thermodesulfobacteria,10M,0.046700137394079425
+1017,Stylonematophyceae,10M,0.12686478848054342
+1018,Ardenticatenia,10M,0.03151164217713093
+1019,Calditrichia,10M,0.03183741618513846
+1020,Mortierellomycetes,10M,0.04172680696689413
+1021,Zoopagomycetes,10M,0.09712749541193934
+1022,Candidatus Brocadiia,10M,0.03231212388438903
+1023,Thermoplasmata,10M,0.025170825409184402
+1024,Thermoleophilia,10M,0.012776463215885955
+1025,Kinetoplastea,10M,0.046040925551613064
+1026,Mollicutes,10M,0.039951841711826544
+1027,Methanomicrobia,10M,0.03377090726996855
+1028,Negativicutes,10M,0.029586266966233215
+1029,Lentisphaeria,10M,0.017553132513835897
+1030,Tissierellia,10M,0.06376504256149532
+1031,Mucoromycetes,10M,0.03195096480348864
+1032,Pyramimonadophyceae,10M,0.03671074261807976
+1033,Chytridiomycetes,10M,0.019636313259580016
+1034,Nitriliruptoria,10M,0.032573289902280145
+1035,Ustilaginomycetes,10M,0.039690040398925035
+1036,Synurophyceae,10M,0.1213390194761246
+1037,Heterotrichea,10M,0.023630154726982027
+1038,Exobasidiomycetes,10M,0.05069416997762566
+1039,Armatimonadia,10M,0.035855403138977296
+1040,Candidatus Lambdaproteobacteria,10M,0.07909641021583708
+1041,Bigyra,10M,0.022916610332885546
+1042,Dictyochophyceae,10M,0.029395250473792024
+1043,Raphidophyceae,10M,0.052272958515102726
+1044,Halobacteria,10M,0.023304513779058934
+1045,Neocallimastigomycetes,10M,0.030728365948892927
+1046,Synergistia,10M,0.008844592219458153
+1047,Thermoanaerobaculia,10M,0.06740611724972677
+1048,Fimbriimonadia,10M,0.11971033059110166
+1049,Vicinamibacteria,10M,0.02210776864284704
+1050,Candidatus Muproteobacteria,10M,0.03814792307165934
+1051,Candidatus Ozemobacteria,10M,0.07422696190252054
+1052,Aconoidasida,10M,0.04057687721066462
+1053,Monoblepharidomycetes,10M,0.07132526430871827
+1054,Spartobacteria,10M,0.07799982280677756
+1055,Chloropicophyceae,10M,0.043415340086830664
+1056,Tichowtungiia,10M,0.07469947228744206
+1057,Coriobacteriia,10M,0.04854531659259196
+1058,Schizosaccharomycetes,10M,0.09038528282728325
+1059,Tremellomycetes,10M,0.029173419773095604
+1060,Entomophthoromycetes,10M,0.08743626554852404
+1061,Chlorodendrophyceae,10M,0.017487253109704788
+1062,Variosea,10M,0.04324798340114183
+1063,Glaucocystophyceae,10M,0.07777695191408654
+1064,Chrysiogenetes,10M,0.09292260846568742
+1065,Microbotryomycetes,10M,0.09006340656629803
+1066,Aquificae,10M,0.07206431844724541
+1067,Centroplasthelida,10M,0.08230482542939437
+1068,Candidatus Marinamargulisbacteria,10M,0.056020294613146025
+1069,Nephroselmidophyceae,10M,0.03344327364282198
+1070,Conoidasida,10M,0.05042779824626655
+1071,Basidiobolomycetes,10M,0.0782847822630001
+1072,Malasseziomycetes,10M,0.06210337996257329
+1073,Chitinispirillia,10M,0.15514283231791834
+1074,Theionarchaea,10M,0.13941429613550474
+1075,Olpidiomycetes,10M,0.12679453935510587
+1076,Umbelopsidomycetes,10M,0.09997917317482358
+1077,Kickxellomycetes,10M,0.1547801460658598
+1078,Harpellomycetes,10M,0.06041958764233379
+1079,Candidatus Poseidoniia,10M,0.08908061450931257
+1080,Thermodesulfovibrionia,10M,0.11208462411483097
+1081,Olisthodiscophyceae,10M,0.3061862178478973
+1082,Candidatus Uabimicrobiia,10M,0.06467404386964014
+1083,Phytomyxea,10M,0.06912333585216726
+1084,Pucciniomycetes,10M,0.09935335810802576
+1085,Methanobacteria,10M,0.06734350297014743
+1086,Endogonomycetes,10M,0.04276756222853035
+1087,Lecanoromycetes,10M,0.06151943016787335
+1088,Pezizomycetes,10M,0.08121772370691276
+1089,Endomicrobia,10M,0.280056016805602
+1090,Nitrososphaeria,10M,0.1204310827366463
+1091,Tepidiformia,10M,0.14052135582093275
+1092,Mixiomycetes,10M,0.05785313743502493
+1093,Colpodea,10M,
+1094,Bolidophyceae,10M,0.07121693075173478
+1095,Thermomicrobia,10M,0.03723575728467337
+1096,Chitinivibrionia,10M,0.14540037918743245
+1097,Dacrymycetes,10M,
+1098,Chthonomonadetes,10M,0.10169491525423724
+1099,Blastocatellia,10M,0.051193035330056265
+1100,Candidatus Sumerlaeia,10M,0.2013289182738867
+1101,Thermoprotei,10M,0.0549857399228215
+1102,Orbiliomycetes,10M,0.06384393000597881
+1103,Gloeobacteria,10M,0.08530886367537568
+1104,Blastocladiomycetes,10M,0.06077706637436212
+1105,Nanohaloarchaea,10M,0.20412414523193148
+1106,Candidatus Geothermincolia,10M,0.28688765527462345
+1107,Chlorarachniophyceae,10M,0.09001028747788702
+1108,Neolectomycetes,10M,0.13333333333333333
+1109,Archaeoglobi,10M,0.24444947432076727
+1110,Compsopogonophyceae,10M,0.06520506636966264
+1111,Hadesarchaea,10M,0.13953488372093023
+1112,Longimicrobia,10M,0.13323467750529824
+1113,Methylacidiphilae,10M,0.13362538823488046
+1114,Terrimicrobia,10M,0.2868876552746235
+1115,Candidatus Mcinerneyibacteria,10M,0.12420546382981329
+1116,Candidatus Peribacteria,10M,0.10497277621629557
+1117,Phyllopharyngea,10M,0.14401645996461915
+1118,Pneumocystidomycetes,10M,0.1462911079597989
+1119,Picocystophyceae,10M,0.08781607059835028
+1120,Litostomatea,10M,0.16495721976846447
+1121,Nassophorea,10M,
+1122,Polycystinea,10M,0.3464101615137755
+1123,Methanococci,10M,0.1456798087922095
+1124,Dictyoglomia,10M,0.2449489742783178
+1125,Armophorea,10M,0.15713484026367724
+1126,Ascetosporea,10M,0.282842712474619
+1127,Coprothermobacteria,10M,0.16650906221849357
+1128,Candidatus Limnocylindria,10M,0.27755546659548436
+1129,Atribacteria,10M,0.1818181818181818
+1130,Candidatus Aquicultoria,10M,0.03921568627450984
+1131,Flabellinia,10M,0.12353898164597911
+1132,Dimargaritomycetes,10M,0.17718429716424697
+1133,Thermococci,10M,0.08141804080000392
+1134,Limnochordia,10M,0.15214515486254612
+1135,Abditibacteria,10M,0.10154468290078698
+1136,Candidatus Termititenacia,10M,0.10526315789473684
+1137,Candidatus Methanofastidiosa,10M,0.18181818181818185
+1138,Wallemiomycetes,10M,0.16597653257732312
+1139,Elusimicrobia,10M,0.2649064714130088
+1140,Rhodellophyceae,10M,0.2442541224000118
+1141,Palmophyllophyceae,10M,0.1360827634879543
+1142,Candidatus Riflemargulisbacteria,10M,0.35954213213893327
+1143,Candidatus Micrarchaeia,10M,0.4
+1144,Xylonomycetes,10M,0.26646935501059654
+1145,Arthoniomycetes,10M,0.18181818181818182
+1146,Candidatus Babeliae,10M,0.2442541224000118
+1147,Candidatus Methanoliparia,10M,0.20412414523193148
+1148,Geoglossomycetes,10M,0.19354838709677422
+1149,Candidatus Nanoarchaeia,10M,0.21650635094610962
+1150,Karyorelictea,10M,
+1151,Candidatus Nanoperiomorbia,10M,
+1152,Caldisericia,10M,0.6928203230275509
+1153,Candidatus Eremiobacteria,10M,0.2721655269759086
+1154,Candidatus Nanohalobia,10M,0.2721655269759086
+1155,Methanopyri,10M,0.3464101615137755
+1156,Candidatus Fermentibacteria (class),10M,0.38490017945975047
+1157,Echinamoebida,10M,0.3464101615137755
+1158,Chrysomerophyceae,10M,
+1159,Pinguiophyceae,10M,0.4
+1160,Thecofilosea,10M,
+1161,Conexivisphaeria,10M,
+1162,Methanonatronarchaeia,10M,
+1163,Candidatus Humimicrobiia,10M,
+1164,Candidatus Saccharimonia,10M,

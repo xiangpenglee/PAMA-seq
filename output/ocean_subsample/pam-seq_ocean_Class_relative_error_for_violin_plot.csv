@@ -1,0 +1,3316 @@
+,Class,read count,relative error
+0,Magnoliopsida,1000,0.07579688609962656
+1,Rhizaria,1000,0.15010391350111332
+2,Gammaproteobacteria,1000,0.06847434694697295
+3,Alveolata,1000,0.22612623885033675
+4,Flavobacteriia,1000,0.20395469946537384
+5,Alphaproteobacteria,1000,0.33310583062768645
+6,Arthropoda,1000,0.1810572873795776
+7,Cyanobacteriia,1000,0.16524281523175724
+8,Chloroplast,1000,0.1924665586646545
+9,Conoidasida,1000,0.4214600316879091
+10,Bacillariophyceae,1000,0.2872281323269014
+11,uncultured bacterium   ,1000,0.40745015032515625
+12,Rhabditophora,1000,0.6060915267313256
+13,Nematoda,1000,0.12121830534626284
+14,Chordata,1000,0.31922819482021797
+15,Coscinodiscophyceae,1000,0.3849001794597467
+16,Gastrotricha,1000,
+17,Betaproteobacteria,1000,0.415945165403847
+18,Litostomatea,1000,
+19,Gnetopsida,1000,
+20,Arachnida,1000,0.47140452079102857
+21,Chromadorea,1000,0.176776695296625
+22,LKM74,1000,0.31491832864887276
+23,Chlorophyceae,1000,0.4714045207910267
+24,Insecta,1000,
+25,Dinophyceae,1000,0.21650635094610543
+26,Aconoidasida,1000,0.5656854249492199
+27,Pinopsida,1000,
+28,Bacilli,1000,
+29,Bacteroidia,1000,
+30,Actinobacteria,1000,0.1571348402636667
+31,Clostridia,1000,
+32,Stramenopiles,1000,0.12856486930663638
+33,Xenacoelomorpha,1000,
+34,Actinomycetes,1000,
+35,Coriobacteriia,1000,
+36,Tremellomycetes,1000,
+37,Cytophagia,1000,
+38,Pichiomycetes,1000,
+39,Deltaproteobacteria,1000,
+40,Sphingobacteriia,1000,
+41,Sordariomycetes,1000,
+42,Methanomicrobia,1000,
+43,Klebsormidiophyceae,1000,
+44,Verrucomicrobiae,1000,
+45,Saccharomycetes,1000,
+46,Chloroplastida,1000,
+47,Platyhelminthes,1000,
+48,Methanobacteria,1000,
+49,uncultured archaeon   ,1000,
+50,Planctomycetacia,1000,
+51,Zygnematophyceae,1000,
+52,Verrucomicrobiia,1000,
+53,Thermoplasmata,1000,
+54,Aenigmarchaeota Unknown Order,1000,
+55,Desulfuromonadia,1000,
+56,Candidatus Collierbacteria,1000,
+57,Eurotiomycetes,1000,
+58,Planctomycetia,1000,
+59,Acidimicrobiia,1000,
+60,Desulfobulbia,1000,
+61,Craspedida,1000,
+62,Mediophyceae,1000,
+63,Bacteroidetes Order II,1000,
+64,Elardia,1000,
+65,Desulfobacteria,1000,
+66,Scyphozoa,1000,
+67,Marine Benthic Group A,1000,
+68,Fragilariophyceae,1000,
+69,Euglenida,1000,
+70,Amoeboaphelidium,1000,
+71,Annelida,1000,
+72,Kickxellales,1000,
+73,Intramacronucleata,1000,
+74,Discosea,1000,
+75,Prymnesiophyceae,1000,
+76,Karyorelictea,1000,
+77,Acanthocystidae,1000,
+78,Bigyra,1000,
+79,Epsilonproteobacteria,1000,
+80,uncultured Epsilonproteobacteria bacterium  ,1000,
+81,Oligohymenophorea,1000,
+82,Endogonomycetes,1000,
+83,Gracilibacteria,1000,
+84,Bacteriovoracia,1000,
+85,Prostomatea,1000,
+86,Diplonemea,1000,
+87,Cryptophyceae,1000,
+88,Kinetoplastea,1000,
+89,OM190,1000,
+90,Phycisphaerae,1000,
+91,Agaricomycetes,1000,
+92,Opitutae,1000,
+93,Chytridiomycetes,1000,
+94,Actinopteri,1000,
+95,Entomophthoromycotina,1000,
+96,Marine Group I,1000,
+97,Anthocerotopsida,1000,
+98,Choanoflagellata,1000,
+99,Pezizomycotina,1000,
+100,Polycystinea,1000,
+101,Soil Crenarchaeotic Group(SCG),1000,
+102,Thermoleophilia,1000,
+103,Erysipelotrichia,1000,
+104,Spirochaetes,1000,
+105,Mollicutes,1000,
+106,Cyanophyceae,1000,
+107,Saprospiria,1000,
+108,Halobacteria,1000,
+109,Cyanobacteria,1000,
+110,uncultured archaeon  ,1000,
+111,Discoba,1000,
+112,Proteobacteria Unknown Order,1000,
+113,Hydrozoa,1000,
+114,Phyllopharyngea,1000,
+115,Rhodothermia,1000,
+116,Anaerolineae,1000,
+117,Spartobacteria,1000,
+118,Chitinophagia,1000,
+119,Malacostraca,1000,
+120,Lentisphaeria,1000,
+121,Cnidaria,1000,
+122,Hexanauplia,1000,
+123,LKM11,1000,
+124,Fusobacteriia,1000,
+125,Gemmatimonadetes,1000,
+126,uncultured fungus  ,1000,
+127,uncultured marine eukaryote  ,1000,
+128,Chlamydiae,1000,
+129,Leotiomycetes,1000,
+130,Subgroup 6,1000,
+131,Planctomycetes,1000,
+132,Oligoflexia,1000,
+133,Dothideomycetes,1000,
+134,Babeliae,1000,
+135,Solibacteres,1000,
+136,Polyangia,1000,
+137,Chlamydiia,1000,
+138,uncultured microeukaryote   ,1000,
+139,Pucciniomycotina,1000,
+140,Nitrospira,1000,
+141,WCHB1-41,1000,
+142,Candidatus Levybacteria,1000,
+143,Bacteroidetes VC2.1 Bac22,1000,
+144,Melainabacteria,1000,
+145,Blastocatellia,1000,
+146,Candidatus Campbellbacteria,1000,
+147,Thermoanaerobaculia,1000,
+148,Spirotrichea,1000,
+149,Caldilineae,1000,
+150,Pyramimonadophyceae,1000,
+151,Trebouxiophyceae,1000,
+152,Branchiopoda,1000,
+153,Ascetosporea,1000,
+154,Sphagnopsida,1000,
+155,Ascidiacea,1000,
+156,OPB35 soil group,1000,
+157,Rhodophyceae,1000,
+158,BD2-11 terrestrial group,1000,
+159,Syntrophobacteria,1000,
+160,Acidobacteria,1000,
+161,Parcubacteria,1000,
+162,Myxozoa,1000,
+163,Negativicutes,1000,
+164,Ustilaginomycotina,1000,
+165,Oligosphaeria,1000,
+166,KD4-96,1000,
+167,Nitrospiria,1000,
+168,Holophagae,1000,
+169,Caldisericia,1000,
+170,Deinococci,1000,
+171,Entorrhizomycetes,1000,
+172,Deep Sea Euryarchaeotic Group(DSEG),1000,
+173,Spirochaetia,1000,
+174,Opitutia,1000,
+175,BD7-11,1000,
+176,Mammalia,1000,
+177,Candidatus Saccharimonadia,1000,
+178,Hydrogenedentia,1000,
+179,Harpellomycetes,1000,
+180,uncultured eukaryote  ,1000,
+181,Pla4 lineage,1000,
+182,Sva0485,1000,
+183,Palaeacanthocephala,1000,
+184,Thermoprotei,1000,
+185,uncultured bacterium  ,1000,
+186,Omnitrophica Unknown Order,1000,
+187,Bacteroidetes Order III,1000,
+188,Group C3,1000,
+189,Bdellovibrionia,1000,
+190,R76-B128,1000,
+191,Kickxellomycetes,1000,
+192,Ktedonobacteria,1000,
+193,Pucciniomycetes,1000,
+194,Balneolia,1000,
+195,Colpodea,1000,
+196,uncultured archaeon,1000,
+197,Sericytochromatia,1000,
+198,Gastropoda,1000,
+199,uncultured candidate division SR1,1000,
+200,PAUC43f marine benthic group,1000,
+201,Lecanoromycetes,1000,
+202,Mollusca,1000,
+203,Chloroflexia,1000,
+204,Endogonales,1000,
+205,uncultured organism   ,1000,
+206,Kiritimatiellia,1000,
+207,Demospongiae,1000,
+208,Lepidosauria,1000,
+209,Imbricatea,1000,
+210,Anthozoa,1000,
+211,Amphibia,1000,
+212,Candidatus Pacebacteria,1000,
+213,Ulvophyceae,1000,
+214,Dacrymycetes,1000,
+215,Chlorodendrophyceae,1000,
+216,Blastocladiomycetes,1000,
+217,Agaricomycotina,1000,
+218,Fibrobacteria,1000,
+219,uncultured crenarchaeote   ,1000,
+220,Bacteroidetes BD2-2,1000,
+221,Polychaeta,1000,
+222,WCHB1-32,1000,
+223,Verrucomicrobia Unknown Order,1000,
+224,Bryopsida,1000,
+225,uncultured,1000,
+226,Microbotryomycetes,1000,
+227,Subgroup 22,1000,
+228,Florideophyceae,1000,
+229,SBXY-6786,1000,
+230,NB1-j,1000,
+231,Latescibacterota,1000,
+232,Candidatus Shapirobacteria,1000,
+233,Chitinivibrionia,1000,
+234,vadinHA49,1000,
+235,Parcubacteria group bacterium GW2011_GWA2_44_12 ,1000,
+236,Bacteroidetes vadinHA17,1000,
+237,Candidatus Falkowbacteria,1000,
+238,Eurotatoria,1000,
+239,Rubrobacteria,1000,
+240,Bryozoa,1000,
+241,OPB41,1000,
+242,Terriglobia,1000,
+243,Aquificae,1000,
+244,ARKICE-90,1000,
+245,Parcubacteria bacterium SCGC AAA010-E09 ,1000,
+246,Calditrichia,1000,
+247,Myxococcia,1000,
+248,Subgroup 2,1000,
+249,Candidatus Woesebacteria,1000,
+250,Marinimicrobia (SAR406 clade),1000,
+251,Subgroup 21,1000,
+252,Thermotogae,1000,
+253,11B-2,1000,
+254,Ardenticatenia,1000,
+255,Ministeriida,1000,
+256,uncultured euryarchaeote   ,1000,
+257,uncultured soil bacterium  ,1000,
+258,Nanoarchaeia,1000,
+259,Saccharomycotina,1000,
+260,Kiritimatiellae,1000,
+261,Ignavibacteria,1000,
+262,Embryophyta,1000,
+263,Candidatus Poseidoniia,1000,
+264,Acidobacteriae,1000,
+265,RCP2-54,1000,
+266,Subgroup 26,1000,
+267,FHMa11 terrestrial group,1000,
+268,Brachiopoda,1000,
+269,Eumycetozoa,1000,
+270,Ichthyophonae,1000,
+271,Dictyochophyceae,1000,
+272,SAR324 clade(Marine group B),1000,
+273,Pla3 lineage,1000,
+274,Pedinophyceae,1000,
+275,pItb-vmat-80,1000,
+276,Variosea,1000,
+277,Heterotrichea,1000,
+278,Palaeonemertea,1000,
+279,Metamonada,1000,
+280,Vicinamibacteria,1000,
+281,Synergistia,1000,
+282,Deferrisomatia,1000,
+283,Dadabacteriia,1000,
+284,Thermomicrobia,1000,
+285,Omnitrophia,1000,
+286,Phytomyxea,1000,
+287,Chlorobia,1000,
+288,Polyplacophora,1000,
+289,Ustilaginomycetes,1000,
+290,Desulfovibrionia,1000,
+291,Elusimicrobia,1000,
+292,Gemmatimonadia,1000,
+293,uncultured euryarchaeote  ,1000,
+294,SB-5,1000,
+295,Cephalopoda,1000,
+296,LD1-PB3,1000,
+297,Dehalococcoidia,1000,
+298,Candidatus Roizmanbacteria,1000,
+299,Longimicrobia,1000,
+300,Gymnolaemata,1000,
+301,Zetaproteobacteria,1000,
+302,Entomophthoromycetes,1000,
+303,Candidatus Beckwithbacteria,1000,
+304,LD1-PA32,1000,
+305,FGL7S,1000,
+306,uncultured candidate division JS1 bacterium,1000,
+307,S0134 terrestrial group,1000,
+308,Nitrospinia,1000,
+309,Nitriliruptoria,1000,
+310,Nucleophaga,1000,
+311,Bangiophyceae,1000,
+312,19c-33,1000,
+313,Raphidophyceae,1000,
+314,bacterium enrichment culture clone,1000,
+315,AT-s3-28,1000,
+316,Terrestrial Hot Spring Gp(THSCG),1000,
+317,Subgroup 17,1000,
+318,Fimbriimonadia,1000,
+319,Subgroup 15,1000,
+320,Ichthyostraca,1000,
+321,uncultured organism  ,1000,
+322,Saccharimonadia,1000,
+323,Pseudonosematidae,1000,
+324,WCHA1-57,1000,
+325,Monoblepharidomycetes,1000,
+326,Defferrisomatia,1000,
+327,Candidatus Azambacteria,1000,
+328,Priapulimorpha,1000,
+329,Dipodascomycetes,1000,
+330,Plagiopylea,1000,
+331,Limnochordia,1000,
+332,Latescibacteria,1000,
+333,AK31,1000,
+334,uncultured euryarchaeote,1000,
+335,Aphelidea,1000,
+336,uncultured Microgenomates group bacterium ,1000,
+337,Kazan-3A-21,1000,
+338,Candidatus Giovannonibacteria,1000,
+339,Ichthyosporea,1000,
+340,SJA-15,1000,
+341,uncultured Candidatus Saccharibacteria bacterium ,1000,
+342,uncultured archaeon Arc.212  ,1000,
+343,SPOTSOCT00m83,1000,
+344,TK10,1000,
+345,Deferribacteres,1000,
+346,Aigarchaeota Unknown Order,1000,
+347,marine sediment,1000,
+348,SBR2076,1000,
+349,Collembola,1000,
+350,20a-9,1000,
+351,Eutardigrada,1000,
+352,Thaumarchaeota Unknown Order,1000,
+353,Wallemiomycetes,1000,
+354,ML635J-21,1000,
+355,South African Gold Mine Gp,1000,
+356,P1-31,1000,
+357,AK59,1000,
+358,uncultured bacterium ,1000,
+359,MD2898-B26,1000,
+360,uncultured archaeon ,1000,
+361,marine metagenome ,1000,
+362,Umbelopsidomycetes,1000,
+363,Glomeromycetes,1000,
+364,Candidatus Peribacteria,1000,
+365,Charophyceae,1000,
+366,Mucoromycetes,1000,
+367,Abditibacteriia,1000,
+368,Mamiellophyceae,1000,
+369,Exobasidiomycetes,1000,
+370,Glaucocystophyceae,1000,
+371,WPS-2,1000,
+372,Vampirivibrionia,1000,
+373,Chrysophyceae,1000,
+374,Kapabacteria,1000,
+375,Abditibacteria,1000,
+376,Diapherotrites Unknown Order,1000,
+377,028H05-P-BN-P5,1000,
+378,SM1A07,1000,
+379,H26-1,1000,
+380,uncultured candidate division WS6 bacterium,1000,
+381,Deferribacteres Unknown Order,1000,
+382,Subgroup 9,1000,
+383,Taphrinomycetes,1000,
+384,MAST-12C,1000,
+385,uncultured opisthokont  ,1000,
+386,AKAU4049,1000,
+387,Enoplea,1000,
+388,Subulatomonas,1000,
+389,Pneumocystomycetes,1000,
+390,Sumerlaeia,1000,
+391,Echinoidea,1000,
+392,Neocallimastigomycetes,1000,
+393,Tissierellia,1000,
+394,Nitrososphaeria,1000,
+395,Eustigmatophyceae,1000,
+396,Parcubacteria group bacterium GW2011_GWC2_49_9 ,1000,
+397,014H09-A-SD-P15,1000,
+398,Ostracoda,1000,
+399,Fe-A-9,1000,
+400,059A02-A-SD-P93,1000,
+401,Candidatus Curtissbacteria,1000,
+402,Maxillopoda,1000,
+403,Candidatus Moranbacteria,1000,
+404,S085,1000,
+405,Homoscleromorpha,1000,
+406,WWE3,1000,
+407,Cestoda,1000,
+408,MSBL8,1000,
+409,Hydrogenophilia,1000,
+410,Parvarchaeota Unknown Order,1000,
+411,Armatimonadia,1000,
+412,uncultured KB1 group bacterium ,1000,
+413,Pezizomycetes,1000,
+414,Thecostraca,1000,
+415,unidentified archaeon   ,1000,
+416,SJA-68,1000,
+417,uncultured crenarchaeote  ,1000,
+418,d142,1000,
+419,JG30-KF-CM66,1000,
+420,uncultured marine eukaryote ,1000,
+421,Tetraphidopsida,1000,
+422,Phaeophyceae,1000,
+423,Pilidiophora,1000,
+424,uncultured microorganism  ,1000,
+425,Candidatus Babeliae,1000,
+426,Rotifera,1000,
+427,Marinimicrobia bacterium JGI,1000,
+428,Armophorea,1000,
+429,archaeon enrichment culture clone C1-1C-A,1000,
+430,Clitellata,1000,
+431,Korarchaeota Unknown Order,1000,
+432,Chlorobiia,1000,
+433,Gnathostomulida,1000,
+434,Pauropoda,1000,
+435,MBNT15,1000,
+436,SAR202 clade,1000,
+437,Monogononta,1000,
+438,Lichinomycetes,1000,
+439,MB-A2-108,1000,
+440,Schekmanbacteria,1000,
+441,Cystobasidiomycetes,1000,
+442,uncultured archaeon WCHD3-30 ,1000,
+443,Archaeoglobi,1000,
+444,uncultured eukaryote   ,1000,
+445,Aves,1000,
+446,SHA-26,1000,
+447,Margulisbacteria,1000,
+448,Candidatus Nomurabacteria,1000,
+449,Monogenea,1000,
+450,Methylomirabilia,1000,
+451,Archamoebae,1000,
+452,Thermodesulfovibrionia,1000,
+453,Methanococci,1000,
+454,Candidatus Sumerlaeia,1000,
+455,Bivalvia,1000,
+456,Priapulida,1000,
+457,Candidatus Magasanikbacteria,1000,
+458,uncultured candidate division WWE3 bacterium,1000,
+459,Candidatus Aminicenantia,1000,
+460,Marosporida,1000,
+461,uncultured Nitrospirae bacterium  ,1000,
+462,uncultured fungus   ,1000,
+463,OPPD003,1000,
+464,Harpellales,1000,
+465,uncultured archaeon 19a-29  ,1000,
+466,Cloacimonetes Unknown Order,1000,
+467,Zygnemophyceae,1000,
+468,Synurophyceae,1000,
+469,Agaricostilbomycetes,1000,
+470,uncultured eubacterium WCHB1-60  ,1000,
+471,Nephroselmidophyceae,1000,
+472,Lycopodiopsida,1000,
+473,Subgroup 18,1000,
+474,Chlorokybophyceae,1000,
+475,Parcubacteria group bacterium GW2011_GWA2_46_7 ,1000,
+476,WCHB1-81,1000,
+477,uncultured Latescibacteria bacterium  ,1000,
+478,Candidatus Kuenenbacteria,1000,
+479,Zixibacteria,1000,
+480,uncultured organism ,1000,
+481,Candidatus Daviesbacteria,1000,
+482,Candidatus Izimaplasma,1000,
+483,Terrimicrobiia,1000,
+484,Z7ME43,1000,
+485,RBG-16-55-12,1000,
+486,Phylactolaemata,1000,
+487,MACA-EFT26,1000,
+488,candidate division TM6 bacterium,1000,
+489,Candidatus Wolfebacteria bacterium GW2011_GWA2_47_9b ,1000,
+490,Thermococci,1000,
+491,AEGEAN-245,1000,
+492,uncultured crenarchaeote pBRKC135  ,1000,
+493,uncultured anaerobic bacterium  ,1000,
+494,marine metagenome   ,1000,
+495,Chilopoda,1000,
+496,Polypodiopsida,1000,
+497,Mesozoa,1000,
+498,Moduliflexia,1000,
+499,uncultured candidate division AC1 bacterium,1000,
+500,uncultured archaeon PENDANT-33 ,1000,
+501,Candidatus Sericytochromatia,1000,
+502,Longimicrobiia,1000,
+503,LCP-89,1000,
+504,Arctic97B-4 marine group,1000,
+505,Holothuroidea,1000,
+506,Breviata,1000,
+507,Planomonas micra  ,1000,
+508,Opalinata,1000,
+509,Aminicenantia,1000,
+510,Crinoidea,1000,
+511,Rozella,1000,
+512,UA11,1000,
+513,Kryptonia,1000,
+514,ABY1,1000,
+515,Cloacimonadia,1000,
+516,Enteropneusta,1000,
+517,marine metagenome  ,1000,
+518,Kathablepharidae,1000,
+519,SJA-28,1000,
+520,H15-6,1000,
+521,Methanonatronarchaeia,1000,
+522,SL56 marine group,1000,
+523,Leptospirae,1000,
+524,Lineage IIb,1000,
+525,Picomonadida,1000,
+526,Atribacteria,1000,
+527,archaeon GW2011_AR18  ,1000,
+528,archaeon GW2011_AR13  ,1000,
+529,S-BQ2-57 soil group,1000,
+530,Catenulida,1000,
+531,Subgroup 5,1000,
+532,groundwater metagenome   ,1000,
+533,Basidiobolomycetes,1000,
+534,Pterobranchia,1000,
+535,Jungermanniopsida,1000,
+536,uncultured cyanobacterium   ,1000,
+537,Thermodesulfobacteria,1000,
+538,Palmophyllophyceae,1000,
+539,Rhodellophyceae,1000,
+540,Candidatus Nanoarchaeia,1000,
+541,SPG12-401-411-B72,1000,
+542,Malawimonas,1000,
+543,uncultured candidate division BRC1 bacterium,1000,
+544,Mesostigmatophyceae,1000,
+545,Orbiliomycetes,1000,
+546,Candidatus Wolfebacteria,1000,
+547,Berkelbacteria,1000,
+548,PBS-18,1000,
+549,KIST-JJY010,1000,
+550,D-F10,1000,
+551,Diplopoda,1000,
+552,Dictyoglomia,1000,
+553,Nassophorea,1000,
+554,Enopla,1000,
+555,Geoglossomycetes,1000,
+556,uncultured euryarchaeote ,1000,
+557,uncultured marine,1000,
+558,Senoma,1000,
+559,Flabellinia,1000,
+560,Candidatus Adlerbacteria,1000,
+561,Sagittoidea,1000,
+562,Tubulinea,1000,
+563,Candidatus Bathyarchaeia,1000,
+564,Subgroup 13,1000,
+565,W5,1000,
+566,Chondrichthyes,1000,
+567,Cryptomonadales,1000,
+568,Chthonomonadetes,1000,
+569,Thecofilosea,1000,
+570,Nephridiophaga,1000,
+571,Leptocardii,1000,
+572,uncultured deep-sea bacterium  ,1000,
+573,MVP-15,1000,
+574,Candidatus Yanofskybacteria,1000,
+575,terrestrial metagenome   ,1000,
+576,uncultured Candidatus Dependentiae bacterium,1000,
+577,Acantharea,1000,
+578,Heterophryidae,1000,
+579,bacterium RFB D08  ,1000,
+580,Candidatus Peregrinibacteria bacterium GW2011_GWF2_39_17 ,1000,
+581,BMS9AB35,1000,
+582,Parcubacteria group bacterium GW2011_GWA2_47_8 ,1000,
+583,Nanoarchaeota archaeon SCGC AAA011-D5,1000,
+584,uncultured crenarchaeote,1000,
+585,Acanthoecida,1000,
+586,Marchantiopsida,1000,
+587,Pinguiophyceae,1000,
+588,Pavlovophyceae,1000,
+589,Taphrinomycotina,1000,
+590,Caudofoveata,1000,
+591,Scalidophora,1000,
+592,Schizosaccharomycetes,1000,
+593,Compsopogonophyceae,1000,
+594,Candidatus Amesbacteria,1000,
+595,uncultured methanogenic archaeon  ,1000,
+596,Actinopterygii,1000,
+597,Cubozoa,1000,
+598,uncultured marine bacterium ,1000,
+599,Gitt-GS-136,1000,
+600,Paramicrosporidium,1000,
+601,metal-contaminated soil clone K20-27 ,1000,
+602,uncultured Caldiserica bacterium  ,1000,
+603,Hyphochytriomycetes,1000,
+604,Parcubacteria group bacterium GW2011_GWC2_44_22 ,1000,
+605,Stenolaemata,1000,
+606,Mortierellomycetes,1000,
+607,SHA-4,1000,
+608,Andreaeopsida,1000,
+609,uncultured microorganism   ,1000,
+610,uncultured crenarchaeote ,1000,
+611,uncultured Parcubacteria group bacterium ,1000,
+612,Asteroidea,1000,
+613,uncultured bacterium I025  ,1000,
+614,Cycadopsida,1000,
+615,Amblyospora sp.,1000,
+616,SHA-41,1000,
+617,Rhynchonellata,1000,
+618,uncultured bacterium 'KTK 14' ,1000,
+619,uncultured Telonemida  ,1000,
+620,Alloascoideomycetes,1000,
+621,uncultured methanogenic archaeon ,1000,
+622,Amblyosporidae,1000,
+623,Coprothermobacteria,1000,
+624,Coleochaetophyceae,1000,
+625,Ancyromonas,1000,
+626,Appendicularia,1000,
+627,C10-SB1A,1000,
+628,Dimargaritomycetes,1000,
+629,Elev-1554,1000,
+630,Bacillidium sp.,1000,
+631,Parcubacteria group bacterium GW2011_GWF2_42_7 ,1000,
+632,Parcubacteria Unknown Order,1000,
+633,Tectomicrobia Unknown Order,1000,
+634,Pelagophyceae,1000,
+635,Gracilipodida,1000,
+636,Eoacanthocephala,1000,
+637,Euryarchaeota archaeon SCGC AAA286-E23,1000,
+638,TOTO-A6-15,1000,
+639,Syntrophia,1000,
+640,Chlorarachniophyceae,1000,
+641,Mitosporidium daphniae   ,1000,
+642,Stylonematophyceae,1000,
+643,Candidatus Uhrbacteria,1000,
+644,Thermoflexia,1000,
+645,archaeon GW2011_AR17  ,1000,
+646,candidate division WS6 bacterium OLB21,1000,
+647,Candidatus Jorgensenbacteria,1000,
+648,crenarchaeote enrichment culture clone 61-23f,1000,
+649,hydrothermal vent metagenome  ,1000,
+650,Trematoda,1000,
+651,Zoopagomycetes,1000,
+652,Z273FA48,1000,
+653,uncultured Aminicenantes bacterium  ,1000,
+654,pSL12,1000,
+655,Ika33,1000,
+656,Nutomonas,1000,
+657,miscellaneous Crenarchaeota group archaeon SMTZ-80,1000,
+658,LK-44f,1000,
+659,uncultured Microgenomates group bacterium,1000,
+660,Archiacanthocephala,1000,
+661,uncultured planctomycete   ,1000,
+662,unidentified archaeon  ,1000,
+663,Magnoliopsida,10000,0.02663062894991081
+664,Rhizaria,10000,0.03170727108661897
+665,Gammaproteobacteria,10000,0.014551262685972222
+666,Alveolata,10000,0.06960202751336739
+667,Flavobacteriia,10000,0.04458500358450731
+668,Alphaproteobacteria,10000,0.12036310228653062
+669,Arthropoda,10000,0.03505675336231277
+670,Cyanobacteriia,10000,0.064506604116103
+671,Chloroplast,10000,0.03481516365724679
+672,Conoidasida,10000,0.06624816393750996
+673,Bacillariophyceae,10000,0.046838102881250246
+674,uncultured bacterium   ,10000,0.07671938792437173
+675,Rhabditophora,10000,0.1538718563278829
+676,Nematoda,10000,0.12746897911183
+677,Chordata,10000,0.13834811331883515
+678,Coscinodiscophyceae,10000,0.10375912194990965
+679,Gastrotricha,10000,0.17351489291412547
+680,Betaproteobacteria,10000,0.10222800868778788
+681,Litostomatea,10000,0.28435733859108586
+682,Gnetopsida,10000,0.11899009574326479
+683,Arachnida,10000,0.18233256673221673
+684,Chromadorea,10000,0.2410679903936413
+685,LKM74,10000,0.17659473261815223
+686,Chlorophyceae,10000,0.19658171127450866
+687,Insecta,10000,0.23402807834121903
+688,Dinophyceae,10000,0.14027090192169445
+689,Aconoidasida,10000,0.20600551353041666
+690,Pinopsida,10000,0.21660061208035714
+691,Bacilli,10000,0.2646491883913855
+692,Bacteroidia,10000,0.2634762272408739
+693,Actinobacteria,10000,0.41430720154331324
+694,Clostridia,10000,0.3613631181258803
+695,Stramenopiles,10000,0.2882530946986486
+696,Xenacoelomorpha,10000,0.19308278532084905
+697,Actinomycetes,10000,0.1647817285683414
+698,Coriobacteriia,10000,
+699,Tremellomycetes,10000,0.21222092527322578
+700,Cytophagia,10000,0.6869113264121186
+701,Pichiomycetes,10000,0.31426968052733334
+702,Deltaproteobacteria,10000,0.28527120307123377
+703,Sphingobacteriia,10000,0.406529971797027
+704,Sordariomycetes,10000,0.39215453124668964
+705,Methanomicrobia,10000,0.5451356827043077
+706,Klebsormidiophyceae,10000,0.24162732971441508
+707,Verrucomicrobiae,10000,0.2727272727272727
+708,Saccharomycetes,10000,0.11198853296124589
+709,Chloroplastida,10000,0.28743098055542554
+710,Platyhelminthes,10000,0.5621770930055953
+711,Methanobacteria,10000,0.3741657386772
+712,uncultured archaeon   ,10000,0.39123039821790373
+713,Planctomycetacia,10000,0.6415002990995555
+714,Zygnematophyceae,10000,
+715,Verrucomicrobiia,10000,0.34441609860686945
+716,Thermoplasmata,10000,0.5863019699779484
+717,Aenigmarchaeota Unknown Order,10000,
+718,Desulfuromonadia,10000,0.4694564939112791
+719,Candidatus Collierbacteria,10000,0.19999999999989998
+720,Eurotiomycetes,10000,0.07401656182502249
+721,Planctomycetia,10000,0.4821825380496483
+722,Acidimicrobiia,10000,
+723,Desulfobulbia,10000,0.5900968443520925
+724,Craspedida,10000,0.15713484026362962
+725,Mediophyceae,10000,
+726,Bacteroidetes Order II,10000,0.326598632371
+727,Elardia,10000,0.5656854249491999
+728,Desulfobacteria,10000,
+729,Scyphozoa,10000,
+730,Marine Benthic Group A,10000,0.23999999999999996
+731,Fragilariophyceae,10000,0.0
+732,Euglenida,10000,0.4948716593051428
+733,Amoeboaphelidium,10000,0.10825317547306154
+734,Annelida,10000,0.0
+735,Kickxellales,10000,
+736,Intramacronucleata,10000,0.4714045207908889
+737,Discosea,10000,0.26646935501055896
+738,Prymnesiophyceae,10000,
+739,Karyorelictea,10000,
+740,Acanthocystidae,10000,0.3263569759321539
+741,Bigyra,10000,
+742,Epsilonproteobacteria,10000,
+743,uncultured Epsilonproteobacteria bacterium  ,10000,0.28571428571428575
+744,Oligohymenophorea,10000,
+745,Endogonomycetes,10000,
+746,Gracilibacteria,10000,0.0
+747,Bacteriovoracia,10000,
+748,Prostomatea,10000,
+749,Diplonemea,10000,0.11764705882352942
+750,Cryptophyceae,10000,
+751,Kinetoplastea,10000,0.34467615654772726
+752,OM190,10000,
+753,Phycisphaerae,10000,0.2828427124746189
+754,Agaricomycetes,10000,
+755,Opitutae,10000,
+756,Chytridiomycetes,10000,
+757,Actinopteri,10000,
+758,Entomophthoromycotina,10000,
+759,Marine Group I,10000,
+760,Anthocerotopsida,10000,0.34815531191139565
+761,Choanoflagellata,10000,
+762,Pezizomycotina,10000,
+763,Polycystinea,10000,0.2828427124746189
+764,Soil Crenarchaeotic Group(SCG),10000,0.47140452079100004
+765,Thermoleophilia,10000,
+766,Erysipelotrichia,10000,
+767,Spirochaetes,10000,
+768,Mollicutes,10000,
+769,Cyanophyceae,10000,
+770,Saprospiria,10000,
+771,Halobacteria,10000,
+772,Cyanobacteria,10000,
+773,uncultured archaeon  ,10000,
+774,Discoba,10000,
+775,Proteobacteria Unknown Order,10000,
+776,Hydrozoa,10000,
+777,Phyllopharyngea,10000,
+778,Rhodothermia,10000,
+779,Anaerolineae,10000,
+780,Spartobacteria,10000,
+781,Chitinophagia,10000,
+782,Malacostraca,10000,
+783,Lentisphaeria,10000,
+784,Cnidaria,10000,
+785,Hexanauplia,10000,
+786,LKM11,10000,
+787,Fusobacteriia,10000,
+788,Gemmatimonadetes,10000,
+789,uncultured fungus  ,10000,
+790,uncultured marine eukaryote  ,10000,
+791,Chlamydiae,10000,
+792,Leotiomycetes,10000,
+793,Subgroup 6,10000,
+794,Planctomycetes,10000,
+795,Oligoflexia,10000,
+796,Dothideomycetes,10000,
+797,Babeliae,10000,
+798,Solibacteres,10000,
+799,Polyangia,10000,
+800,Chlamydiia,10000,
+801,uncultured microeukaryote   ,10000,
+802,Pucciniomycotina,10000,
+803,Nitrospira,10000,
+804,WCHB1-41,10000,
+805,Candidatus Levybacteria,10000,
+806,Bacteroidetes VC2.1 Bac22,10000,
+807,Melainabacteria,10000,
+808,Blastocatellia,10000,
+809,Candidatus Campbellbacteria,10000,
+810,Thermoanaerobaculia,10000,
+811,Spirotrichea,10000,
+812,Caldilineae,10000,
+813,Pyramimonadophyceae,10000,
+814,Trebouxiophyceae,10000,
+815,Branchiopoda,10000,
+816,Ascetosporea,10000,
+817,Sphagnopsida,10000,
+818,Ascidiacea,10000,
+819,OPB35 soil group,10000,
+820,Rhodophyceae,10000,
+821,BD2-11 terrestrial group,10000,
+822,Syntrophobacteria,10000,
+823,Acidobacteria,10000,
+824,Parcubacteria,10000,
+825,Myxozoa,10000,
+826,Negativicutes,10000,
+827,Ustilaginomycotina,10000,
+828,Oligosphaeria,10000,
+829,KD4-96,10000,
+830,Nitrospiria,10000,
+831,Holophagae,10000,
+832,Caldisericia,10000,
+833,Deinococci,10000,
+834,Entorrhizomycetes,10000,
+835,Deep Sea Euryarchaeotic Group(DSEG),10000,
+836,Spirochaetia,10000,
+837,Opitutia,10000,
+838,BD7-11,10000,
+839,Mammalia,10000,
+840,Candidatus Saccharimonadia,10000,
+841,Hydrogenedentia,10000,
+842,Harpellomycetes,10000,
+843,uncultured eukaryote  ,10000,
+844,Pla4 lineage,10000,
+845,Sva0485,10000,
+846,Palaeacanthocephala,10000,
+847,Thermoprotei,10000,
+848,uncultured bacterium  ,10000,
+849,Omnitrophica Unknown Order,10000,
+850,Bacteroidetes Order III,10000,
+851,Group C3,10000,
+852,Bdellovibrionia,10000,
+853,R76-B128,10000,
+854,Kickxellomycetes,10000,
+855,Ktedonobacteria,10000,
+856,Pucciniomycetes,10000,
+857,Balneolia,10000,
+858,Colpodea,10000,
+859,uncultured archaeon,10000,
+860,Sericytochromatia,10000,
+861,Gastropoda,10000,
+862,uncultured candidate division SR1,10000,
+863,PAUC43f marine benthic group,10000,
+864,Lecanoromycetes,10000,
+865,Mollusca,10000,
+866,Chloroflexia,10000,
+867,Endogonales,10000,
+868,uncultured organism   ,10000,
+869,Kiritimatiellia,10000,
+870,Demospongiae,10000,
+871,Lepidosauria,10000,
+872,Imbricatea,10000,
+873,Anthozoa,10000,
+874,Amphibia,10000,
+875,Candidatus Pacebacteria,10000,
+876,Ulvophyceae,10000,
+877,Dacrymycetes,10000,
+878,Chlorodendrophyceae,10000,
+879,Blastocladiomycetes,10000,
+880,Agaricomycotina,10000,
+881,Fibrobacteria,10000,
+882,uncultured crenarchaeote   ,10000,
+883,Bacteroidetes BD2-2,10000,
+884,Polychaeta,10000,
+885,WCHB1-32,10000,
+886,Verrucomicrobia Unknown Order,10000,
+887,Bryopsida,10000,
+888,uncultured,10000,
+889,Microbotryomycetes,10000,
+890,Subgroup 22,10000,
+891,Florideophyceae,10000,
+892,SBXY-6786,10000,
+893,NB1-j,10000,
+894,Latescibacterota,10000,
+895,Candidatus Shapirobacteria,10000,
+896,Chitinivibrionia,10000,
+897,vadinHA49,10000,
+898,Parcubacteria group bacterium GW2011_GWA2_44_12 ,10000,
+899,Bacteroidetes vadinHA17,10000,
+900,Candidatus Falkowbacteria,10000,
+901,Eurotatoria,10000,
+902,Rubrobacteria,10000,
+903,Bryozoa,10000,
+904,OPB41,10000,
+905,Terriglobia,10000,
+906,Aquificae,10000,
+907,ARKICE-90,10000,
+908,Parcubacteria bacterium SCGC AAA010-E09 ,10000,
+909,Calditrichia,10000,
+910,Myxococcia,10000,
+911,Subgroup 2,10000,
+912,Candidatus Woesebacteria,10000,
+913,Marinimicrobia (SAR406 clade),10000,
+914,Subgroup 21,10000,
+915,Thermotogae,10000,
+916,11B-2,10000,
+917,Ardenticatenia,10000,
+918,Ministeriida,10000,
+919,uncultured euryarchaeote   ,10000,
+920,uncultured soil bacterium  ,10000,
+921,Nanoarchaeia,10000,
+922,Saccharomycotina,10000,
+923,Kiritimatiellae,10000,
+924,Ignavibacteria,10000,
+925,Embryophyta,10000,
+926,Candidatus Poseidoniia,10000,
+927,Acidobacteriae,10000,
+928,RCP2-54,10000,
+929,Subgroup 26,10000,
+930,FHMa11 terrestrial group,10000,
+931,Brachiopoda,10000,
+932,Eumycetozoa,10000,
+933,Ichthyophonae,10000,
+934,Dictyochophyceae,10000,
+935,SAR324 clade(Marine group B),10000,
+936,Pla3 lineage,10000,
+937,Pedinophyceae,10000,
+938,pItb-vmat-80,10000,
+939,Variosea,10000,
+940,Heterotrichea,10000,
+941,Palaeonemertea,10000,
+942,Metamonada,10000,
+943,Vicinamibacteria,10000,
+944,Synergistia,10000,
+945,Deferrisomatia,10000,
+946,Dadabacteriia,10000,
+947,Thermomicrobia,10000,
+948,Omnitrophia,10000,
+949,Phytomyxea,10000,
+950,Chlorobia,10000,
+951,Polyplacophora,10000,
+952,Ustilaginomycetes,10000,
+953,Desulfovibrionia,10000,
+954,Elusimicrobia,10000,
+955,Gemmatimonadia,10000,
+956,uncultured euryarchaeote  ,10000,
+957,SB-5,10000,
+958,Cephalopoda,10000,
+959,LD1-PB3,10000,
+960,Dehalococcoidia,10000,
+961,Candidatus Roizmanbacteria,10000,
+962,Longimicrobia,10000,
+963,Gymnolaemata,10000,
+964,Zetaproteobacteria,10000,
+965,Entomophthoromycetes,10000,
+966,Candidatus Beckwithbacteria,10000,
+967,LD1-PA32,10000,
+968,FGL7S,10000,
+969,uncultured candidate division JS1 bacterium,10000,
+970,S0134 terrestrial group,10000,
+971,Nitrospinia,10000,
+972,Nitriliruptoria,10000,
+973,Nucleophaga,10000,
+974,Bangiophyceae,10000,
+975,19c-33,10000,
+976,Raphidophyceae,10000,
+977,bacterium enrichment culture clone,10000,
+978,AT-s3-28,10000,
+979,Terrestrial Hot Spring Gp(THSCG),10000,
+980,Subgroup 17,10000,
+981,Fimbriimonadia,10000,
+982,Subgroup 15,10000,
+983,Ichthyostraca,10000,
+984,uncultured organism  ,10000,
+985,Saccharimonadia,10000,
+986,Pseudonosematidae,10000,
+987,WCHA1-57,10000,
+988,Monoblepharidomycetes,10000,
+989,Defferrisomatia,10000,
+990,Candidatus Azambacteria,10000,
+991,Priapulimorpha,10000,
+992,Dipodascomycetes,10000,
+993,Plagiopylea,10000,
+994,Limnochordia,10000,
+995,Latescibacteria,10000,
+996,AK31,10000,
+997,uncultured euryarchaeote,10000,
+998,Aphelidea,10000,
+999,uncultured Microgenomates group bacterium ,10000,
+1000,Kazan-3A-21,10000,
+1001,Candidatus Giovannonibacteria,10000,
+1002,Ichthyosporea,10000,
+1003,SJA-15,10000,
+1004,uncultured Candidatus Saccharibacteria bacterium ,10000,
+1005,uncultured archaeon Arc.212  ,10000,
+1006,SPOTSOCT00m83,10000,
+1007,TK10,10000,
+1008,Deferribacteres,10000,
+1009,Aigarchaeota Unknown Order,10000,
+1010,marine sediment,10000,
+1011,SBR2076,10000,
+1012,Collembola,10000,
+1013,20a-9,10000,
+1014,Eutardigrada,10000,
+1015,Thaumarchaeota Unknown Order,10000,
+1016,Wallemiomycetes,10000,
+1017,ML635J-21,10000,
+1018,South African Gold Mine Gp,10000,
+1019,P1-31,10000,
+1020,AK59,10000,
+1021,uncultured bacterium ,10000,
+1022,MD2898-B26,10000,
+1023,uncultured archaeon ,10000,
+1024,marine metagenome ,10000,
+1025,Umbelopsidomycetes,10000,
+1026,Glomeromycetes,10000,
+1027,Candidatus Peribacteria,10000,
+1028,Charophyceae,10000,
+1029,Mucoromycetes,10000,
+1030,Abditibacteriia,10000,
+1031,Mamiellophyceae,10000,
+1032,Exobasidiomycetes,10000,
+1033,Glaucocystophyceae,10000,
+1034,WPS-2,10000,
+1035,Vampirivibrionia,10000,
+1036,Chrysophyceae,10000,
+1037,Kapabacteria,10000,
+1038,Abditibacteria,10000,
+1039,Diapherotrites Unknown Order,10000,
+1040,028H05-P-BN-P5,10000,
+1041,SM1A07,10000,
+1042,H26-1,10000,
+1043,uncultured candidate division WS6 bacterium,10000,
+1044,Deferribacteres Unknown Order,10000,
+1045,Subgroup 9,10000,
+1046,Taphrinomycetes,10000,
+1047,MAST-12C,10000,
+1048,uncultured opisthokont  ,10000,
+1049,AKAU4049,10000,
+1050,Enoplea,10000,
+1051,Subulatomonas,10000,
+1052,Pneumocystomycetes,10000,
+1053,Sumerlaeia,10000,
+1054,Echinoidea,10000,
+1055,Neocallimastigomycetes,10000,
+1056,Tissierellia,10000,
+1057,Nitrososphaeria,10000,
+1058,Eustigmatophyceae,10000,
+1059,Parcubacteria group bacterium GW2011_GWC2_49_9 ,10000,
+1060,014H09-A-SD-P15,10000,
+1061,Ostracoda,10000,
+1062,Fe-A-9,10000,
+1063,059A02-A-SD-P93,10000,
+1064,Candidatus Curtissbacteria,10000,
+1065,Maxillopoda,10000,
+1066,Candidatus Moranbacteria,10000,
+1067,S085,10000,
+1068,Homoscleromorpha,10000,
+1069,WWE3,10000,
+1070,Cestoda,10000,
+1071,MSBL8,10000,
+1072,Hydrogenophilia,10000,
+1073,Parvarchaeota Unknown Order,10000,
+1074,Armatimonadia,10000,
+1075,uncultured KB1 group bacterium ,10000,
+1076,Pezizomycetes,10000,
+1077,Thecostraca,10000,
+1078,unidentified archaeon   ,10000,
+1079,SJA-68,10000,
+1080,uncultured crenarchaeote  ,10000,
+1081,d142,10000,
+1082,JG30-KF-CM66,10000,
+1083,uncultured marine eukaryote ,10000,
+1084,Tetraphidopsida,10000,
+1085,Phaeophyceae,10000,
+1086,Pilidiophora,10000,
+1087,uncultured microorganism  ,10000,
+1088,Candidatus Babeliae,10000,
+1089,Rotifera,10000,
+1090,Marinimicrobia bacterium JGI,10000,
+1091,Armophorea,10000,
+1092,archaeon enrichment culture clone C1-1C-A,10000,
+1093,Clitellata,10000,
+1094,Korarchaeota Unknown Order,10000,
+1095,Chlorobiia,10000,
+1096,Gnathostomulida,10000,
+1097,Pauropoda,10000,
+1098,MBNT15,10000,
+1099,SAR202 clade,10000,
+1100,Monogononta,10000,
+1101,Lichinomycetes,10000,
+1102,MB-A2-108,10000,
+1103,Schekmanbacteria,10000,
+1104,Cystobasidiomycetes,10000,
+1105,uncultured archaeon WCHD3-30 ,10000,
+1106,Archaeoglobi,10000,
+1107,uncultured eukaryote   ,10000,
+1108,Aves,10000,
+1109,SHA-26,10000,
+1110,Margulisbacteria,10000,
+1111,Candidatus Nomurabacteria,10000,
+1112,Monogenea,10000,
+1113,Methylomirabilia,10000,
+1114,Archamoebae,10000,
+1115,Thermodesulfovibrionia,10000,
+1116,Methanococci,10000,
+1117,Candidatus Sumerlaeia,10000,
+1118,Bivalvia,10000,
+1119,Priapulida,10000,
+1120,Candidatus Magasanikbacteria,10000,
+1121,uncultured candidate division WWE3 bacterium,10000,
+1122,Candidatus Aminicenantia,10000,
+1123,Marosporida,10000,
+1124,uncultured Nitrospirae bacterium  ,10000,
+1125,uncultured fungus   ,10000,
+1126,OPPD003,10000,
+1127,Harpellales,10000,
+1128,uncultured archaeon 19a-29  ,10000,
+1129,Cloacimonetes Unknown Order,10000,
+1130,Zygnemophyceae,10000,
+1131,Synurophyceae,10000,
+1132,Agaricostilbomycetes,10000,
+1133,uncultured eubacterium WCHB1-60  ,10000,
+1134,Nephroselmidophyceae,10000,
+1135,Lycopodiopsida,10000,
+1136,Subgroup 18,10000,
+1137,Chlorokybophyceae,10000,
+1138,Parcubacteria group bacterium GW2011_GWA2_46_7 ,10000,
+1139,WCHB1-81,10000,
+1140,uncultured Latescibacteria bacterium  ,10000,
+1141,Candidatus Kuenenbacteria,10000,
+1142,Zixibacteria,10000,
+1143,uncultured organism ,10000,
+1144,Candidatus Daviesbacteria,10000,
+1145,Candidatus Izimaplasma,10000,
+1146,Terrimicrobiia,10000,
+1147,Z7ME43,10000,
+1148,RBG-16-55-12,10000,
+1149,Phylactolaemata,10000,
+1150,MACA-EFT26,10000,
+1151,candidate division TM6 bacterium,10000,
+1152,Candidatus Wolfebacteria bacterium GW2011_GWA2_47_9b ,10000,
+1153,Thermococci,10000,
+1154,AEGEAN-245,10000,
+1155,uncultured crenarchaeote pBRKC135  ,10000,
+1156,uncultured anaerobic bacterium  ,10000,
+1157,marine metagenome   ,10000,
+1158,Chilopoda,10000,
+1159,Polypodiopsida,10000,
+1160,Mesozoa,10000,
+1161,Moduliflexia,10000,
+1162,uncultured candidate division AC1 bacterium,10000,
+1163,uncultured archaeon PENDANT-33 ,10000,
+1164,Candidatus Sericytochromatia,10000,
+1165,Longimicrobiia,10000,
+1166,LCP-89,10000,
+1167,Arctic97B-4 marine group,10000,
+1168,Holothuroidea,10000,
+1169,Breviata,10000,
+1170,Planomonas micra  ,10000,
+1171,Opalinata,10000,
+1172,Aminicenantia,10000,
+1173,Crinoidea,10000,
+1174,Rozella,10000,
+1175,UA11,10000,
+1176,Kryptonia,10000,
+1177,ABY1,10000,
+1178,Cloacimonadia,10000,
+1179,Enteropneusta,10000,
+1180,marine metagenome  ,10000,
+1181,Kathablepharidae,10000,
+1182,SJA-28,10000,
+1183,H15-6,10000,
+1184,Methanonatronarchaeia,10000,
+1185,SL56 marine group,10000,
+1186,Leptospirae,10000,
+1187,Lineage IIb,10000,
+1188,Picomonadida,10000,
+1189,Atribacteria,10000,
+1190,archaeon GW2011_AR18  ,10000,
+1191,archaeon GW2011_AR13  ,10000,
+1192,S-BQ2-57 soil group,10000,
+1193,Catenulida,10000,
+1194,Subgroup 5,10000,
+1195,groundwater metagenome   ,10000,
+1196,Basidiobolomycetes,10000,
+1197,Pterobranchia,10000,
+1198,Jungermanniopsida,10000,
+1199,uncultured cyanobacterium   ,10000,
+1200,Thermodesulfobacteria,10000,
+1201,Palmophyllophyceae,10000,
+1202,Rhodellophyceae,10000,
+1203,Candidatus Nanoarchaeia,10000,
+1204,SPG12-401-411-B72,10000,
+1205,Malawimonas,10000,
+1206,uncultured candidate division BRC1 bacterium,10000,
+1207,Mesostigmatophyceae,10000,
+1208,Orbiliomycetes,10000,
+1209,Candidatus Wolfebacteria,10000,
+1210,Berkelbacteria,10000,
+1211,PBS-18,10000,
+1212,KIST-JJY010,10000,
+1213,D-F10,10000,
+1214,Diplopoda,10000,
+1215,Dictyoglomia,10000,
+1216,Nassophorea,10000,
+1217,Enopla,10000,
+1218,Geoglossomycetes,10000,
+1219,uncultured euryarchaeote ,10000,
+1220,uncultured marine,10000,
+1221,Senoma,10000,
+1222,Flabellinia,10000,
+1223,Candidatus Adlerbacteria,10000,
+1224,Sagittoidea,10000,
+1225,Tubulinea,10000,
+1226,Candidatus Bathyarchaeia,10000,
+1227,Subgroup 13,10000,
+1228,W5,10000,
+1229,Chondrichthyes,10000,
+1230,Cryptomonadales,10000,
+1231,Chthonomonadetes,10000,
+1232,Thecofilosea,10000,
+1233,Nephridiophaga,10000,
+1234,Leptocardii,10000,
+1235,uncultured deep-sea bacterium  ,10000,
+1236,MVP-15,10000,
+1237,Candidatus Yanofskybacteria,10000,
+1238,terrestrial metagenome   ,10000,
+1239,uncultured Candidatus Dependentiae bacterium,10000,
+1240,Acantharea,10000,
+1241,Heterophryidae,10000,
+1242,bacterium RFB D08  ,10000,
+1243,Candidatus Peregrinibacteria bacterium GW2011_GWF2_39_17 ,10000,
+1244,BMS9AB35,10000,
+1245,Parcubacteria group bacterium GW2011_GWA2_47_8 ,10000,
+1246,Nanoarchaeota archaeon SCGC AAA011-D5,10000,
+1247,uncultured crenarchaeote,10000,
+1248,Acanthoecida,10000,
+1249,Marchantiopsida,10000,
+1250,Pinguiophyceae,10000,
+1251,Pavlovophyceae,10000,
+1252,Taphrinomycotina,10000,
+1253,Caudofoveata,10000,
+1254,Scalidophora,10000,
+1255,Schizosaccharomycetes,10000,
+1256,Compsopogonophyceae,10000,
+1257,Candidatus Amesbacteria,10000,
+1258,uncultured methanogenic archaeon  ,10000,
+1259,Actinopterygii,10000,
+1260,Cubozoa,10000,
+1261,uncultured marine bacterium ,10000,
+1262,Gitt-GS-136,10000,
+1263,Paramicrosporidium,10000,
+1264,metal-contaminated soil clone K20-27 ,10000,
+1265,uncultured Caldiserica bacterium  ,10000,
+1266,Hyphochytriomycetes,10000,
+1267,Parcubacteria group bacterium GW2011_GWC2_44_22 ,10000,
+1268,Stenolaemata,10000,
+1269,Mortierellomycetes,10000,
+1270,SHA-4,10000,
+1271,Andreaeopsida,10000,
+1272,uncultured microorganism   ,10000,
+1273,uncultured crenarchaeote ,10000,
+1274,uncultured Parcubacteria group bacterium ,10000,
+1275,Asteroidea,10000,
+1276,uncultured bacterium I025  ,10000,
+1277,Cycadopsida,10000,
+1278,Amblyospora sp.,10000,
+1279,SHA-41,10000,
+1280,Rhynchonellata,10000,
+1281,uncultured bacterium 'KTK 14' ,10000,
+1282,uncultured Telonemida  ,10000,
+1283,Alloascoideomycetes,10000,
+1284,uncultured methanogenic archaeon ,10000,
+1285,Amblyosporidae,10000,
+1286,Coprothermobacteria,10000,
+1287,Coleochaetophyceae,10000,
+1288,Ancyromonas,10000,
+1289,Appendicularia,10000,
+1290,C10-SB1A,10000,
+1291,Dimargaritomycetes,10000,
+1292,Elev-1554,10000,
+1293,Bacillidium sp.,10000,
+1294,Parcubacteria group bacterium GW2011_GWF2_42_7 ,10000,
+1295,Parcubacteria Unknown Order,10000,
+1296,Tectomicrobia Unknown Order,10000,
+1297,Pelagophyceae,10000,
+1298,Gracilipodida,10000,
+1299,Eoacanthocephala,10000,
+1300,Euryarchaeota archaeon SCGC AAA286-E23,10000,
+1301,TOTO-A6-15,10000,
+1302,Syntrophia,10000,
+1303,Chlorarachniophyceae,10000,
+1304,Mitosporidium daphniae   ,10000,
+1305,Stylonematophyceae,10000,
+1306,Candidatus Uhrbacteria,10000,
+1307,Thermoflexia,10000,
+1308,archaeon GW2011_AR17  ,10000,
+1309,candidate division WS6 bacterium OLB21,10000,
+1310,Candidatus Jorgensenbacteria,10000,
+1311,crenarchaeote enrichment culture clone 61-23f,10000,
+1312,hydrothermal vent metagenome  ,10000,
+1313,Trematoda,10000,
+1314,Zoopagomycetes,10000,
+1315,Z273FA48,10000,
+1316,uncultured Aminicenantes bacterium  ,10000,
+1317,pSL12,10000,
+1318,Ika33,10000,
+1319,Nutomonas,10000,
+1320,miscellaneous Crenarchaeota group archaeon SMTZ-80,10000,
+1321,LK-44f,10000,
+1322,uncultured Microgenomates group bacterium,10000,
+1323,Archiacanthocephala,10000,
+1324,uncultured planctomycete   ,10000,
+1325,unidentified archaeon  ,10000,
+1326,Magnoliopsida,100000,0.008907548017830455
+1327,Rhizaria,100000,0.005813315812354942
+1328,Gammaproteobacteria,100000,0.00948201877948039
+1329,Alveolata,100000,0.010244672211093745
+1330,Flavobacteriia,100000,0.019844801548833783
+1331,Alphaproteobacteria,100000,0.027992208971228904
+1332,Arthropoda,100000,0.005729525280723501
+1333,Cyanobacteriia,100000,0.014698518569775833
+1334,Chloroplast,100000,0.012151557243921406
+1335,Conoidasida,100000,0.007350165374482504
+1336,Bacillariophyceae,100000,0.03619032729319208
+1337,uncultured bacterium   ,100000,0.016543242126075882
+1338,Rhabditophora,100000,0.03957109203695077
+1339,Nematoda,100000,0.034055436608937055
+1340,Chordata,100000,0.023175921556997596
+1341,Coscinodiscophyceae,100000,0.03712835332781026
+1342,Gastrotricha,100000,0.017975891803810703
+1343,Betaproteobacteria,100000,0.06965319761896493
+1344,Litostomatea,100000,0.06619446546854607
+1345,Gnetopsida,100000,0.037392574489363936
+1346,Arachnida,100000,0.0396800530795302
+1347,Chromadorea,100000,0.04689363640964762
+1348,LKM74,100000,0.06549012787351673
+1349,Chlorophyceae,100000,0.07567633230611326
+1350,Insecta,100000,0.043263385484408064
+1351,Dinophyceae,100000,0.10168752812132825
+1352,Aconoidasida,100000,0.040773329844892285
+1353,Pinopsida,100000,0.037443385047629875
+1354,Bacilli,100000,0.10448168340534414
+1355,Bacteroidia,100000,0.12388684944579555
+1356,Actinobacteria,100000,0.11897261683644253
+1357,Clostridia,100000,0.37683651839294285
+1358,Stramenopiles,100000,0.12773541853690323
+1359,Xenacoelomorpha,100000,0.056288131407747445
+1360,Actinomycetes,100000,0.07935891419465788
+1361,Coriobacteriia,100000,0.3961566605775537
+1362,Tremellomycetes,100000,0.020931444973045252
+1363,Cytophagia,100000,0.051528180596042215
+1364,Pichiomycetes,100000,0.10267270748023578
+1365,Deltaproteobacteria,100000,0.071395686661444
+1366,Sphingobacteriia,100000,0.06271055754278579
+1367,Sordariomycetes,100000,0.13285036495018182
+1368,Methanomicrobia,100000,0.13184720238157893
+1369,Klebsormidiophyceae,100000,0.1279545982568741
+1370,Verrucomicrobiae,100000,0.05413079261007347
+1371,Saccharomycetes,100000,0.1371861975316913
+1372,Chloroplastida,100000,0.12163310200140678
+1373,Platyhelminthes,100000,0.06740702460316944
+1374,Methanobacteria,100000,0.08430003110175836
+1375,uncultured archaeon   ,100000,0.20758479172686567
+1376,Planctomycetacia,100000,0.15840173598560606
+1377,Zygnematophyceae,100000,0.47899988390549453
+1378,Verrucomicrobiia,100000,0.17016333787562077
+1379,Thermoplasmata,100000,0.11698184122652491
+1380,Aenigmarchaeota Unknown Order,100000,0.12282702870258427
+1381,Desulfuromonadia,100000,0.05266399192144436
+1382,Candidatus Collierbacteria,100000,0.14398328034497285
+1383,Eurotiomycetes,100000,0.1500732619991626
+1384,Planctomycetia,100000,0.14163537797963918
+1385,Acidimicrobiia,100000,0.2506260148140827
+1386,Desulfobulbia,100000,0.0746268656716418
+1387,Craspedida,100000,0.1437765484508975
+1388,Mediophyceae,100000,0.14671754876774679
+1389,Bacteroidetes Order II,100000,0.03751838684010148
+1390,Elardia,100000,0.13824104097783277
+1391,Desulfobacteria,100000,0.10311015468706851
+1392,Scyphozoa,100000,0.18174403097078307
+1393,Marine Benthic Group A,100000,0.11067940087239636
+1394,Fragilariophyceae,100000,0.215655276537251
+1395,Euglenida,100000,0.17568209223157666
+1396,Amoeboaphelidium,100000,0.15882933409677985
+1397,Annelida,100000,0.24301950905330985
+1398,Kickxellales,100000,0.23460850850574075
+1399,Intramacronucleata,100000,0.2357548474308503
+1400,Discosea,100000,0.08015152828126423
+1401,Prymnesiophyceae,100000,0.16120081383626603
+1402,Karyorelictea,100000,0.18691400411461281
+1403,Acanthocystidae,100000,0.13812813706360827
+1404,Bigyra,100000,0.1592310986478001
+1405,Epsilonproteobacteria,100000,0.2389393707237302
+1406,uncultured Epsilonproteobacteria bacterium  ,100000,0.11907012119681222
+1407,Oligohymenophorea,100000,0.1515216297535266
+1408,Endogonomycetes,100000,0.09913530452584432
+1409,Gracilibacteria,100000,0.25864656069234704
+1410,Bacteriovoracia,100000,0.20887603673940974
+1411,Prostomatea,100000,0.1511130906171932
+1412,Diplonemea,100000,0.1812648274254867
+1413,Cryptophyceae,100000,0.07422696190252054
+1414,Kinetoplastea,100000,0.09175416528021116
+1415,OM190,100000,0.17389633850575148
+1416,Phycisphaerae,100000,0.37702353272665445
+1417,Agaricomycetes,100000,0.6499999999999999
+1418,Opitutae,100000,0.44407726520727236
+1419,Chytridiomycetes,100000,0.2877112750272012
+1420,Actinopteri,100000,0.3410111814941125
+1421,Entomophthoromycotina,100000,0.08038620562452675
+1422,Marine Group I,100000,0.15974933105107683
+1423,Anthocerotopsida,100000,0.2435638751242988
+1424,Choanoflagellata,100000,0.23297389204979574
+1425,Pezizomycotina,100000,0.9605057104818813
+1426,Polycystinea,100000,0.13556643376566044
+1427,Soil Crenarchaeotic Group(SCG),100000,0.3930886643760435
+1428,Thermoleophilia,100000,0.282842712474619
+1429,Erysipelotrichia,100000,0.7243558228002943
+1430,Spirochaetes,100000,0.4448782605013046
+1431,Mollicutes,100000,0.3278489945747044
+1432,Cyanophyceae,100000,0.4160126469767051
+1433,Saprospiria,100000,0.409839907768875
+1434,Halobacteria,100000,0.2669931913432585
+1435,Cyanobacteria,100000,0.5110181189510551
+1436,uncultured archaeon  ,100000,0.2210192869431909
+1437,Discoba,100000,0.2802221804503746
+1438,Proteobacteria Unknown Order,100000,0.2876127403911429
+1439,Hydrozoa,100000,0.2568505834570406
+1440,Phyllopharyngea,100000,0.2710925211930905
+1441,Rhodothermia,100000,0.2020305089104422
+1442,Anaerolineae,100000,0.4824734316466534
+1443,Spartobacteria,100000,0.6779951469994122
+1444,Chitinophagia,100000,0.27893278391466797
+1445,Malacostraca,100000,0.5271458979557453
+1446,Lentisphaeria,100000,0.17801277160299483
+1447,Cnidaria,100000,0.31266215243817014
+1448,Hexanauplia,100000,0.41160841536988246
+1449,LKM11,100000,0.49254801826406536
+1450,Fusobacteriia,100000,0.5239183779923731
+1451,Gemmatimonadetes,100000,0.2838422206966399
+1452,uncultured fungus  ,100000,0.24176854432381348
+1453,uncultured marine eukaryote  ,100000,0.23570226039551587
+1454,Chlamydiae,100000,0.4124643915286789
+1455,Leotiomycetes,100000,0.562507938266396
+1456,Subgroup 6,100000,
+1457,Planctomycetes,100000,0.17137643513759376
+1458,Oligoflexia,100000,0.1753778805882188
+1459,Dothideomycetes,100000,0.2780787768285256
+1460,Babeliae,100000,0.4714045207910317
+1461,Solibacteres,100000,0.3767961101736259
+1462,Polyangia,100000,0.13856406460551027
+1463,Chlamydiia,100000,0.17833266514160784
+1464,uncultured microeukaryote   ,100000,0.24835966018793706
+1465,Pucciniomycotina,100000,0.15713484026367722
+1466,Nitrospira,100000,0.30584217691149584
+1467,WCHB1-41,100000,0.0
+1468,Candidatus Levybacteria,100000,
+1469,Bacteroidetes VC2.1 Bac22,100000,0.45580284409707306
+1470,Melainabacteria,100000,
+1471,Blastocatellia,100000,0.4714045207910317
+1472,Candidatus Campbellbacteria,100000,
+1473,Thermoanaerobaculia,100000,0.282842712474619
+1474,Spirotrichea,100000,0.28284271247461895
+1475,Caldilineae,100000,0.6614378277661477
+1476,Pyramimonadophyceae,100000,0.24490188229013327
+1477,Trebouxiophyceae,100000,0.10878565864408415
+1478,Branchiopoda,100000,
+1479,Ascetosporea,100000,0.4668117437070199
+1480,Sphagnopsida,100000,0.5075605663680502
+1481,Ascidiacea,100000,
+1482,OPB35 soil group,100000,
+1483,Rhodophyceae,100000,0.7071067811865476
+1484,BD2-11 terrestrial group,100000,0.4714045207910316
+1485,Syntrophobacteria,100000,0.24988518943137336
+1486,Acidobacteria,100000,
+1487,Parcubacteria,100000,
+1488,Myxozoa,100000,
+1489,Negativicutes,100000,0.47140452079103173
+1490,Ustilaginomycotina,100000,0.6666666666666667
+1491,Oligosphaeria,100000,0.12856486930664499
+1492,KD4-96,100000,0.1732050807568878
+1493,Nitrospiria,100000,0.7614996105085896
+1494,Holophagae,100000,
+1495,Caldisericia,100000,0.42127085800286385
+1496,Deinococci,100000,0.27216552697590873
+1497,Entorrhizomycetes,100000,
+1498,Deep Sea Euryarchaeotic Group(DSEG),100000,
+1499,Spirochaetia,100000,
+1500,Opitutia,100000,
+1501,BD7-11,100000,0.0
+1502,Mammalia,100000,
+1503,Candidatus Saccharimonadia,100000,
+1504,Hydrogenedentia,100000,0.27216552697590873
+1505,Harpellomycetes,100000,
+1506,uncultured eukaryote  ,100000,
+1507,Pla4 lineage,100000,0.0
+1508,Sva0485,100000,
+1509,Palaeacanthocephala,100000,
+1510,Thermoprotei,100000,
+1511,uncultured bacterium  ,100000,0.5677270907634908
+1512,Omnitrophica Unknown Order,100000,0.13323467750529822
+1513,Bacteroidetes Order III,100000,0.1333333333333334
+1514,Group C3,100000,0.28284271247461895
+1515,Bdellovibrionia,100000,
+1516,R76-B128,100000,
+1517,Kickxellomycetes,100000,
+1518,Ktedonobacteria,100000,0.3464101615137754
+1519,Pucciniomycetes,100000,
+1520,Balneolia,100000,
+1521,Colpodea,100000,
+1522,uncultured archaeon,100000,0.2474358296526967
+1523,Sericytochromatia,100000,
+1524,Gastropoda,100000,
+1525,uncultured candidate division SR1,100000,0.0
+1526,PAUC43f marine benthic group,100000,
+1527,Lecanoromycetes,100000,0.0
+1528,Mollusca,100000,
+1529,Chloroflexia,100000,
+1530,Endogonales,100000,
+1531,uncultured organism   ,100000,
+1532,Kiritimatiellia,100000,
+1533,Demospongiae,100000,
+1534,Lepidosauria,100000,
+1535,Imbricatea,100000,
+1536,Anthozoa,100000,
+1537,Amphibia,100000,
+1538,Candidatus Pacebacteria,100000,
+1539,Ulvophyceae,100000,0.0
+1540,Dacrymycetes,100000,
+1541,Chlorodendrophyceae,100000,
+1542,Blastocladiomycetes,100000,
+1543,Agaricomycotina,100000,
+1544,Fibrobacteria,100000,0.0
+1545,uncultured crenarchaeote   ,100000,
+1546,Bacteroidetes BD2-2,100000,
+1547,Polychaeta,100000,
+1548,WCHB1-32,100000,
+1549,Verrucomicrobia Unknown Order,100000,
+1550,Bryopsida,100000,
+1551,uncultured,100000,0.0
+1552,Microbotryomycetes,100000,
+1553,Subgroup 22,100000,
+1554,Florideophyceae,100000,
+1555,SBXY-6786,100000,
+1556,NB1-j,100000,
+1557,Latescibacterota,100000,
+1558,Candidatus Shapirobacteria,100000,
+1559,Chitinivibrionia,100000,
+1560,vadinHA49,100000,
+1561,Parcubacteria group bacterium GW2011_GWA2_44_12 ,100000,
+1562,Bacteroidetes vadinHA17,100000,
+1563,Candidatus Falkowbacteria,100000,
+1564,Eurotatoria,100000,
+1565,Rubrobacteria,100000,
+1566,Bryozoa,100000,
+1567,OPB41,100000,
+1568,Terriglobia,100000,
+1569,Aquificae,100000,
+1570,ARKICE-90,100000,
+1571,Parcubacteria bacterium SCGC AAA010-E09 ,100000,
+1572,Calditrichia,100000,
+1573,Myxococcia,100000,
+1574,Subgroup 2,100000,
+1575,Candidatus Woesebacteria,100000,
+1576,Marinimicrobia (SAR406 clade),100000,0.0
+1577,Subgroup 21,100000,
+1578,Thermotogae,100000,
+1579,11B-2,100000,
+1580,Ardenticatenia,100000,
+1581,Ministeriida,100000,
+1582,uncultured euryarchaeote   ,100000,
+1583,uncultured soil bacterium  ,100000,
+1584,Nanoarchaeia,100000,
+1585,Saccharomycotina,100000,
+1586,Kiritimatiellae,100000,
+1587,Ignavibacteria,100000,
+1588,Embryophyta,100000,
+1589,Candidatus Poseidoniia,100000,
+1590,Acidobacteriae,100000,
+1591,RCP2-54,100000,
+1592,Subgroup 26,100000,
+1593,FHMa11 terrestrial group,100000,
+1594,Brachiopoda,100000,
+1595,Eumycetozoa,100000,
+1596,Ichthyophonae,100000,
+1597,Dictyochophyceae,100000,
+1598,SAR324 clade(Marine group B),100000,
+1599,Pla3 lineage,100000,
+1600,Pedinophyceae,100000,
+1601,pItb-vmat-80,100000,
+1602,Variosea,100000,
+1603,Heterotrichea,100000,
+1604,Palaeonemertea,100000,
+1605,Metamonada,100000,
+1606,Vicinamibacteria,100000,
+1607,Synergistia,100000,
+1608,Deferrisomatia,100000,
+1609,Dadabacteriia,100000,
+1610,Thermomicrobia,100000,
+1611,Omnitrophia,100000,
+1612,Phytomyxea,100000,
+1613,Chlorobia,100000,
+1614,Polyplacophora,100000,
+1615,Ustilaginomycetes,100000,
+1616,Desulfovibrionia,100000,
+1617,Elusimicrobia,100000,
+1618,Gemmatimonadia,100000,
+1619,uncultured euryarchaeote  ,100000,
+1620,SB-5,100000,
+1621,Cephalopoda,100000,
+1622,LD1-PB3,100000,
+1623,Dehalococcoidia,100000,
+1624,Candidatus Roizmanbacteria,100000,
+1625,Longimicrobia,100000,
+1626,Gymnolaemata,100000,
+1627,Zetaproteobacteria,100000,
+1628,Entomophthoromycetes,100000,
+1629,Candidatus Beckwithbacteria,100000,
+1630,LD1-PA32,100000,
+1631,FGL7S,100000,
+1632,uncultured candidate division JS1 bacterium,100000,
+1633,S0134 terrestrial group,100000,
+1634,Nitrospinia,100000,
+1635,Nitriliruptoria,100000,
+1636,Nucleophaga,100000,
+1637,Bangiophyceae,100000,
+1638,19c-33,100000,
+1639,Raphidophyceae,100000,
+1640,bacterium enrichment culture clone,100000,
+1641,AT-s3-28,100000,
+1642,Terrestrial Hot Spring Gp(THSCG),100000,
+1643,Subgroup 17,100000,
+1644,Fimbriimonadia,100000,
+1645,Subgroup 15,100000,
+1646,Ichthyostraca,100000,
+1647,uncultured organism  ,100000,
+1648,Saccharimonadia,100000,
+1649,Pseudonosematidae,100000,
+1650,WCHA1-57,100000,
+1651,Monoblepharidomycetes,100000,
+1652,Defferrisomatia,100000,
+1653,Candidatus Azambacteria,100000,
+1654,Priapulimorpha,100000,
+1655,Dipodascomycetes,100000,
+1656,Plagiopylea,100000,
+1657,Limnochordia,100000,
+1658,Latescibacteria,100000,
+1659,AK31,100000,
+1660,uncultured euryarchaeote,100000,
+1661,Aphelidea,100000,
+1662,uncultured Microgenomates group bacterium ,100000,
+1663,Kazan-3A-21,100000,
+1664,Candidatus Giovannonibacteria,100000,
+1665,Ichthyosporea,100000,
+1666,SJA-15,100000,
+1667,uncultured Candidatus Saccharibacteria bacterium ,100000,
+1668,uncultured archaeon Arc.212  ,100000,
+1669,SPOTSOCT00m83,100000,
+1670,TK10,100000,
+1671,Deferribacteres,100000,
+1672,Aigarchaeota Unknown Order,100000,
+1673,marine sediment,100000,
+1674,SBR2076,100000,
+1675,Collembola,100000,
+1676,20a-9,100000,
+1677,Eutardigrada,100000,
+1678,Thaumarchaeota Unknown Order,100000,
+1679,Wallemiomycetes,100000,
+1680,ML635J-21,100000,
+1681,South African Gold Mine Gp,100000,
+1682,P1-31,100000,
+1683,AK59,100000,
+1684,uncultured bacterium ,100000,
+1685,MD2898-B26,100000,
+1686,uncultured archaeon ,100000,
+1687,marine metagenome ,100000,
+1688,Umbelopsidomycetes,100000,
+1689,Glomeromycetes,100000,
+1690,Candidatus Peribacteria,100000,
+1691,Charophyceae,100000,
+1692,Mucoromycetes,100000,
+1693,Abditibacteriia,100000,
+1694,Mamiellophyceae,100000,
+1695,Exobasidiomycetes,100000,
+1696,Glaucocystophyceae,100000,
+1697,WPS-2,100000,
+1698,Vampirivibrionia,100000,
+1699,Chrysophyceae,100000,
+1700,Kapabacteria,100000,
+1701,Abditibacteria,100000,
+1702,Diapherotrites Unknown Order,100000,
+1703,028H05-P-BN-P5,100000,
+1704,SM1A07,100000,
+1705,H26-1,100000,
+1706,uncultured candidate division WS6 bacterium,100000,
+1707,Deferribacteres Unknown Order,100000,
+1708,Subgroup 9,100000,
+1709,Taphrinomycetes,100000,
+1710,MAST-12C,100000,
+1711,uncultured opisthokont  ,100000,
+1712,AKAU4049,100000,
+1713,Enoplea,100000,
+1714,Subulatomonas,100000,
+1715,Pneumocystomycetes,100000,
+1716,Sumerlaeia,100000,
+1717,Echinoidea,100000,
+1718,Neocallimastigomycetes,100000,
+1719,Tissierellia,100000,
+1720,Nitrososphaeria,100000,
+1721,Eustigmatophyceae,100000,
+1722,Parcubacteria group bacterium GW2011_GWC2_49_9 ,100000,
+1723,014H09-A-SD-P15,100000,
+1724,Ostracoda,100000,
+1725,Fe-A-9,100000,
+1726,059A02-A-SD-P93,100000,
+1727,Candidatus Curtissbacteria,100000,
+1728,Maxillopoda,100000,
+1729,Candidatus Moranbacteria,100000,
+1730,S085,100000,
+1731,Homoscleromorpha,100000,
+1732,WWE3,100000,
+1733,Cestoda,100000,
+1734,MSBL8,100000,
+1735,Hydrogenophilia,100000,
+1736,Parvarchaeota Unknown Order,100000,
+1737,Armatimonadia,100000,
+1738,uncultured KB1 group bacterium ,100000,
+1739,Pezizomycetes,100000,
+1740,Thecostraca,100000,
+1741,unidentified archaeon   ,100000,
+1742,SJA-68,100000,
+1743,uncultured crenarchaeote  ,100000,
+1744,d142,100000,
+1745,JG30-KF-CM66,100000,
+1746,uncultured marine eukaryote ,100000,
+1747,Tetraphidopsida,100000,
+1748,Phaeophyceae,100000,
+1749,Pilidiophora,100000,
+1750,uncultured microorganism  ,100000,
+1751,Candidatus Babeliae,100000,
+1752,Rotifera,100000,
+1753,Marinimicrobia bacterium JGI,100000,
+1754,Armophorea,100000,
+1755,archaeon enrichment culture clone C1-1C-A,100000,
+1756,Clitellata,100000,
+1757,Korarchaeota Unknown Order,100000,
+1758,Chlorobiia,100000,
+1759,Gnathostomulida,100000,
+1760,Pauropoda,100000,
+1761,MBNT15,100000,
+1762,SAR202 clade,100000,
+1763,Monogononta,100000,
+1764,Lichinomycetes,100000,
+1765,MB-A2-108,100000,
+1766,Schekmanbacteria,100000,
+1767,Cystobasidiomycetes,100000,
+1768,uncultured archaeon WCHD3-30 ,100000,
+1769,Archaeoglobi,100000,
+1770,uncultured eukaryote   ,100000,
+1771,Aves,100000,
+1772,SHA-26,100000,
+1773,Margulisbacteria,100000,
+1774,Candidatus Nomurabacteria,100000,
+1775,Monogenea,100000,
+1776,Methylomirabilia,100000,
+1777,Archamoebae,100000,
+1778,Thermodesulfovibrionia,100000,
+1779,Methanococci,100000,
+1780,Candidatus Sumerlaeia,100000,
+1781,Bivalvia,100000,
+1782,Priapulida,100000,
+1783,Candidatus Magasanikbacteria,100000,
+1784,uncultured candidate division WWE3 bacterium,100000,
+1785,Candidatus Aminicenantia,100000,
+1786,Marosporida,100000,
+1787,uncultured Nitrospirae bacterium  ,100000,
+1788,uncultured fungus   ,100000,
+1789,OPPD003,100000,
+1790,Harpellales,100000,
+1791,uncultured archaeon 19a-29  ,100000,
+1792,Cloacimonetes Unknown Order,100000,
+1793,Zygnemophyceae,100000,
+1794,Synurophyceae,100000,
+1795,Agaricostilbomycetes,100000,
+1796,uncultured eubacterium WCHB1-60  ,100000,
+1797,Nephroselmidophyceae,100000,
+1798,Lycopodiopsida,100000,
+1799,Subgroup 18,100000,
+1800,Chlorokybophyceae,100000,
+1801,Parcubacteria group bacterium GW2011_GWA2_46_7 ,100000,
+1802,WCHB1-81,100000,
+1803,uncultured Latescibacteria bacterium  ,100000,
+1804,Candidatus Kuenenbacteria,100000,
+1805,Zixibacteria,100000,
+1806,uncultured organism ,100000,
+1807,Candidatus Daviesbacteria,100000,
+1808,Candidatus Izimaplasma,100000,
+1809,Terrimicrobiia,100000,
+1810,Z7ME43,100000,
+1811,RBG-16-55-12,100000,
+1812,Phylactolaemata,100000,
+1813,MACA-EFT26,100000,
+1814,candidate division TM6 bacterium,100000,
+1815,Candidatus Wolfebacteria bacterium GW2011_GWA2_47_9b ,100000,
+1816,Thermococci,100000,
+1817,AEGEAN-245,100000,
+1818,uncultured crenarchaeote pBRKC135  ,100000,
+1819,uncultured anaerobic bacterium  ,100000,
+1820,marine metagenome   ,100000,
+1821,Chilopoda,100000,
+1822,Polypodiopsida,100000,
+1823,Mesozoa,100000,
+1824,Moduliflexia,100000,
+1825,uncultured candidate division AC1 bacterium,100000,
+1826,uncultured archaeon PENDANT-33 ,100000,
+1827,Candidatus Sericytochromatia,100000,
+1828,Longimicrobiia,100000,
+1829,LCP-89,100000,
+1830,Arctic97B-4 marine group,100000,
+1831,Holothuroidea,100000,
+1832,Breviata,100000,
+1833,Planomonas micra  ,100000,
+1834,Opalinata,100000,
+1835,Aminicenantia,100000,
+1836,Crinoidea,100000,
+1837,Rozella,100000,
+1838,UA11,100000,
+1839,Kryptonia,100000,
+1840,ABY1,100000,
+1841,Cloacimonadia,100000,
+1842,Enteropneusta,100000,
+1843,marine metagenome  ,100000,
+1844,Kathablepharidae,100000,
+1845,SJA-28,100000,
+1846,H15-6,100000,
+1847,Methanonatronarchaeia,100000,
+1848,SL56 marine group,100000,
+1849,Leptospirae,100000,
+1850,Lineage IIb,100000,
+1851,Picomonadida,100000,
+1852,Atribacteria,100000,
+1853,archaeon GW2011_AR18  ,100000,
+1854,archaeon GW2011_AR13  ,100000,
+1855,S-BQ2-57 soil group,100000,
+1856,Catenulida,100000,
+1857,Subgroup 5,100000,
+1858,groundwater metagenome   ,100000,
+1859,Basidiobolomycetes,100000,
+1860,Pterobranchia,100000,
+1861,Jungermanniopsida,100000,
+1862,uncultured cyanobacterium   ,100000,
+1863,Thermodesulfobacteria,100000,
+1864,Palmophyllophyceae,100000,
+1865,Rhodellophyceae,100000,
+1866,Candidatus Nanoarchaeia,100000,
+1867,SPG12-401-411-B72,100000,
+1868,Malawimonas,100000,
+1869,uncultured candidate division BRC1 bacterium,100000,
+1870,Mesostigmatophyceae,100000,
+1871,Orbiliomycetes,100000,
+1872,Candidatus Wolfebacteria,100000,
+1873,Berkelbacteria,100000,
+1874,PBS-18,100000,
+1875,KIST-JJY010,100000,
+1876,D-F10,100000,
+1877,Diplopoda,100000,
+1878,Dictyoglomia,100000,
+1879,Nassophorea,100000,
+1880,Enopla,100000,
+1881,Geoglossomycetes,100000,
+1882,uncultured euryarchaeote ,100000,
+1883,uncultured marine,100000,
+1884,Senoma,100000,
+1885,Flabellinia,100000,
+1886,Candidatus Adlerbacteria,100000,
+1887,Sagittoidea,100000,
+1888,Tubulinea,100000,
+1889,Candidatus Bathyarchaeia,100000,
+1890,Subgroup 13,100000,
+1891,W5,100000,
+1892,Chondrichthyes,100000,
+1893,Cryptomonadales,100000,
+1894,Chthonomonadetes,100000,
+1895,Thecofilosea,100000,
+1896,Nephridiophaga,100000,
+1897,Leptocardii,100000,
+1898,uncultured deep-sea bacterium  ,100000,
+1899,MVP-15,100000,
+1900,Candidatus Yanofskybacteria,100000,
+1901,terrestrial metagenome   ,100000,
+1902,uncultured Candidatus Dependentiae bacterium,100000,
+1903,Acantharea,100000,
+1904,Heterophryidae,100000,
+1905,bacterium RFB D08  ,100000,
+1906,Candidatus Peregrinibacteria bacterium GW2011_GWF2_39_17 ,100000,
+1907,BMS9AB35,100000,
+1908,Parcubacteria group bacterium GW2011_GWA2_47_8 ,100000,
+1909,Nanoarchaeota archaeon SCGC AAA011-D5,100000,
+1910,uncultured crenarchaeote,100000,
+1911,Acanthoecida,100000,
+1912,Marchantiopsida,100000,
+1913,Pinguiophyceae,100000,
+1914,Pavlovophyceae,100000,
+1915,Taphrinomycotina,100000,
+1916,Caudofoveata,100000,
+1917,Scalidophora,100000,
+1918,Schizosaccharomycetes,100000,
+1919,Compsopogonophyceae,100000,
+1920,Candidatus Amesbacteria,100000,
+1921,uncultured methanogenic archaeon  ,100000,
+1922,Actinopterygii,100000,
+1923,Cubozoa,100000,
+1924,uncultured marine bacterium ,100000,
+1925,Gitt-GS-136,100000,
+1926,Paramicrosporidium,100000,
+1927,metal-contaminated soil clone K20-27 ,100000,
+1928,uncultured Caldiserica bacterium  ,100000,
+1929,Hyphochytriomycetes,100000,
+1930,Parcubacteria group bacterium GW2011_GWC2_44_22 ,100000,
+1931,Stenolaemata,100000,
+1932,Mortierellomycetes,100000,
+1933,SHA-4,100000,
+1934,Andreaeopsida,100000,
+1935,uncultured microorganism   ,100000,
+1936,uncultured crenarchaeote ,100000,
+1937,uncultured Parcubacteria group bacterium ,100000,
+1938,Asteroidea,100000,
+1939,uncultured bacterium I025  ,100000,
+1940,Cycadopsida,100000,
+1941,Amblyospora sp.,100000,
+1942,SHA-41,100000,
+1943,Rhynchonellata,100000,
+1944,uncultured bacterium 'KTK 14' ,100000,
+1945,uncultured Telonemida  ,100000,
+1946,Alloascoideomycetes,100000,
+1947,uncultured methanogenic archaeon ,100000,
+1948,Amblyosporidae,100000,
+1949,Coprothermobacteria,100000,
+1950,Coleochaetophyceae,100000,
+1951,Ancyromonas,100000,
+1952,Appendicularia,100000,
+1953,C10-SB1A,100000,
+1954,Dimargaritomycetes,100000,
+1955,Elev-1554,100000,
+1956,Bacillidium sp.,100000,
+1957,Parcubacteria group bacterium GW2011_GWF2_42_7 ,100000,
+1958,Parcubacteria Unknown Order,100000,
+1959,Tectomicrobia Unknown Order,100000,
+1960,Pelagophyceae,100000,
+1961,Gracilipodida,100000,
+1962,Eoacanthocephala,100000,
+1963,Euryarchaeota archaeon SCGC AAA286-E23,100000,
+1964,TOTO-A6-15,100000,
+1965,Syntrophia,100000,
+1966,Chlorarachniophyceae,100000,
+1967,Mitosporidium daphniae   ,100000,
+1968,Stylonematophyceae,100000,
+1969,Candidatus Uhrbacteria,100000,
+1970,Thermoflexia,100000,
+1971,archaeon GW2011_AR17  ,100000,
+1972,candidate division WS6 bacterium OLB21,100000,
+1973,Candidatus Jorgensenbacteria,100000,
+1974,crenarchaeote enrichment culture clone 61-23f,100000,
+1975,hydrothermal vent metagenome  ,100000,
+1976,Trematoda,100000,
+1977,Zoopagomycetes,100000,
+1978,Z273FA48,100000,
+1979,uncultured Aminicenantes bacterium  ,100000,
+1980,pSL12,100000,
+1981,Ika33,100000,
+1982,Nutomonas,100000,
+1983,miscellaneous Crenarchaeota group archaeon SMTZ-80,100000,
+1984,LK-44f,100000,
+1985,uncultured Microgenomates group bacterium,100000,
+1986,Archiacanthocephala,100000,
+1987,uncultured planctomycete   ,100000,
+1988,unidentified archaeon  ,100000,
+1989,Magnoliopsida,1000000,0.003200073448199521
+1990,Rhizaria,1000000,0.0014654802219494652
+1991,Gammaproteobacteria,1000000,0.0021844308664705804
+1992,Alveolata,1000000,0.004888367787425639
+1993,Flavobacteriia,1000000,0.005924254258529591
+1994,Alphaproteobacteria,1000000,0.00458690548907715
+1995,Arthropoda,1000000,0.005913248607627081
+1996,Cyanobacteriia,1000000,0.006004461256773871
+1997,Chloroplast,1000000,0.007227136108883723
+1998,Conoidasida,1000000,0.005919862428088229
+1999,Bacillariophyceae,1000000,0.009517759682752444
+2000,uncultured bacterium   ,1000000,0.007123635899885786
+2001,Rhabditophora,1000000,0.013740424816826816
+2002,Nematoda,1000000,0.014239466500198986
+2003,Chordata,1000000,0.004989305546601356
+2004,Coscinodiscophyceae,1000000,0.010697905902339218
+2005,Gastrotricha,1000000,0.009904416528979392
+2006,Betaproteobacteria,1000000,0.03718655635009799
+2007,Litostomatea,1000000,0.0180610008289948
+2008,Gnetopsida,1000000,0.020191633080282646
+2009,Arachnida,1000000,0.017333294710047423
+2010,Chromadorea,1000000,0.008830279263467133
+2011,LKM74,1000000,0.0078515233564394
+2012,Chlorophyceae,1000000,0.016027822016356642
+2013,Insecta,1000000,0.02792938052527128
+2014,Dinophyceae,1000000,0.037862461632089554
+2015,Aconoidasida,1000000,0.022530210043542342
+2016,Pinopsida,1000000,0.021124669209161673
+2017,Bacilli,1000000,0.03887268102262371
+2018,Bacteroidia,1000000,0.09156647107716982
+2019,Actinobacteria,1000000,0.05033498438638602
+2020,Clostridia,1000000,0.04241617550466667
+2021,Stramenopiles,1000000,0.03219595058274718
+2022,Xenacoelomorpha,1000000,0.017420045692423922
+2023,Actinomycetes,1000000,0.040791055598970484
+2024,Coriobacteriia,1000000,0.2786617699347081
+2025,Tremellomycetes,1000000,0.01858531351350505
+2026,Cytophagia,1000000,0.040214423544515925
+2027,Pichiomycetes,1000000,0.019373821695473862
+2028,Deltaproteobacteria,1000000,0.04289503741796695
+2029,Sphingobacteriia,1000000,0.04125198640669827
+2030,Sordariomycetes,1000000,0.022239179176759213
+2031,Methanomicrobia,1000000,0.029608249341360512
+2032,Klebsormidiophyceae,1000000,0.018268490256053007
+2033,Verrucomicrobiae,1000000,0.04971299799535749
+2034,Saccharomycetes,1000000,0.03042156914178406
+2035,Chloroplastida,1000000,0.08174317093741616
+2036,Platyhelminthes,1000000,0.0554407804341936
+2037,Methanobacteria,1000000,0.07597238401861442
+2038,uncultured archaeon   ,1000000,0.08663882139199722
+2039,Planctomycetacia,1000000,0.07095990291077801
+2040,Zygnematophyceae,1000000,0.055870476646970306
+2041,Verrucomicrobiia,1000000,0.02487637080131123
+2042,Thermoplasmata,1000000,0.02328648152293428
+2043,Aenigmarchaeota Unknown Order,1000000,0.07984943937938001
+2044,Desulfuromonadia,1000000,0.01636975106713598
+2045,Candidatus Collierbacteria,1000000,0.0359690332578408
+2046,Eurotiomycetes,1000000,0.030850875302892485
+2047,Planctomycetia,1000000,0.03505998935473834
+2048,Acidimicrobiia,1000000,0.028587054743490836
+2049,Desulfobulbia,1000000,0.0314766069061009
+2050,Craspedida,1000000,0.04714190299985421
+2051,Mediophyceae,1000000,0.0533925794081406
+2052,Bacteroidetes Order II,1000000,0.0886715103270987
+2053,Elardia,1000000,0.034401498164353644
+2054,Desulfobacteria,1000000,0.04194800431825211
+2055,Scyphozoa,1000000,0.047151772339625336
+2056,Marine Benthic Group A,1000000,0.09105010419598149
+2057,Fragilariophyceae,1000000,0.0984696666644521
+2058,Euglenida,1000000,0.044868443177971444
+2059,Amoeboaphelidium,1000000,0.04500852301737371
+2060,Annelida,1000000,0.1106488667835362
+2061,Kickxellales,1000000,0.03136233127685303
+2062,Intramacronucleata,1000000,0.026870369371408916
+2063,Discosea,1000000,0.07310075936761318
+2064,Prymnesiophyceae,1000000,0.03784797131465043
+2065,Karyorelictea,1000000,0.06568308555276473
+2066,Acanthocystidae,1000000,0.05572807537033419
+2067,Bigyra,1000000,0.037352847372860785
+2068,Epsilonproteobacteria,1000000,0.07049133588554884
+2069,uncultured Epsilonproteobacteria bacterium  ,1000000,0.0722777057730141
+2070,Oligohymenophorea,1000000,0.05664017914072603
+2071,Endogonomycetes,1000000,0.05737833750244021
+2072,Gracilibacteria,1000000,0.03586922047514304
+2073,Bacteriovoracia,1000000,0.06821197813594641
+2074,Prostomatea,1000000,0.025307201429571897
+2075,Diplonemea,1000000,0.03238422259851321
+2076,Cryptophyceae,1000000,0.11701054025871264
+2077,Kinetoplastea,1000000,0.0806991265921602
+2078,OM190,1000000,0.08955755081638841
+2079,Phycisphaerae,1000000,0.07871158065697617
+2080,Agaricomycetes,1000000,0.10099184010925627
+2081,Opitutae,1000000,0.20050234124110414
+2082,Chytridiomycetes,1000000,0.1254985071405587
+2083,Actinopteri,1000000,0.15862271275386813
+2084,Entomophthoromycotina,1000000,0.06825246716094399
+2085,Marine Group I,1000000,0.10172978149696621
+2086,Anthocerotopsida,1000000,0.07275183003905443
+2087,Choanoflagellata,1000000,0.05334825558285075
+2088,Pezizomycotina,1000000,0.07477748828246984
+2089,Polycystinea,1000000,0.41781905618986787
+2090,Soil Crenarchaeotic Group(SCG),1000000,0.04328190631120938
+2091,Thermoleophilia,1000000,0.2653146970228255
+2092,Erysipelotrichia,1000000,0.2340845409051297
+2093,Spirochaetes,1000000,0.20890597498033733
+2094,Mollicutes,1000000,0.15663720149730917
+2095,Cyanophyceae,1000000,0.054748168137421255
+2096,Saprospiria,1000000,0.10816703238700047
+2097,Halobacteria,1000000,0.09317543833075043
+2098,Cyanobacteria,1000000,0.11880776407322233
+2099,uncultured archaeon  ,1000000,0.11250749813267233
+2100,Discoba,1000000,0.1434692931411142
+2101,Proteobacteria Unknown Order,1000000,0.07480511010799927
+2102,Hydrozoa,1000000,0.16447764687618643
+2103,Phyllopharyngea,1000000,0.12876407300317602
+2104,Rhodothermia,1000000,0.1566534137826451
+2105,Anaerolineae,1000000,0.37994945594987695
+2106,Spartobacteria,1000000,0.37782530404260956
+2107,Chitinophagia,1000000,0.12885572316063953
+2108,Malacostraca,1000000,0.18977092451297428
+2109,Lentisphaeria,1000000,0.13420953051322237
+2110,Cnidaria,1000000,0.14394966046410956
+2111,Hexanauplia,1000000,0.23954864983593357
+2112,LKM11,1000000,0.1109155452647602
+2113,Fusobacteriia,1000000,0.12071015300222085
+2114,Gemmatimonadetes,1000000,0.0885236676694595
+2115,uncultured fungus  ,1000000,0.03493433818886214
+2116,uncultured marine eukaryote  ,1000000,0.060205806488300206
+2117,Chlamydiae,1000000,0.14214895127585148
+2118,Leotiomycetes,1000000,0.11489677354742
+2119,Subgroup 6,1000000,0.4616648467525153
+2120,Planctomycetes,1000000,0.20032173276178977
+2121,Oligoflexia,1000000,0.1291961528884823
+2122,Dothideomycetes,1000000,0.14200537248154985
+2123,Babeliae,1000000,0.4444279294064645
+2124,Solibacteres,1000000,0.12692955176439855
+2125,Polyangia,1000000,0.15828920801109936
+2126,Chlamydiia,1000000,0.3737117790853808
+2127,uncultured microeukaryote   ,1000000,0.060701553339840834
+2128,Pucciniomycotina,1000000,0.1248748989255082
+2129,Nitrospira,1000000,0.06590552854436604
+2130,WCHB1-41,1000000,0.15332950365298292
+2131,Candidatus Levybacteria,1000000,
+2132,Bacteroidetes VC2.1 Bac22,1000000,0.07209449769628441
+2133,Melainabacteria,1000000,0.043834776186331595
+2134,Blastocatellia,1000000,0.2958456604926751
+2135,Candidatus Campbellbacteria,1000000,0.5821022034029864
+2136,Thermoanaerobaculia,1000000,0.10740269250478196
+2137,Spirotrichea,1000000,0.17746586733992906
+2138,Caldilineae,1000000,0.2007646033573231
+2139,Pyramimonadophyceae,1000000,0.14422172803402483
+2140,Trebouxiophyceae,1000000,0.24965349948697727
+2141,Branchiopoda,1000000,0.3555865896333457
+2142,Ascetosporea,1000000,0.10063210120173395
+2143,Sphagnopsida,1000000,0.08126275007506506
+2144,Ascidiacea,1000000,0.4444224242574245
+2145,OPB35 soil group,1000000,0.35580846780053993
+2146,Rhodophyceae,1000000,0.2577018028458728
+2147,BD2-11 terrestrial group,1000000,0.11211376513895634
+2148,Syntrophobacteria,1000000,0.2515384760593727
+2149,Acidobacteria,1000000,0.43227193061500285
+2150,Parcubacteria,1000000,0.1937978131788454
+2151,Myxozoa,1000000,
+2152,Negativicutes,1000000,0.14906931632353093
+2153,Ustilaginomycotina,1000000,0.21007940361127148
+2154,Oligosphaeria,1000000,0.15371886547533642
+2155,KD4-96,1000000,0.12095171136752907
+2156,Nitrospiria,1000000,0.19376439687016783
+2157,Holophagae,1000000,1.1282779696765024
+2158,Caldisericia,1000000,0.0532916802960416
+2159,Deinococci,1000000,0.17948717948717946
+2160,Entorrhizomycetes,1000000,0.08437992367923733
+2161,Deep Sea Euryarchaeotic Group(DSEG),1000000,0.7673509119099509
+2162,Spirochaetia,1000000,1.857703789105129
+2163,Opitutia,1000000,0.34653838440680357
+2164,BD7-11,1000000,0.11914980444917653
+2165,Mammalia,1000000,0.31984593685734164
+2166,Candidatus Saccharimonadia,1000000,0.10878565864408418
+2167,Hydrogenedentia,1000000,0.10543508687103821
+2168,Harpellomycetes,1000000,0.13803825773947637
+2169,uncultured eukaryote  ,1000000,0.12061835791166332
+2170,Pla4 lineage,1000000,0.2409534968800439
+2171,Sva0485,1000000,0.2045489318426569
+2172,Palaeacanthocephala,1000000,0.3186887195995491
+2173,Thermoprotei,1000000,0.33159901071139475
+2174,uncultured bacterium  ,1000000,0.42286397690110195
+2175,Omnitrophica Unknown Order,1000000,0.19886780670333806
+2176,Bacteroidetes Order III,1000000,0.1844179775257558
+2177,Group C3,1000000,0.34643502886837846
+2178,Bdellovibrionia,1000000,0.37051579031425436
+2179,R76-B128,1000000,0.1995493537908303
+2180,Kickxellomycetes,1000000,0.2560054488065151
+2181,Ktedonobacteria,1000000,0.22645239831431752
+2182,Pucciniomycetes,1000000,0.3638876248665863
+2183,Balneolia,1000000,0.2055181565346635
+2184,Colpodea,1000000,
+2185,uncultured archaeon,1000000,0.2910511017014932
+2186,Sericytochromatia,1000000,0.2585148261024187
+2187,Gastropoda,1000000,0.2762655601135119
+2188,uncultured candidate division SR1,1000000,0.26434807020532136
+2189,PAUC43f marine benthic group,1000000,0.44141824736458724
+2190,Lecanoromycetes,1000000,0.28778615129158525
+2191,Mollusca,1000000,0.4485218779502288
+2192,Chloroflexia,1000000,0.3527462300799453
+2193,Endogonales,1000000,1.1833215521897327
+2194,uncultured organism   ,1000000,0.363765228927859
+2195,Kiritimatiellia,1000000,0.15793451382644763
+2196,Demospongiae,1000000,0.23116136228530362
+2197,Lepidosauria,1000000,0.7126096406869613
+2198,Imbricatea,1000000,0.7308485354426246
+2199,Anthozoa,1000000,0.17116329922036438
+2200,Amphibia,1000000,0.41971415546675217
+2201,Candidatus Pacebacteria,1000000,
+2202,Ulvophyceae,1000000,0.21789122719526283
+2203,Dacrymycetes,1000000,0.3532026589114579
+2204,Chlorodendrophyceae,1000000,0.2689708987748584
+2205,Blastocladiomycetes,1000000,0.26785362071507923
+2206,Agaricomycotina,1000000,0.28384222069663995
+2207,Fibrobacteria,1000000,0.29185814879095656
+2208,uncultured crenarchaeote   ,1000000,0.45175395145262576
+2209,Bacteroidetes BD2-2,1000000,0.3312905978255532
+2210,Polychaeta,1000000,0.600653239170064
+2211,WCHB1-32,1000000,0.3597145135381668
+2212,Verrucomicrobia Unknown Order,1000000,0.1454745424598353
+2213,Bryopsida,1000000,0.6673948449134238
+2214,uncultured,1000000,0.5323706919889787
+2215,Microbotryomycetes,1000000,0.38068909413132995
+2216,Subgroup 22,1000000,0.5555121510822243
+2217,Florideophyceae,1000000,0.4330127018922193
+2218,SBXY-6786,1000000,0.27461468121805854
+2219,NB1-j,1000000,0.4194352464039306
+2220,Latescibacterota,1000000,0.450151884090248
+2221,Candidatus Shapirobacteria,1000000,
+2222,Chitinivibrionia,1000000,0.3042903097250923
+2223,vadinHA49,1000000,0.22426738057097312
+2224,Parcubacteria group bacterium GW2011_GWA2_44_12 ,1000000,0.692820323027551
+2225,Bacteroidetes vadinHA17,1000000,0.6791309421349442
+2226,Candidatus Falkowbacteria,1000000,0.18088288992916257
+2227,Eurotatoria,1000000,0.5245305283129621
+2228,Rubrobacteria,1000000,0.6747306867817262
+2229,Bryozoa,1000000,0.0652713951864505
+2230,OPB41,1000000,
+2231,Terriglobia,1000000,0.37838549521671383
+2232,Aquificae,1000000,0.18446263857040363
+2233,ARKICE-90,1000000,0.24978880176452695
+2234,Parcubacteria bacterium SCGC AAA010-E09 ,1000000,
+2235,Calditrichia,1000000,0.1928473039599675
+2236,Myxococcia,1000000,0.23760162978505114
+2237,Subgroup 2,1000000,0.4234216977595498
+2238,Candidatus Woesebacteria,1000000,0.9790709277967581
+2239,Marinimicrobia (SAR406 clade),1000000,0.11764705882352948
+2240,Subgroup 21,1000000,0.35647460510866213
+2241,Thermotogae,1000000,0.34404872695868804
+2242,11B-2,1000000,0.6060915267313267
+2243,Ardenticatenia,1000000,0.3768445758127967
+2244,Ministeriida,1000000,0.7050295502081219
+2245,uncultured euryarchaeote   ,1000000,0.5207081968233909
+2246,uncultured soil bacterium  ,1000000,0.529150262212918
+2247,Nanoarchaeia,1000000,0.0
+2248,Saccharomycotina,1000000,0.5402075495560511
+2249,Kiritimatiellae,1000000,0.6434195037803802
+2250,Ignavibacteria,1000000,0.09523809523809522
+2251,Embryophyta,1000000,0.37216146378239345
+2252,Candidatus Poseidoniia,1000000,0.36293177474851596
+2253,Acidobacteriae,1000000,0.23967728365938887
+2254,RCP2-54,1000000,0.08318903308077034
+2255,Subgroup 26,1000000,0.5160156871153362
+2256,FHMa11 terrestrial group,1000000,0.539273888233625
+2257,Brachiopoda,1000000,0.24956709924231102
+2258,Eumycetozoa,1000000,0.3111044441411173
+2259,Ichthyophonae,1000000,0.21858390979171982
+2260,Dictyochophyceae,1000000,0.0
+2261,SAR324 clade(Marine group B),1000000,0.5518406121558016
+2262,Pla3 lineage,1000000,0.30287511177601456
+2263,Pedinophyceae,1000000,0.3227486121839514
+2264,pItb-vmat-80,1000000,
+2265,Variosea,1000000,0.4444444444444444
+2266,Heterotrichea,1000000,0.2020305089104422
+2267,Palaeonemertea,1000000,0.16715903603083715
+2268,Metamonada,1000000,0.2649064714130087
+2269,Vicinamibacteria,1000000,0.20112710368866632
+2270,Synergistia,1000000,0.7071067811865475
+2271,Deferrisomatia,1000000,
+2272,Dadabacteriia,1000000,0.2232968782694361
+2273,Thermomicrobia,1000000,0.5289946984105817
+2274,Omnitrophia,1000000,0.28571428571428575
+2275,Phytomyxea,1000000,0.1571348402636773
+2276,Chlorobia,1000000,0.4385290096535146
+2277,Polyplacophora,1000000,
+2278,Ustilaginomycetes,1000000,0.7071067811865476
+2279,Desulfovibrionia,1000000,0.7211102550927979
+2280,Elusimicrobia,1000000,
+2281,Gemmatimonadia,1000000,0.37216146378239345
+2282,uncultured euryarchaeote  ,1000000,0.43301270189221935
+2283,SB-5,1000000,0.9676198058342226
+2284,Cephalopoda,1000000,
+2285,LD1-PB3,1000000,0.1571348402636773
+2286,Dehalococcoidia,1000000,0.39999999999999997
+2287,Candidatus Roizmanbacteria,1000000,
+2288,Longimicrobia,1000000,0.45825756949558405
+2289,Gymnolaemata,1000000,0.28688765527462345
+2290,Zetaproteobacteria,1000000,0.32868410517886304
+2291,Entomophthoromycetes,1000000,0.4788933524023972
+2292,Candidatus Beckwithbacteria,1000000,
+2293,LD1-PA32,1000000,0.4663213712685437
+2294,FGL7S,1000000,
+2295,uncultured candidate division JS1 bacterium,1000000,0.0
+2296,S0134 terrestrial group,1000000,0.3353457132644524
+2297,Nitrospinia,1000000,0.31578947368421056
+2298,Nitriliruptoria,1000000,0.34641016151377546
+2299,Nucleophaga,1000000,
+2300,Bangiophyceae,1000000,
+2301,19c-33,1000000,0.5439282932204212
+2302,Raphidophyceae,1000000,0.43301270189221935
+2303,bacterium enrichment culture clone,1000000,0.8081220356417685
+2304,AT-s3-28,1000000,0.1087856586440842
+2305,Terrestrial Hot Spring Gp(THSCG),1000000,0.8999540851465151
+2306,Subgroup 17,1000000,0.7692307692307694
+2307,Fimbriimonadia,1000000,0.642824346533225
+2308,Subgroup 15,1000000,0.12371791482634843
+2309,Ichthyostraca,1000000,
+2310,uncultured organism  ,1000000,0.39999999999999997
+2311,Saccharimonadia,1000000,0.5
+2312,Pseudonosematidae,1000000,0.3605656092571602
+2313,WCHA1-57,1000000,0.0
+2314,Monoblepharidomycetes,1000000,
+2315,Defferrisomatia,1000000,0.12856486930664496
+2316,Candidatus Azambacteria,1000000,0.28284271247461906
+2317,Priapulimorpha,1000000,
+2318,Dipodascomycetes,1000000,0.5656854249492379
+2319,Plagiopylea,1000000,
+2320,Limnochordia,1000000,0.7131973913518905
+2321,Latescibacteria,1000000,0.7071067811865476
+2322,AK31,1000000,0.24743582965269684
+2323,uncultured euryarchaeote,1000000,0.4074501503251655
+2324,Aphelidea,1000000,
+2325,uncultured Microgenomates group bacterium ,1000000,0.49215295678475035
+2326,Kazan-3A-21,1000000,0.1571348402636773
+2327,Candidatus Giovannonibacteria,1000000,0.30900827029565264
+2328,Ichthyosporea,1000000,0.2020305089104421
+2329,SJA-15,1000000,
+2330,uncultured Candidatus Saccharibacteria bacterium ,1000000,
+2331,uncultured archaeon Arc.212  ,1000000,0.0
+2332,SPOTSOCT00m83,1000000,
+2333,TK10,1000000,0.34641016151377546
+2334,Deferribacteres,1000000,0.28688765527462345
+2335,Aigarchaeota Unknown Order,1000000,
+2336,marine sediment,1000000,0.4000000000000001
+2337,SBR2076,1000000,0.0
+2338,Collembola,1000000,
+2339,20a-9,1000000,0.0
+2340,Eutardigrada,1000000,
+2341,Thaumarchaeota Unknown Order,1000000,
+2342,Wallemiomycetes,1000000,
+2343,ML635J-21,1000000,
+2344,South African Gold Mine Gp,1000000,
+2345,P1-31,1000000,
+2346,AK59,1000000,0.0
+2347,uncultured bacterium ,1000000,
+2348,MD2898-B26,1000000,
+2349,uncultured archaeon ,1000000,0.0
+2350,marine metagenome ,1000000,
+2351,Umbelopsidomycetes,1000000,
+2352,Glomeromycetes,1000000,
+2353,Candidatus Peribacteria,1000000,
+2354,Charophyceae,1000000,
+2355,Mucoromycetes,1000000,
+2356,Abditibacteriia,1000000,0.0
+2357,Mamiellophyceae,1000000,0.0
+2358,Exobasidiomycetes,1000000,
+2359,Glaucocystophyceae,1000000,
+2360,WPS-2,1000000,
+2361,Vampirivibrionia,1000000,
+2362,Chrysophyceae,1000000,
+2363,Kapabacteria,1000000,
+2364,Abditibacteria,1000000,
+2365,Diapherotrites Unknown Order,1000000,
+2366,028H05-P-BN-P5,1000000,
+2367,SM1A07,1000000,
+2368,H26-1,1000000,
+2369,uncultured candidate division WS6 bacterium,1000000,0.0
+2370,Deferribacteres Unknown Order,1000000,0.4714045207910316
+2371,Subgroup 9,1000000,
+2372,Taphrinomycetes,1000000,
+2373,MAST-12C,1000000,
+2374,uncultured opisthokont  ,1000000,
+2375,AKAU4049,1000000,
+2376,Enoplea,1000000,
+2377,Subulatomonas,1000000,
+2378,Pneumocystomycetes,1000000,0.0
+2379,Sumerlaeia,1000000,
+2380,Echinoidea,1000000,0.28284271247461906
+2381,Neocallimastigomycetes,1000000,
+2382,Tissierellia,1000000,
+2383,Nitrososphaeria,1000000,0.0
+2384,Eustigmatophyceae,1000000,
+2385,Parcubacteria group bacterium GW2011_GWC2_49_9 ,1000000,
+2386,014H09-A-SD-P15,1000000,
+2387,Ostracoda,1000000,
+2388,Fe-A-9,1000000,
+2389,059A02-A-SD-P93,1000000,
+2390,Candidatus Curtissbacteria,1000000,
+2391,Maxillopoda,1000000,
+2392,Candidatus Moranbacteria,1000000,0.0
+2393,S085,1000000,
+2394,Homoscleromorpha,1000000,
+2395,WWE3,1000000,0.0
+2396,Cestoda,1000000,
+2397,MSBL8,1000000,0.0
+2398,Hydrogenophilia,1000000,0.28284271247461906
+2399,Parvarchaeota Unknown Order,1000000,
+2400,Armatimonadia,1000000,
+2401,uncultured KB1 group bacterium ,1000000,
+2402,Pezizomycetes,1000000,
+2403,Thecostraca,1000000,
+2404,unidentified archaeon   ,1000000,0.0
+2405,SJA-68,1000000,
+2406,uncultured crenarchaeote  ,1000000,
+2407,d142,1000000,
+2408,JG30-KF-CM66,1000000,
+2409,uncultured marine eukaryote ,1000000,
+2410,Tetraphidopsida,1000000,0.0
+2411,Phaeophyceae,1000000,
+2412,Pilidiophora,1000000,
+2413,uncultured microorganism  ,1000000,
+2414,Candidatus Babeliae,1000000,
+2415,Rotifera,1000000,
+2416,Marinimicrobia bacterium JGI,1000000,
+2417,Armophorea,1000000,
+2418,archaeon enrichment culture clone C1-1C-A,1000000,
+2419,Clitellata,1000000,
+2420,Korarchaeota Unknown Order,1000000,
+2421,Chlorobiia,1000000,
+2422,Gnathostomulida,1000000,
+2423,Pauropoda,1000000,
+2424,MBNT15,1000000,
+2425,SAR202 clade,1000000,
+2426,Monogononta,1000000,
+2427,Lichinomycetes,1000000,
+2428,MB-A2-108,1000000,
+2429,Schekmanbacteria,1000000,
+2430,Cystobasidiomycetes,1000000,
+2431,uncultured archaeon WCHD3-30 ,1000000,
+2432,Archaeoglobi,1000000,
+2433,uncultured eukaryote   ,1000000,
+2434,Aves,1000000,
+2435,SHA-26,1000000,
+2436,Margulisbacteria,1000000,
+2437,Candidatus Nomurabacteria,1000000,
+2438,Monogenea,1000000,
+2439,Methylomirabilia,1000000,
+2440,Archamoebae,1000000,
+2441,Thermodesulfovibrionia,1000000,
+2442,Methanococci,1000000,
+2443,Candidatus Sumerlaeia,1000000,
+2444,Bivalvia,1000000,
+2445,Priapulida,1000000,
+2446,Candidatus Magasanikbacteria,1000000,
+2447,uncultured candidate division WWE3 bacterium,1000000,
+2448,Candidatus Aminicenantia,1000000,
+2449,Marosporida,1000000,
+2450,uncultured Nitrospirae bacterium  ,1000000,
+2451,uncultured fungus   ,1000000,
+2452,OPPD003,1000000,
+2453,Harpellales,1000000,
+2454,uncultured archaeon 19a-29  ,1000000,
+2455,Cloacimonetes Unknown Order,1000000,
+2456,Zygnemophyceae,1000000,
+2457,Synurophyceae,1000000,
+2458,Agaricostilbomycetes,1000000,
+2459,uncultured eubacterium WCHB1-60  ,1000000,
+2460,Nephroselmidophyceae,1000000,
+2461,Lycopodiopsida,1000000,
+2462,Subgroup 18,1000000,
+2463,Chlorokybophyceae,1000000,
+2464,Parcubacteria group bacterium GW2011_GWA2_46_7 ,1000000,
+2465,WCHB1-81,1000000,
+2466,uncultured Latescibacteria bacterium  ,1000000,
+2467,Candidatus Kuenenbacteria,1000000,
+2468,Zixibacteria,1000000,
+2469,uncultured organism ,1000000,
+2470,Candidatus Daviesbacteria,1000000,
+2471,Candidatus Izimaplasma,1000000,
+2472,Terrimicrobiia,1000000,
+2473,Z7ME43,1000000,
+2474,RBG-16-55-12,1000000,
+2475,Phylactolaemata,1000000,
+2476,MACA-EFT26,1000000,
+2477,candidate division TM6 bacterium,1000000,
+2478,Candidatus Wolfebacteria bacterium GW2011_GWA2_47_9b ,1000000,
+2479,Thermococci,1000000,
+2480,AEGEAN-245,1000000,
+2481,uncultured crenarchaeote pBRKC135  ,1000000,
+2482,uncultured anaerobic bacterium  ,1000000,
+2483,marine metagenome   ,1000000,
+2484,Chilopoda,1000000,
+2485,Polypodiopsida,1000000,
+2486,Mesozoa,1000000,
+2487,Moduliflexia,1000000,
+2488,uncultured candidate division AC1 bacterium,1000000,
+2489,uncultured archaeon PENDANT-33 ,1000000,
+2490,Candidatus Sericytochromatia,1000000,
+2491,Longimicrobiia,1000000,
+2492,LCP-89,1000000,
+2493,Arctic97B-4 marine group,1000000,
+2494,Holothuroidea,1000000,
+2495,Breviata,1000000,
+2496,Planomonas micra  ,1000000,
+2497,Opalinata,1000000,
+2498,Aminicenantia,1000000,
+2499,Crinoidea,1000000,
+2500,Rozella,1000000,
+2501,UA11,1000000,
+2502,Kryptonia,1000000,
+2503,ABY1,1000000,
+2504,Cloacimonadia,1000000,
+2505,Enteropneusta,1000000,
+2506,marine metagenome  ,1000000,
+2507,Kathablepharidae,1000000,
+2508,SJA-28,1000000,
+2509,H15-6,1000000,
+2510,Methanonatronarchaeia,1000000,
+2511,SL56 marine group,1000000,
+2512,Leptospirae,1000000,
+2513,Lineage IIb,1000000,
+2514,Picomonadida,1000000,
+2515,Atribacteria,1000000,
+2516,archaeon GW2011_AR18  ,1000000,
+2517,archaeon GW2011_AR13  ,1000000,
+2518,S-BQ2-57 soil group,1000000,
+2519,Catenulida,1000000,
+2520,Subgroup 5,1000000,
+2521,groundwater metagenome   ,1000000,
+2522,Basidiobolomycetes,1000000,
+2523,Pterobranchia,1000000,
+2524,Jungermanniopsida,1000000,
+2525,uncultured cyanobacterium   ,1000000,
+2526,Thermodesulfobacteria,1000000,
+2527,Palmophyllophyceae,1000000,
+2528,Rhodellophyceae,1000000,
+2529,Candidatus Nanoarchaeia,1000000,
+2530,SPG12-401-411-B72,1000000,
+2531,Malawimonas,1000000,
+2532,uncultured candidate division BRC1 bacterium,1000000,
+2533,Mesostigmatophyceae,1000000,
+2534,Orbiliomycetes,1000000,
+2535,Candidatus Wolfebacteria,1000000,
+2536,Berkelbacteria,1000000,
+2537,PBS-18,1000000,
+2538,KIST-JJY010,1000000,
+2539,D-F10,1000000,
+2540,Diplopoda,1000000,
+2541,Dictyoglomia,1000000,
+2542,Nassophorea,1000000,
+2543,Enopla,1000000,
+2544,Geoglossomycetes,1000000,
+2545,uncultured euryarchaeote ,1000000,
+2546,uncultured marine,1000000,
+2547,Senoma,1000000,
+2548,Flabellinia,1000000,
+2549,Candidatus Adlerbacteria,1000000,
+2550,Sagittoidea,1000000,
+2551,Tubulinea,1000000,
+2552,Candidatus Bathyarchaeia,1000000,
+2553,Subgroup 13,1000000,
+2554,W5,1000000,
+2555,Chondrichthyes,1000000,
+2556,Cryptomonadales,1000000,
+2557,Chthonomonadetes,1000000,
+2558,Thecofilosea,1000000,
+2559,Nephridiophaga,1000000,
+2560,Leptocardii,1000000,
+2561,uncultured deep-sea bacterium  ,1000000,
+2562,MVP-15,1000000,
+2563,Candidatus Yanofskybacteria,1000000,
+2564,terrestrial metagenome   ,1000000,
+2565,uncultured Candidatus Dependentiae bacterium,1000000,
+2566,Acantharea,1000000,
+2567,Heterophryidae,1000000,
+2568,bacterium RFB D08  ,1000000,
+2569,Candidatus Peregrinibacteria bacterium GW2011_GWF2_39_17 ,1000000,
+2570,BMS9AB35,1000000,
+2571,Parcubacteria group bacterium GW2011_GWA2_47_8 ,1000000,
+2572,Nanoarchaeota archaeon SCGC AAA011-D5,1000000,
+2573,uncultured crenarchaeote,1000000,
+2574,Acanthoecida,1000000,
+2575,Marchantiopsida,1000000,
+2576,Pinguiophyceae,1000000,
+2577,Pavlovophyceae,1000000,
+2578,Taphrinomycotina,1000000,
+2579,Caudofoveata,1000000,
+2580,Scalidophora,1000000,
+2581,Schizosaccharomycetes,1000000,
+2582,Compsopogonophyceae,1000000,
+2583,Candidatus Amesbacteria,1000000,
+2584,uncultured methanogenic archaeon  ,1000000,
+2585,Actinopterygii,1000000,
+2586,Cubozoa,1000000,
+2587,uncultured marine bacterium ,1000000,
+2588,Gitt-GS-136,1000000,
+2589,Paramicrosporidium,1000000,
+2590,metal-contaminated soil clone K20-27 ,1000000,
+2591,uncultured Caldiserica bacterium  ,1000000,
+2592,Hyphochytriomycetes,1000000,
+2593,Parcubacteria group bacterium GW2011_GWC2_44_22 ,1000000,
+2594,Stenolaemata,1000000,
+2595,Mortierellomycetes,1000000,
+2596,SHA-4,1000000,
+2597,Andreaeopsida,1000000,
+2598,uncultured microorganism   ,1000000,
+2599,uncultured crenarchaeote ,1000000,
+2600,uncultured Parcubacteria group bacterium ,1000000,
+2601,Asteroidea,1000000,
+2602,uncultured bacterium I025  ,1000000,
+2603,Cycadopsida,1000000,
+2604,Amblyospora sp.,1000000,
+2605,SHA-41,1000000,
+2606,Rhynchonellata,1000000,
+2607,uncultured bacterium 'KTK 14' ,1000000,
+2608,uncultured Telonemida  ,1000000,
+2609,Alloascoideomycetes,1000000,
+2610,uncultured methanogenic archaeon ,1000000,
+2611,Amblyosporidae,1000000,
+2612,Coprothermobacteria,1000000,
+2613,Coleochaetophyceae,1000000,
+2614,Ancyromonas,1000000,
+2615,Appendicularia,1000000,
+2616,C10-SB1A,1000000,
+2617,Dimargaritomycetes,1000000,
+2618,Elev-1554,1000000,
+2619,Bacillidium sp.,1000000,
+2620,Parcubacteria group bacterium GW2011_GWF2_42_7 ,1000000,
+2621,Parcubacteria Unknown Order,1000000,
+2622,Tectomicrobia Unknown Order,1000000,
+2623,Pelagophyceae,1000000,
+2624,Gracilipodida,1000000,
+2625,Eoacanthocephala,1000000,
+2626,Euryarchaeota archaeon SCGC AAA286-E23,1000000,
+2627,TOTO-A6-15,1000000,
+2628,Syntrophia,1000000,
+2629,Chlorarachniophyceae,1000000,
+2630,Mitosporidium daphniae   ,1000000,
+2631,Stylonematophyceae,1000000,
+2632,Candidatus Uhrbacteria,1000000,
+2633,Thermoflexia,1000000,
+2634,archaeon GW2011_AR17  ,1000000,
+2635,candidate division WS6 bacterium OLB21,1000000,
+2636,Candidatus Jorgensenbacteria,1000000,
+2637,crenarchaeote enrichment culture clone 61-23f,1000000,
+2638,hydrothermal vent metagenome  ,1000000,
+2639,Trematoda,1000000,
+2640,Zoopagomycetes,1000000,
+2641,Z273FA48,1000000,
+2642,uncultured Aminicenantes bacterium  ,1000000,
+2643,pSL12,1000000,
+2644,Ika33,1000000,
+2645,Nutomonas,1000000,
+2646,miscellaneous Crenarchaeota group archaeon SMTZ-80,1000000,
+2647,LK-44f,1000000,
+2648,uncultured Microgenomates group bacterium,1000000,
+2649,Archiacanthocephala,1000000,
+2650,uncultured planctomycete   ,1000000,
+2651,unidentified archaeon  ,1000000,
+2652,Magnoliopsida,10000000,0.0004972771448704146
+2653,Rhizaria,10000000,0.0005687665708139177
+2654,Gammaproteobacteria,10000000,0.0011139998257609282
+2655,Alveolata,10000000,0.0020083738699601464
+2656,Flavobacteriia,10000000,0.00040720728237586816
+2657,Alphaproteobacteria,10000000,0.001674691453900783
+2658,Arthropoda,10000000,0.0012531745946082046
+2659,Cyanobacteriia,10000000,0.001893136824895042
+2660,Chloroplast,10000000,0.0007719117796348817
+2661,Conoidasida,10000000,0.0009237641725819329
+2662,Bacillariophyceae,10000000,0.0024888979877087307
+2663,uncultured bacterium   ,10000000,0.002251876261611359
+2664,Rhabditophora,10000000,0.0040822298850401425
+2665,Nematoda,10000000,0.003120585979051557
+2666,Chordata,10000000,0.0028710200130072894
+2667,Coscinodiscophyceae,10000000,0.004089110386475827
+2668,Gastrotricha,10000000,0.003949656198208281
+2669,Betaproteobacteria,10000000,0.004432649584351106
+2670,Litostomatea,10000000,0.002441603363323709
+2671,Gnetopsida,10000000,0.003927683514474664
+2672,Arachnida,10000000,0.0017607565131113267
+2673,Chromadorea,10000000,0.0015718799261936224
+2674,LKM74,10000000,0.004307636099124138
+2675,Chlorophyceae,10000000,0.0016582678472123762
+2676,Insecta,10000000,0.010156879870481986
+2677,Dinophyceae,10000000,0.00640039206748773
+2678,Aconoidasida,10000000,0.006344276539704715
+2679,Pinopsida,10000000,0.002307450370875547
+2680,Bacilli,10000000,0.010777325384663682
+2681,Bacteroidia,10000000,0.0236895378569028
+2682,Actinobacteria,10000000,0.024813943641782677
+2683,Clostridia,10000000,0.007545484724151165
+2684,Stramenopiles,10000000,0.027032122121469535
+2685,Xenacoelomorpha,10000000,0.00338719811630567
+2686,Actinomycetes,10000000,0.06164603426064045
+2687,Coriobacteriia,10000000,0.011515447330687363
+2688,Tremellomycetes,10000000,0.0017134580835637828
+2689,Cytophagia,10000000,0.006563516078463475
+2690,Pichiomycetes,10000000,0.007201315125681612
+2691,Deltaproteobacteria,10000000,0.007455131753278901
+2692,Sphingobacteriia,10000000,0.009824544159924689
+2693,Sordariomycetes,10000000,0.0050683063157097195
+2694,Methanomicrobia,10000000,0.006240835072917673
+2695,Klebsormidiophyceae,10000000,0.0066531808877563015
+2696,Verrucomicrobiae,10000000,0.00958889319053023
+2697,Saccharomycetes,10000000,0.006290339075445758
+2698,Chloroplastida,10000000,0.04260910856125734
+2699,Platyhelminthes,10000000,0.007152278993812771
+2700,Methanobacteria,10000000,0.0290078689023829
+2701,uncultured archaeon   ,10000000,0.017276117828782113
+2702,Planctomycetacia,10000000,0.01140094004940175
+2703,Zygnematophyceae,10000000,0.006599633350226845
+2704,Verrucomicrobiia,10000000,0.006015665667518741
+2705,Thermoplasmata,10000000,0.006922711508412575
+2706,Aenigmarchaeota Unknown Order,10000000,0.011842861433947654
+2707,Desulfuromonadia,10000000,0.008061746334869196
+2708,Candidatus Collierbacteria,10000000,0.008463928910766324
+2709,Eurotiomycetes,10000000,0.0023336546063754252
+2710,Planctomycetia,10000000,0.005516751377918866
+2711,Acidimicrobiia,10000000,0.008133347103113938
+2712,Desulfobulbia,10000000,0.011335298640584048
+2713,Craspedida,10000000,0.012090126208918266
+2714,Mediophyceae,10000000,0.011287304722556258
+2715,Bacteroidetes Order II,10000000,0.024669706936732167
+2716,Elardia,10000000,0.01207185279181159
+2717,Desulfobacteria,10000000,0.010384358459014495
+2718,Scyphozoa,10000000,0.002842117573900139
+2719,Marine Benthic Group A,10000000,0.009179973785421285
+2720,Fragilariophyceae,10000000,0.010752101075624161
+2721,Euglenida,10000000,0.011452476616949205
+2722,Amoeboaphelidium,10000000,0.008771692892598621
+2723,Annelida,10000000,0.05131264114789438
+2724,Kickxellales,10000000,0.008754222842439324
+2725,Intramacronucleata,10000000,0.020724280406787293
+2726,Discosea,10000000,0.026564475376610004
+2727,Prymnesiophyceae,10000000,0.012833788169120201
+2728,Karyorelictea,10000000,0.013393658618598642
+2729,Acanthocystidae,10000000,0.009787739878840495
+2730,Bigyra,10000000,0.020006919505855855
+2731,Epsilonproteobacteria,10000000,0.0197982248886839
+2732,uncultured Epsilonproteobacteria bacterium  ,10000000,0.013460099005225955
+2733,Oligohymenophorea,10000000,0.017918906181346773
+2734,Endogonomycetes,10000000,0.017109470702451092
+2735,Gracilibacteria,10000000,0.011763342056984781
+2736,Bacteriovoracia,10000000,0.007842982394947125
+2737,Prostomatea,10000000,0.014008901347040048
+2738,Diplonemea,10000000,0.012416379314488059
+2739,Cryptophyceae,10000000,0.037168606257954
+2740,Kinetoplastea,10000000,0.014500468589292837
+2741,OM190,10000000,0.015326961030953639
+2742,Phycisphaerae,10000000,0.03694100310612823
+2743,Agaricomycetes,10000000,0.02062047832426972
+2744,Opitutae,10000000,0.02437071554394274
+2745,Chytridiomycetes,10000000,0.00823626488095868
+2746,Actinopteri,10000000,0.0302076582756795
+2747,Entomophthoromycotina,10000000,0.005741857580194317
+2748,Marine Group I,10000000,0.01817265295806174
+2749,Anthocerotopsida,10000000,0.016357652995958885
+2750,Choanoflagellata,10000000,0.014303900889645125
+2751,Pezizomycotina,10000000,0.017675931388512534
+2752,Polycystinea,10000000,0.03167953349327834
+2753,Soil Crenarchaeotic Group(SCG),10000000,0.023805150772699554
+2754,Thermoleophilia,10000000,0.07517184759664627
+2755,Erysipelotrichia,10000000,0.265522599640678
+2756,Spirochaetes,10000000,0.04252056119244332
+2757,Mollicutes,10000000,0.0522274140288344
+2758,Cyanophyceae,10000000,0.01716152938335876
+2759,Saprospiria,10000000,0.029278814443112727
+2760,Halobacteria,10000000,0.01997668188108633
+2761,Cyanobacteria,10000000,0.03191964478280221
+2762,uncultured archaeon  ,10000000,0.027667272255932775
+2763,Discoba,10000000,0.030778965433535917
+2764,Proteobacteria Unknown Order,10000000,0.03904142616356229
+2765,Hydrozoa,10000000,0.04393221157576221
+2766,Phyllopharyngea,10000000,0.031945122849326074
+2767,Rhodothermia,10000000,0.016337260006633696
+2768,Anaerolineae,10000000,0.07699225427185116
+2769,Spartobacteria,10000000,0.19048023084841223
+2770,Chitinophagia,10000000,0.008736031617576509
+2771,Malacostraca,10000000,0.13851712654963574
+2772,Lentisphaeria,10000000,0.037951216538909045
+2773,Cnidaria,10000000,0.03847549980780732
+2774,Hexanauplia,10000000,0.05692745392777964
+2775,LKM11,10000000,0.027161573899042
+2776,Fusobacteriia,10000000,0.026993936267595567
+2777,Gemmatimonadetes,10000000,0.03414529918546846
+2778,uncultured fungus  ,10000000,0.02157803414601586
+2779,uncultured marine eukaryote  ,10000000,0.03527813603405013
+2780,Chlamydiae,10000000,0.031741963300193535
+2781,Leotiomycetes,10000000,0.056443498750820845
+2782,Subgroup 6,10000000,0.19336499330876866
+2783,Planctomycetes,10000000,0.015151618982709739
+2784,Oligoflexia,10000000,0.021549875874508455
+2785,Dothideomycetes,10000000,0.020645233140492585
+2786,Babeliae,10000000,0.04804848981155405
+2787,Solibacteres,10000000,0.010068472395194213
+2788,Polyangia,10000000,0.015062711616770546
+2789,Chlamydiia,10000000,0.051591498670471
+2790,uncultured microeukaryote   ,10000000,0.036623599399497546
+2791,Pucciniomycotina,10000000,0.019976456102822327
+2792,Nitrospira,10000000,0.025422452713275166
+2793,WCHB1-41,10000000,0.05191524993883051
+2794,Candidatus Levybacteria,10000000,0.34286649495756816
+2795,Bacteroidetes VC2.1 Bac22,10000000,0.029162053634703488
+2796,Melainabacteria,10000000,0.8425167957402347
+2797,Blastocatellia,10000000,0.06193790107897379
+2798,Candidatus Campbellbacteria,10000000,0.06437979483582151
+2799,Thermoanaerobaculia,10000000,0.03572804597825023
+2800,Spirotrichea,10000000,0.03309687762129187
+2801,Caldilineae,10000000,0.06621258331203084
+2802,Pyramimonadophyceae,10000000,0.031911999184469166
+2803,Trebouxiophyceae,10000000,0.1214559961880881
+2804,Branchiopoda,10000000,0.9214646387836021
+2805,Ascetosporea,10000000,0.03642869038778276
+2806,Sphagnopsida,10000000,0.034151781513095614
+2807,Ascidiacea,10000000,0.3182864268916113
+2808,OPB35 soil group,10000000,0.02002845805862163
+2809,Rhodophyceae,10000000,0.03945869405030026
+2810,BD2-11 terrestrial group,10000000,0.026749520851558878
+2811,Syntrophobacteria,10000000,0.025347772993373815
+2812,Acidobacteria,10000000,0.09566638386725519
+2813,Parcubacteria,10000000,0.049140975842115645
+2814,Myxozoa,10000000,0.15888534001593982
+2815,Negativicutes,10000000,0.06197128245838127
+2816,Ustilaginomycotina,10000000,0.03966348313303898
+2817,Oligosphaeria,10000000,0.029702090952142223
+2818,KD4-96,10000000,0.053612611344715684
+2819,Nitrospiria,10000000,0.05588804085623574
+2820,Holophagae,10000000,0.13924669661632832
+2821,Caldisericia,10000000,0.027660665831090763
+2822,Deinococci,10000000,0.04321307660116553
+2823,Entorrhizomycetes,10000000,0.050491329640137805
+2824,Deep Sea Euryarchaeotic Group(DSEG),10000000,0.31337108388330526
+2825,Spirochaetia,10000000,1.0525660131605548
+2826,Opitutia,10000000,0.030193947457316326
+2827,BD7-11,10000000,0.019852947653480103
+2828,Mammalia,10000000,0.03871293869656034
+2829,Candidatus Saccharimonadia,10000000,0.6321371614159244
+2830,Hydrogenedentia,10000000,0.058403465407259186
+2831,Harpellomycetes,10000000,0.08898506102625904
+2832,uncultured eukaryote  ,10000000,0.03580491432656248
+2833,Pla4 lineage,10000000,0.03184926589541229
+2834,Sva0485,10000000,0.07944591007887061
+2835,Palaeacanthocephala,10000000,0.06513185029769791
+2836,Thermoprotei,10000000,0.043292961615870026
+2837,uncultured bacterium  ,10000000,0.07550448786730968
+2838,Omnitrophica Unknown Order,10000000,0.04105629494058188
+2839,Bacteroidetes Order III,10000000,0.05261588149088579
+2840,Group C3,10000000,0.055023472836551846
+2841,Bdellovibrionia,10000000,0.02936169549319066
+2842,R76-B128,10000000,0.05920792266835286
+2843,Kickxellomycetes,10000000,0.24981113264852836
+2844,Ktedonobacteria,10000000,0.03759985686373553
+2845,Pucciniomycetes,10000000,0.05129555689434436
+2846,Balneolia,10000000,0.18812554819248933
+2847,Colpodea,10000000,0.5645320388152496
+2848,uncultured archaeon,10000000,0.02908867067498327
+2849,Sericytochromatia,10000000,0.05872890016949665
+2850,Gastropoda,10000000,0.06290892495740766
+2851,uncultured candidate division SR1,10000000,0.06566904702525965
+2852,PAUC43f marine benthic group,10000000,0.03520084978842644
+2853,Lecanoromycetes,10000000,0.044567928703237204
+2854,Mollusca,10000000,0.10185387737679072
+2855,Chloroflexia,10000000,0.06624486986834711
+2856,Endogonales,10000000,0.41836558323584716
+2857,uncultured organism   ,10000000,0.02137968160548305
+2858,Kiritimatiellia,10000000,0.048758895974447956
+2859,Demospongiae,10000000,0.13039004421512826
+2860,Lepidosauria,10000000,0.13561390844089818
+2861,Imbricatea,10000000,0.06505723548934267
+2862,Anthozoa,10000000,0.21597457388099248
+2863,Amphibia,10000000,0.03371744942714033
+2864,Candidatus Pacebacteria,10000000,1.0877412835479225
+2865,Ulvophyceae,10000000,0.0452562056163711
+2866,Dacrymycetes,10000000,0.2025597080934092
+2867,Chlorodendrophyceae,10000000,0.10566273608388028
+2868,Blastocladiomycetes,10000000,0.03450872781095451
+2869,Agaricomycotina,10000000,0.023469632887205813
+2870,Fibrobacteria,10000000,0.09455366375897545
+2871,uncultured crenarchaeote   ,10000000,0.07803032758575436
+2872,Bacteroidetes BD2-2,10000000,0.08703485897809862
+2873,Polychaeta,10000000,0.3471952700548228
+2874,WCHB1-32,10000000,0.07130677193137619
+2875,Verrucomicrobia Unknown Order,10000000,0.05830238591640556
+2876,Bryopsida,10000000,0.08893672847564081
+2877,uncultured,10000000,0.22850022903788508
+2878,Microbotryomycetes,10000000,0.36607890494821105
+2879,Subgroup 22,10000000,0.12075678913580752
+2880,Florideophyceae,10000000,0.10620368972491423
+2881,SBXY-6786,10000000,0.06717946709383397
+2882,NB1-j,10000000,0.046976711800135316
+2883,Latescibacterota,10000000,0.07160390791876693
+2884,Candidatus Shapirobacteria,10000000,0.06610180796544611
+2885,Chitinivibrionia,10000000,0.05709189403302377
+2886,vadinHA49,10000000,0.038397003766534855
+2887,Parcubacteria group bacterium GW2011_GWA2_44_12 ,10000000,0.07993567132491168
+2888,Bacteroidetes vadinHA17,10000000,0.07340998558405988
+2889,Candidatus Falkowbacteria,10000000,0.1579050507631532
+2890,Eurotatoria,10000000,0.035140442273687476
+2891,Rubrobacteria,10000000,0.06151987303268438
+2892,Bryozoa,10000000,
+2893,OPB41,10000000,0.0721684290484096
+2894,Terriglobia,10000000,0.07675248069921149
+2895,Aquificae,10000000,0.2895485823439464
+2896,ARKICE-90,10000000,0.057218365593113225
+2897,Parcubacteria bacterium SCGC AAA010-E09 ,10000000,1.4352301955734188
+2898,Calditrichia,10000000,0.31904894317843224
+2899,Myxococcia,10000000,0.058626074996803654
+2900,Subgroup 2,10000000,0.1535377711615096
+2901,Candidatus Woesebacteria,10000000,0.5024077278621205
+2902,Marinimicrobia (SAR406 clade),10000000,0.08098544298396249
+2903,Subgroup 21,10000000,0.047816276824582234
+2904,Thermotogae,10000000,0.10062715952885334
+2905,11B-2,10000000,0.2140109643505916
+2906,Ardenticatenia,10000000,0.08284795455040087
+2907,Ministeriida,10000000,0.06222629642064813
+2908,uncultured euryarchaeote   ,10000000,0.8027067790463409
+2909,uncultured soil bacterium  ,10000000,0.18394139863367662
+2910,Nanoarchaeia,10000000,0.22067756264533037
+2911,Saccharomycotina,10000000,0.07519760373803286
+2912,Kiritimatiellae,10000000,0.11019936777229786
+2913,Ignavibacteria,10000000,0.11107191168698993
+2914,Embryophyta,10000000,0.16499673456169173
+2915,Candidatus Poseidoniia,10000000,0.028931878117892225
+2916,Acidobacteriae,10000000,0.04897742317445559
+2917,RCP2-54,10000000,0.21691508521772143
+2918,Subgroup 26,10000000,0.056470526356809284
+2919,FHMa11 terrestrial group,10000000,0.19686214008648667
+2920,Brachiopoda,10000000,0.22392482985385992
+2921,Eumycetozoa,10000000,0.06031617839969153
+2922,Ichthyophonae,10000000,0.048200555267945096
+2923,Dictyochophyceae,10000000,0.39782783722319914
+2924,SAR324 clade(Marine group B),10000000,0.16349433871596267
+2925,Pla3 lineage,10000000,0.2131842479900449
+2926,Pedinophyceae,10000000,0.07181856116802868
+2927,pItb-vmat-80,10000000,0.09111792006970271
+2928,Variosea,10000000,0.07317864534136968
+2929,Heterotrichea,10000000,0.5155542664036565
+2930,Palaeonemertea,10000000,0.03726554935783117
+2931,Metamonada,10000000,0.09734129129858804
+2932,Vicinamibacteria,10000000,0.09043090973842455
+2933,Synergistia,10000000,0.0490442099660601
+2934,Deferrisomatia,10000000,0.20327890704543541
+2935,Dadabacteriia,10000000,0.15785553792660761
+2936,Thermomicrobia,10000000,0.035609610834685605
+2937,Omnitrophia,10000000,0.06648253207575153
+2938,Phytomyxea,10000000,0.2204624730202284
+2939,Chlorobia,10000000,0.07387264775450827
+2940,Polyplacophora,10000000,0.9375369815191167
+2941,Ustilaginomycetes,10000000,0.3125867931080452
+2942,Desulfovibrionia,10000000,0.10930233215759283
+2943,Elusimicrobia,10000000,0.1293614132030723
+2944,Gemmatimonadia,10000000,0.15168881297732192
+2945,uncultured euryarchaeote  ,10000000,0.14930310336727812
+2946,SB-5,10000000,0.399448386440291
+2947,Cephalopoda,10000000,0.14532040561633747
+2948,LD1-PB3,10000000,0.14169730060943295
+2949,Dehalococcoidia,10000000,0.03564162178201257
+2950,Candidatus Roizmanbacteria,10000000,0.14369126173917882
+2951,Longimicrobia,10000000,0.17385195080118174
+2952,Gymnolaemata,10000000,0.05975927226552121
+2953,Zetaproteobacteria,10000000,0.016151737963978275
+2954,Entomophthoromycetes,10000000,0.6321945705282987
+2955,Candidatus Beckwithbacteria,10000000,0.13334350324540029
+2956,LD1-PA32,10000000,0.11907012119677532
+2957,FGL7S,10000000,
+2958,uncultured candidate division JS1 bacterium,10000000,0.21273946226905743
+2959,S0134 terrestrial group,10000000,0.5185543393493413
+2960,Nitrospinia,10000000,0.13589852516716597
+2961,Nitriliruptoria,10000000,0.12216860018702586
+2962,Nucleophaga,10000000,0.1324321158409939
+2963,Bangiophyceae,10000000,0.08630306813452053
+2964,19c-33,10000000,0.5627627612860828
+2965,Raphidophyceae,10000000,0.07246214056824188
+2966,bacterium enrichment culture clone,10000000,0.25054167305773334
+2967,AT-s3-28,10000000,0.07018459428739447
+2968,Terrestrial Hot Spring Gp(THSCG),10000000,0.053721350656289434
+2969,Subgroup 17,10000000,0.030479701551316997
+2970,Fimbriimonadia,10000000,0.19078780828543646
+2971,Subgroup 15,10000000,0.11363636363636365
+2972,Ichthyostraca,10000000,0.20633015519733072
+2973,uncultured organism  ,10000000,0.14424641866378501
+2974,Saccharimonadia,10000000,0.1399507996007024
+2975,Pseudonosematidae,10000000,0.0738210715087776
+2976,WCHA1-57,10000000,0.043243139866447004
+2977,Monoblepharidomycetes,10000000,0.08585333022941563
+2978,Defferrisomatia,10000000,0.17068094718295973
+2979,Candidatus Azambacteria,10000000,0.02217415784082532
+2980,Priapulimorpha,10000000,0.14689938961867666
+2981,Dipodascomycetes,10000000,0.6094961573997445
+2982,Plagiopylea,10000000,
+2983,Limnochordia,10000000,0.03992978531249628
+2984,Latescibacteria,10000000,0.1480028358164877
+2985,AK31,10000000,0.09023582764826964
+2986,uncultured euryarchaeote,10000000,0.09539740524351109
+2987,Aphelidea,10000000,0.2903352346593771
+2988,uncultured Microgenomates group bacterium ,10000000,0.21871612283628755
+2989,Kazan-3A-21,10000000,0.34373844681312066
+2990,Candidatus Giovannonibacteria,10000000,0.08958464210197851
+2991,Ichthyosporea,10000000,0.16103209848395925
+2992,SJA-15,10000000,0.1784435340768693
+2993,uncultured Candidatus Saccharibacteria bacterium ,10000000,1.060288075414871
+2994,uncultured archaeon Arc.212  ,10000000,0.13975424859373686
+2995,SPOTSOCT00m83,10000000,0.06338333534349057
+2996,TK10,10000000,0.1590049367122597
+2997,Deferribacteres,10000000,0.218401498085249
+2998,Aigarchaeota Unknown Order,10000000,0.08318903308077032
+2999,marine sediment,10000000,0.1356465996625054
+3000,SBR2076,10000000,0.2764892059226463
+3001,Collembola,10000000,0.14426245016127676
+3002,20a-9,10000000,0.20186518728349817
+3003,Eutardigrada,10000000,0.13982653573805184
+3004,Thaumarchaeota Unknown Order,10000000,0.876346217740315
+3005,Wallemiomycetes,10000000,0.28003708322772786
+3006,ML635J-21,10000000,0.14543100939220568
+3007,South African Gold Mine Gp,10000000,0.14837120272825233
+3008,P1-31,10000000,0.3045873232752801
+3009,AK59,10000000,0.15204908542386916
+3010,uncultured bacterium ,10000000,0.21608895617154208
+3011,MD2898-B26,10000000,0.2015636016329133
+3012,uncultured archaeon ,10000000,0.23797724913834564
+3013,marine metagenome ,10000000,0.16233996073089252
+3014,Umbelopsidomycetes,10000000,0.23043564380863477
+3015,Glomeromycetes,10000000,0.21195800353108338
+3016,Candidatus Peribacteria,10000000,0.03597747487282633
+3017,Charophyceae,10000000,0.184877493221863
+3018,Mucoromycetes,10000000,0.2676374799324072
+3019,Abditibacteriia,10000000,0.15562718809232973
+3020,Mamiellophyceae,10000000,0.16759322097984425
+3021,Exobasidiomycetes,10000000,0.4236400344296771
+3022,Glaucocystophyceae,10000000,0.125294002758147
+3023,WPS-2,10000000,0.1308052776502425
+3024,Vampirivibrionia,10000000,0.411632289183218
+3025,Chrysophyceae,10000000,0.23372398933087477
+3026,Kapabacteria,10000000,0.19254496283878303
+3027,Abditibacteria,10000000,0.3662270988996334
+3028,Diapherotrites Unknown Order,10000000,0.17677669529663687
+3029,028H05-P-BN-P5,10000000,0.12057014684459043
+3030,SM1A07,10000000,
+3031,H26-1,10000000,0.24079094163791162
+3032,uncultured candidate division WS6 bacterium,10000000,0.1068721705770926
+3033,Deferribacteres Unknown Order,10000000,0.16937096397405313
+3034,Subgroup 9,10000000,0.249989478778692
+3035,Taphrinomycetes,10000000,0.13733700902029006
+3036,MAST-12C,10000000,0.1572637234018859
+3037,uncultured opisthokont  ,10000000,0.16759631365718228
+3038,AKAU4049,10000000,
+3039,Enoplea,10000000,0.5350233639758174
+3040,Subulatomonas,10000000,0.16767017066484682
+3041,Pneumocystomycetes,10000000,0.18606716866133127
+3042,Sumerlaeia,10000000,0.24686239706342522
+3043,Echinoidea,10000000,0.06674829783581462
+3044,Neocallimastigomycetes,10000000,0.2969791162490424
+3045,Tissierellia,10000000,0.21114359724058107
+3046,Nitrososphaeria,10000000,0.11917495030648116
+3047,Eustigmatophyceae,10000000,0.2037706832433973
+3048,Parcubacteria group bacterium GW2011_GWC2_49_9 ,10000000,0.19174124721184257
+3049,014H09-A-SD-P15,10000000,0.22097086912079608
+3050,Ostracoda,10000000,0.3233740155321748
+3051,Fe-A-9,10000000,0.6928203230275509
+3052,059A02-A-SD-P93,10000000,0.35954213213893327
+3053,Candidatus Curtissbacteria,10000000,1.09685793535375
+3054,Maxillopoda,10000000,0.6763630080914803
+3055,Candidatus Moranbacteria,10000000,0.07917884896521789
+3056,S085,10000000,0.22287231299835014
+3057,Homoscleromorpha,10000000,0.3535533905932739
+3058,WWE3,10000000,0.1631784879661264
+3059,Cestoda,10000000,0.4989128556113626
+3060,MSBL8,10000000,0.11768778828946264
+3061,Hydrogenophilia,10000000,0.2102968517807306
+3062,Parvarchaeota Unknown Order,10000000,0.1781054079784384
+3063,Armatimonadia,10000000,0.19562680522007284
+3064,uncultured KB1 group bacterium ,10000000,0.26347622724092346
+3065,Pezizomycetes,10000000,0.12139984066017454
+3066,Thecostraca,10000000,0.38820440842666065
+3067,unidentified archaeon   ,10000000,0.3206946516430613
+3068,SJA-68,10000000,0.25495097567963926
+3069,uncultured crenarchaeote  ,10000000,0.22121921825182456
+3070,d142,10000000,0.15797657175107405
+3071,JG30-KF-CM66,10000000,0.06451133425472312
+3072,uncultured marine eukaryote ,10000000,0.21858390979171988
+3073,Tetraphidopsida,10000000,0.7551903733496607
+3074,Phaeophyceae,10000000,0.37708474720464963
+3075,Pilidiophora,10000000,0.6060915267313265
+3076,uncultured microorganism  ,10000000,0.3240068961457456
+3077,Candidatus Babeliae,10000000,0.4328138441541121
+3078,Rotifera,10000000,0.38490017945975047
+3079,Marinimicrobia bacterium JGI,10000000,0.32530002431617777
+3080,Armophorea,10000000,0.4507922033332113
+3081,archaeon enrichment culture clone C1-1C-A,10000000,0.3949109157518467
+3082,Clitellata,10000000,0.24786422284763865
+3083,Korarchaeota Unknown Order,10000000,0.2308138850209742
+3084,Chlorobiia,10000000,0.7872958216222168
+3085,Gnathostomulida,10000000,0.3333333333333333
+3086,Pauropoda,10000000,0.24052284646041736
+3087,MBNT15,10000000,0.21649984563982855
+3088,SAR202 clade,10000000,0.12598815766974242
+3089,Monogononta,10000000,0.3897787034224977
+3090,Lichinomycetes,10000000,0.03449301371641692
+3091,MB-A2-108,10000000,0.25612451916888496
+3092,Schekmanbacteria,10000000,0.391543638190507
+3093,Cystobasidiomycetes,10000000,0.68826468467982
+3094,uncultured archaeon WCHD3-30 ,10000000,
+3095,Archaeoglobi,10000000,0.6550098115908474
+3096,uncultured eukaryote   ,10000000,0.5260300579094696
+3097,Aves,10000000,0.3045873232752801
+3098,SHA-26,10000000,0.6344961866675483
+3099,Margulisbacteria,10000000,0.20786985482077447
+3100,Candidatus Nomurabacteria,10000000,0.662826121516972
+3101,Monogenea,10000000,0.21613144789263342
+3102,Methylomirabilia,10000000,
+3103,Archamoebae,10000000,0.9825298425588599
+3104,Thermodesulfovibrionia,10000000,0.1575936657973257
+3105,Methanococci,10000000,0.2943920288775949
+3106,Candidatus Sumerlaeia,10000000,0.18130280898646944
+3107,Bivalvia,10000000,0.8470293251629192
+3108,Priapulida,10000000,0.17496355305594125
+3109,Candidatus Magasanikbacteria,10000000,0.4707357034467164
+3110,uncultured candidate division WWE3 bacterium,10000000,0.22978410436519855
+3111,Candidatus Aminicenantia,10000000,0.2234527455114034
+3112,Marosporida,10000000,0.10186253758129137
+3113,uncultured Nitrospirae bacterium  ,10000000,0.06536406457297467
+3114,uncultured fungus   ,10000000,0.5038276269239326
+3115,OPPD003,10000000,1.0748023074035522
+3116,Harpellales,10000000,0.26063920975656646
+3117,uncultured archaeon 19a-29  ,10000000,0.14662740836064195
+3118,Cloacimonetes Unknown Order,10000000,0.15159782898303664
+3119,Zygnemophyceae,10000000,1.069275274277119
+3120,Synurophyceae,10000000,0.6979061151198627
+3121,Agaricostilbomycetes,10000000,0.38090587513752755
+3122,uncultured eubacterium WCHB1-60  ,10000000,0.1430731215858784
+3123,Nephroselmidophyceae,10000000,0.7478869199612538
+3124,Lycopodiopsida,10000000,0.8814884683755441
+3125,Subgroup 18,10000000,0.30859243338233106
+3126,Chlorokybophyceae,10000000,0.8041558721209878
+3127,Parcubacteria group bacterium GW2011_GWA2_46_7 ,10000000,0.3062644934558789
+3128,WCHB1-81,10000000,0.11876827344782692
+3129,uncultured Latescibacteria bacterium  ,10000000,0.3721614637823934
+3130,Candidatus Kuenenbacteria,10000000,0.680448531544916
+3131,Zixibacteria,10000000,0.26057865332352387
+3132,uncultured organism ,10000000,0.26057865332352387
+3133,Candidatus Daviesbacteria,10000000,0.5790650975808713
+3134,Candidatus Izimaplasma,10000000,0.29880715233359845
+3135,Terrimicrobiia,10000000,0.0692820323027551
+3136,Z7ME43,10000000,0.6739728209136274
+3137,RBG-16-55-12,10000000,0.26438394376437563
+3138,Phylactolaemata,10000000,0.17677669529663687
+3139,MACA-EFT26,10000000,0.08838834764831843
+3140,candidate division TM6 bacterium,10000000,
+3141,Candidatus Wolfebacteria bacterium GW2011_GWA2_47_9b ,10000000,0.17677669529663687
+3142,Thermococci,10000000,0.3992926026255754
+3143,AEGEAN-245,10000000,0.6693393181887239
+3144,uncultured crenarchaeote pBRKC135  ,10000000,0.32825367109872833
+3145,uncultured anaerobic bacterium  ,10000000,0.1506131137016415
+3146,marine metagenome   ,10000000,0.7736397860235205
+3147,Chilopoda,10000000,0.0787295821622217
+3148,Polypodiopsida,10000000,0.6863485850246136
+3149,Mesozoa,10000000,0.2282177322938192
+3150,Moduliflexia,10000000,0.14285714285714285
+3151,uncultured candidate division AC1 bacterium,10000000,
+3152,uncultured archaeon PENDANT-33 ,10000000,0.20203050891044214
+3153,Candidatus Sericytochromatia,10000000,0.0
+3154,Longimicrobiia,10000000,0.48445214165180495
+3155,LCP-89,10000000,0.31881593218645293
+3156,Arctic97B-4 marine group,10000000,0.4255231590028169
+3157,Holothuroidea,10000000,0.8325785333376478
+3158,Breviata,10000000,0.17320508075688776
+3159,Planomonas micra  ,10000000,0.25353334137396233
+3160,Opalinata,10000000,0.5420770854544945
+3161,Aminicenantia,10000000,0.1727538522877482
+3162,Crinoidea,10000000,0.10878565864408424
+3163,Rozella,10000000,0.28384222069663984
+3164,UA11,10000000,0.09116056881941462
+3165,Kryptonia,10000000,0.2650270439541127
+3166,ABY1,10000000,0.4409585518440983
+3167,Cloacimonadia,10000000,0.408248290463863
+3168,Enteropneusta,10000000,0.6666666666666666
+3169,marine metagenome  ,10000000,0.9026709338484401
+3170,Kathablepharidae,10000000,0.408248290463863
+3171,SJA-28,10000000,0.0
+3172,H15-6,10000000,0.22480008293802234
+3173,Methanonatronarchaeia,10000000,0.14425172871277162
+3174,SL56 marine group,10000000,0.2608695652173913
+3175,Leptospirae,10000000,0.36735282343519987
+3176,Lineage IIb,10000000,0.37029359559513786
+3177,Picomonadida,10000000,0.12856486930664499
+3178,Atribacteria,10000000,0.30987408390150945
+3179,archaeon GW2011_AR18  ,10000000,0.30987408390150945
+3180,archaeon GW2011_AR13  ,10000000,0.2111435972405811
+3181,S-BQ2-57 soil group,10000000,0.7678340712665285
+3182,Catenulida,10000000,0.36056560925716025
+3183,Subgroup 5,10000000,0.28571428571428575
+3184,groundwater metagenome   ,10000000,0.36991123195521824
+3185,Basidiobolomycetes,10000000,0.4898979485566356
+3186,Pterobranchia,10000000,0.316227766016838
+3187,Jungermanniopsida,10000000,0.282842712474619
+3188,uncultured cyanobacterium   ,10000000,
+3189,Thermodesulfobacteria,10000000,0.2
+3190,Palmophyllophyceae,10000000,0.37267799624996506
+3191,Rhodellophyceae,10000000,0.1743041721945991
+3192,Candidatus Nanoarchaeia,10000000,0.1743041721945991
+3193,SPG12-401-411-B72,10000000,0.2015636016329133
+3194,Malawimonas,10000000,0.12371791482634838
+3195,uncultured candidate division BRC1 bacterium,10000000,0.32732683535398865
+3196,Mesostigmatophyceae,10000000,0.36376522892785895
+3197,Orbiliomycetes,10000000,0.36376522892785895
+3198,Candidatus Wolfebacteria,10000000,0.1944406936956339
+3199,Berkelbacteria,10000000,0.4507922033332113
+3200,PBS-18,10000000,0.12830005981991685
+3201,KIST-JJY010,10000000,0.12830005981991685
+3202,D-F10,10000000,0.7856742013183862
+3203,Diplopoda,10000000,0.20327890704543547
+3204,Dictyoglomia,10000000,0.3529411764705882
+3205,Nassophorea,10000000,0.1176470588235294
+3206,Enopla,10000000,0.5928523618089871
+3207,Geoglossomycetes,10000000,0.0
+3208,uncultured euryarchaeote ,10000000,0.5
+3209,uncultured marine,10000000,
+3210,Senoma,10000000,0.25
+3211,Flabellinia,10000000,0.35355339059327373
+3212,Candidatus Adlerbacteria,10000000,0.30618621784789724
+3213,Sagittoidea,10000000,0.5
+3214,Tubulinea,10000000,0.7071067811865475
+3215,Candidatus Bathyarchaeia,10000000,0.2882750302658769
+3216,Subgroup 13,10000000,0.5497474167490215
+3217,W5,10000000,0.5497474167490215
+3218,Chondrichthyes,10000000,0.1574591643244434
+3219,Cryptomonadales,10000000,0.3167153958608717
+3220,Chthonomonadetes,10000000,0.4648111258522642
+3221,Thecofilosea,10000000,0.16495721976846447
+3222,Nephridiophaga,10000000,0.4948716593053934
+3223,Leptocardii,10000000,0.16495721976846447
+3224,uncultured deep-sea bacterium  ,10000000,0.28571428571428564
+3225,MVP-15,10000000,0.20203050891044214
+3226,Candidatus Yanofskybacteria,10000000,0.20203050891044214
+3227,terrestrial metagenome   ,10000000,0.3688555567816588
+3228,uncultured Candidatus Dependentiae bacterium,10000000,0.6060915267313265
+3229,Acantharea,10000000,0.6060915267313265
+3230,Heterophryidae,10000000,0.20203050891044214
+3231,bacterium RFB D08  ,10000000,0.20203050891044214
+3232,Candidatus Peregrinibacteria bacterium GW2011_GWF2_39_17 ,10000000,0.6060915267313265
+3233,BMS9AB35,10000000,0.20203050891044214
+3234,Parcubacteria group bacterium GW2011_GWA2_47_8 ,10000000,0.3464101615137755
+3235,Nanoarchaeota archaeon SCGC AAA011-D5,10000000,0.15384615384615383
+3236,uncultured crenarchaeote,10000000,0.2614562582918986
+3237,Acanthoecida,10000000,0.4714045207910317
+3238,Marchantiopsida,10000000,0.3849001794597505
+3239,Pinguiophyceae,10000000,0.0
+3240,Pavlovophyceae,10000000,
+3241,Taphrinomycotina,10000000,0.47140452079103184
+3242,Caudofoveata,10000000,0.4714045207910317
+3243,Scalidophora,10000000,
+3244,Schizosaccharomycetes,10000000,0.0
+3245,Compsopogonophyceae,10000000,0.2988071523335984
+3246,Candidatus Amesbacteria,10000000,0.5454545454545454
+3247,uncultured methanogenic archaeon  ,10000000,0.1818181818181818
+3248,Actinopterygii,10000000,0.1818181818181818
+3249,Cubozoa,10000000,0.21650635094610962
+3250,uncultured marine bacterium ,10000000,0.21650635094610962
+3251,Gitt-GS-136,10000000,0.21650635094610962
+3252,Paramicrosporidium,10000000,0.21650635094610962
+3253,metal-contaminated soil clone K20-27 ,10000000,0.282842712474619
+3254,uncultured Caldiserica bacterium  ,10000000,0.282842712474619
+3255,Hyphochytriomycetes,10000000,0.282842712474619
+3256,Parcubacteria group bacterium GW2011_GWC2_44_22 ,10000000,0.22821773229381925
+3257,Stenolaemata,10000000,0.22821773229381925
+3258,Mortierellomycetes,10000000,0.24743582965269678
+3259,SHA-4,10000000,0.24743582965269678
+3260,Andreaeopsida,10000000,0.24743582965269678
+3261,uncultured microorganism   ,10000000,0.24743582965269678
+3262,uncultured crenarchaeote ,10000000,
+3263,uncultured Parcubacteria group bacterium ,10000000,0.0
+3264,Asteroidea,10000000,
+3265,uncultured bacterium I025  ,10000000,
+3266,Cycadopsida,10000000,0.0
+3267,Amblyospora sp.,10000000,0.0
+3268,SHA-41,10000000,0.0
+3269,Rhynchonellata,10000000,
+3270,uncultured bacterium 'KTK 14' ,10000000,0.0
+3271,uncultured Telonemida  ,10000000,0.0
+3272,Alloascoideomycetes,10000000,0.0
+3273,uncultured methanogenic archaeon ,10000000,0.0
+3274,Amblyosporidae,10000000,0.0
+3275,Coprothermobacteria,10000000,0.0
+3276,Coleochaetophyceae,10000000,0.0
+3277,Ancyromonas,10000000,0.0
+3278,Appendicularia,10000000,
+3279,C10-SB1A,10000000,0.0
+3280,Dimargaritomycetes,10000000,
+3281,Elev-1554,10000000,
+3282,Bacillidium sp.,10000000,
+3283,Parcubacteria group bacterium GW2011_GWF2_42_7 ,10000000,0.0
+3284,Parcubacteria Unknown Order,10000000,
+3285,Tectomicrobia Unknown Order,10000000,0.0
+3286,Pelagophyceae,10000000,
+3287,Gracilipodida,10000000,
+3288,Eoacanthocephala,10000000,0.0
+3289,Euryarchaeota archaeon SCGC AAA286-E23,10000000,0.0
+3290,TOTO-A6-15,10000000,0.0
+3291,Syntrophia,10000000,0.0
+3292,Chlorarachniophyceae,10000000,0.0
+3293,Mitosporidium daphniae   ,10000000,
+3294,Stylonematophyceae,10000000,
+3295,Candidatus Uhrbacteria,10000000,0.0
+3296,Thermoflexia,10000000,
+3297,archaeon GW2011_AR17  ,10000000,
+3298,candidate division WS6 bacterium OLB21,10000000,
+3299,Candidatus Jorgensenbacteria,10000000,0.0
+3300,crenarchaeote enrichment culture clone 61-23f,10000000,
+3301,hydrothermal vent metagenome  ,10000000,0.0
+3302,Trematoda,10000000,0.0
+3303,Zoopagomycetes,10000000,
+3304,Z273FA48,10000000,0.0
+3305,uncultured Aminicenantes bacterium  ,10000000,0.0
+3306,pSL12,10000000,
+3307,Ika33,10000000,0.0
+3308,Nutomonas,10000000,0.0
+3309,miscellaneous Crenarchaeota group archaeon SMTZ-80,10000000,0.0
+3310,LK-44f,10000000,0.0
+3311,uncultured Microgenomates group bacterium,10000000,0.0
+3312,Archiacanthocephala,10000000,0.0
+3313,uncultured planctomycete   ,10000000,0.0
+3314,unidentified archaeon  ,10000000,0.0

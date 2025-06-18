@@ -1,0 +1,1386 @@
+,Phylum,read count,relative error
+0,Streptophyta,1000,0.07579688609962656
+1,Pseudomonadota,1000,0.07106241932962584
+2,Foraminifera,1000,0.16305609755359196
+3,SAR,1000,0.19835775836501135
+4,Proteobacteria,1000,0.16243472415882051
+5,Cyanobacteria,1000,0.1485525371155999
+6,Metazoa (Animalia),1000,0.190521526692377
+7,Bacillariophyta,1000,0.3556392694020538
+8,Cercozoa,1000,0.14855650077273644
+9,Apicomplexa,1000,0.3925701051315105
+10,Bacteroidetes,1000,0.2590516366915826
+11,Bacteroidota,1000,0.25603619910376896
+12,Platyhelminthes,1000,0.6060915267313256
+13,Saccharibacteria,1000,0.40745015032515625
+14,Arthropoda,1000,0.7862235356532721
+15,Gastrotricha,1000,
+16,Ciliophora,1000,
+17,Ascomycota,1000,
+18,Firmicutes,1000,
+19,Nematozoa,1000,0.176776695296625
+20,Amoebozoa,1000,0.31491832864887276
+21,Chlorophyta,1000,0.4714045207910267
+22,Actinobacteria,1000,0.1571348402636667
+23,Actinomycetota,1000,
+24,Basidiomycota,1000,
+25,Xenacoelomorpha,1000,
+26,Euryarchaeota,1000,0.0
+27,Verrucomicrobia,1000,
+28,Planctomycetes,1000,
+29,Verrucomicrobiota,1000,
+30,Thermodesulfobacteriota,1000,
+31,Planctomycetota,1000,
+32,Archaeplastida,1000,
+33,Euglenozoa,1000,
+34,Phragmoplastophyta,1000,
+35,Nematoda,1000,
+36,Aenigmarchaeota,1000,
+37,Choanoflagellida,1000,
+38,Desulfobacterota,1000,
+39,Candidatus Collierbacteria,1000,
+40,Thermoplasmatota,1000,
+41,Chytridiomycota,1000,
+42,Bathyarchaeota,1000,
+43,Cnidaria,1000,
+44,Tubulinea,1000,
+45,Actinobacteriota,1000,
+46,Thermoproteota,1000,
+47,Lokiarchaeota,1000,
+48,Zoopagomycota,1000,
+49,Bdellovibrionota,1000,
+50,Haptophyta,1000,
+51,Centrohelida,1000,
+52,Patescibacteria,1000,
+53,Mucoromycota,1000,
+54,Candidatus Gracilibacteria,1000,
+55,Chordata,1000,
+56,Thaumarchaeota,1000,
+57,Bacillota,1000,
+58,Entomophthoromycota,1000,
+59,Acidobacteria,1000,
+60,Cyanobacteriota,1000,
+61,Chloroflexi,1000,
+62,Nitrososphaerota,1000,
+63,Spirochaetae,1000,
+64,Excavata,1000,
+65,Chlorobiota,1000,
+66,Woesearchaeota (DHVEG-6),1000,
+67,Tenericutes,1000,
+68,Gemmatimonadetes,1000,
+69,Discicristoidea,1000,
+70,Parcubacteria,1000,
+71,Cryptomycota,1000,
+72,Acidobacteriota,1000,
+73,Oomycota,1000,
+74,Campylobacterota,1000,
+75,Microgenomates,1000,
+76,Lentisphaerota,1000,
+77,DH147-EKD10,1000,
+78,Myxococcota,1000,
+79,Dependentiae,1000,
+80,Chlamydiae,1000,
+81,Chlamydiota,1000,
+82,LKM15,1000,
+83,Nitrospirae,1000,
+84,Fusobacteria,1000,
+85,Lentisphaerae,1000,
+86,Chloroflexota,1000,
+87,Methanobacteriota,1000,
+88,Endomyxa,1000,
+89,Fusobacteriota,1000,
+90,Rhodothermota,1000,
+91,Mycoplasmatota,1000,
+92,Nitrospirota,1000,
+93,Gemmatimonadota,1000,
+94,Aminicenantes,1000,
+95,Tunicata,1000,
+96,Dinoflagellata,1000,
+97,Caldiserica,1000,
+98,Spirochaetota,1000,
+99,Candidatus Saccharibacteria,1000,
+100,Hydrogenedentes,1000,
+101,Omnitrophica,1000,
+102,Gracilibacteria,1000,
+103,SR1 (Absconditabacteria),1000,
+104,Deinococcus-Thermus,1000,
+105,Sva0485,1000,
+106,Acanthocephala,1000,
+107,Fibrobacteres,1000,
+108,Mollusca,1000,
+109,TM6 (Dependentiae),1000,
+110,Candidatus Kaiserbacteria,1000,
+111,Balneolota,1000,
+112,Marine Benthic Group E,1000,
+113,Kiritimatiellota,1000,
+114,Deinococcota,1000,
+115,Porifera,1000,
+116,Annelida,1000,
+117,Rhodophyta,1000,
+118,Blastocladiomycota,1000,
+119,WWE3,1000,
+120,Aerophobetes,1000,
+121,NB1-j,1000,
+122,Evosea,1000,
+123,Candidatus Latescibacterota,1000,
+124,KSB3 (Modulibacteria),1000,
+125,Armatimonadetes,1000,
+126,Crenarchaeota,1000,
+127,Marinimicrobia (SAR406 clade),1000,
+128,Rotifera,1000,
+129,WS6,1000,
+130,Aquificae,1000,
+131,Peregrinibacteria,1000,
+132,Calditrichota,1000,
+133,Candidatus Parcubacteria,1000,
+134,Thermotogae,1000,
+135,Filasterea,1000,
+136,Marine Hydrothermal Vent Group 1(MHVG-1),1000,
+137,WSA2,1000,
+138,Nanoarchaeota,1000,
+139,Ichthyosporea,1000,
+140,Palpitomonas,1000,
+141,RCP2-54,1000,
+142,Phoronida,1000,
+143,SAR324 clade(Marine group B),1000,
+144,Nemertea,1000,
+145,SBR1093,1000,
+146,Synergistetes,1000,
+147,Dadabacteria,1000,
+148,Cryptophyceae,1000,
+149,Chlorobi,1000,
+150,Aigarchaeota,1000,
+151,Elusimicrobia,1000,
+152,RBG-1 (Zixibacteria),1000,
+153,Acetothermia,1000,
+154,Bryozoa,1000,
+155,Hadesarchaea,1000,
+156,Latescibacterota,1000,
+157,Marine Hydrothermal Vent Group(MHVG),1000,
+158,Atribacterota,1000,
+159,Nitrospinota,1000,
+160,Ignavibacteriota,1000,
+161,Thermomicrobiota,1000,
+162,Latescibacteria,1000,
+163,Microsporidia,1000,
+164,Ignavibacteriae,1000,
+165,Deferrisomatota,1000,
+166,Priapulida,1000,
+167,Parabasalia,1000,
+168,Candidatus Campbellbacteria,1000,
+169,Deferribacteres,1000,
+170,Armatimonadota,1000,
+171,Candidatus Giovannonibacteria,1000,
+172,Atribacteria,1000,
+173,Candidatus Curtissbacteria,1000,
+174,Diapherotrites,1000,
+175,Candidatus Omnitrophota,1000,
+176,Tardigrada,1000,
+177,Nitrospinae,1000,
+178,Abditibacteriota,1000,
+179,PAUC34f,1000,
+180,BJ-169,1000,
+181,Fibrobacterota,1000,
+182,Cloacimonetes,1000,
+183,Heterolobosea,1000,
+184,FBP,1000,
+185,WPS-2,1000,
+186,AC1,1000,
+187,Echinodermata,1000,
+188,Breviatea,1000,
+189,Miscellaneous Euryarchaeotic Group(MEG),1000,
+190,MAST-12,1000,
+191,Sumerlaeota,1000,
+192,Discoba,1000,
+193,Apusomonadidae,1000,
+194,Candidatus Parvarchaeota,1000,
+195,Candidatus Calescamantes,1000,
+196,WS1,1000,
+197,Candidatus Moraniibacteriota,1000,
+198,Gnathostomulida,1000,
+199,Tectomicrobia,1000,
+200,MBNT15,1000,
+201,Schekmanbacteria,1000,
+202,Candidatus Nomurabacteria,1000,
+203,Margulisbacteria,1000,
+204,Candidatus Sumerlaeota,1000,
+205,Candidatus Berkelbacteria,1000,
+206,Methylomirabilota,1000,
+207,LCP-89,1000,
+208,Candidatus Aminicenantota,1000,
+209,Diatomea,1000,
+210,Scalidophora,1000,
+211,candidate division WWE3,1000,
+212,uncultured,1000,
+213,Glomeromycota,1000,
+214,Candidatus Peregrinibacteria,1000,
+215,Hemichordata,1000,
+216,CPR2,1000,
+217,Candidatus Melainabacteria,1000,
+218,BRC1,1000,
+219,Candidatus Daviesbacteria,1000,
+220,Bicosoecida,1000,
+221,Neocallimastigomycota,1000,
+222,Zixibacteria,1000,
+223,Candidate division YNPFFA,1000,
+224,uncultured bacterium   ,1000,
+225,AK8,1000,
+226,Candidatus Azambacteria,1000,
+227,Candidatus Wolfebacteria,1000,
+228,Telonema,1000,
+229,Candidatus Rokuibacteriota,1000,
+230,Nanobdellota,1000,
+231,Orthonectida,1000,
+232,Modulibacteria,1000,
+233,Fornicata,1000,
+234,Thermotogota,1000,
+235,Opalinata,1000,
+236,Candidatus Magasanikiibacteriota,1000,
+237,Caldisericota,1000,
+238,WS2,1000,
+239,uncultured archaeon   ,1000,
+240,Cloacimonadota,1000,
+241,Deferribacterota,1000,
+242,Elusimicrobiota,1000,
+243,Picozoa,1000,
+244,Discosea,1000,
+245,WA-aaa01f12,1000,
+246,Candidatus Bathyarchaeota,1000,
+247,Thermodesulfobacteria,1000,
+248,Dictyoglomi,1000,
+249,Ancient Archaeal Group(AAG),1000,
+250,Chaetognatha,1000,
+251,Holozoa,1000,
+252,Preaxostyla,1000,
+253,Kickxellomycotina,1000,
+254,D4P07G08,1000,
+255,Loricifera,1000,
+256,unidentified archaeon   ,1000,
+257,Candidatus Paceibacterota,1000,
+258,Ancyromonadida,1000,
+259,MD2896-B216,1000,
+260,Vertebrata,1000,
+261,Coprothermobacterota,1000,
+262,Nanohaloarchaeota,1000,
+263,GAL15,1000,
+264,FCPU426,1000,
+265,Fervidibacteria,1000,
+266,MSBL1,1000,
+267,Candidatus Shapirobacteria,1000,
+268,Ochrophyta,1000,
+269,Candidatus Amesbacteria,1000,
+270,Candidatus Adlerbacteria,1000,
+271,Candidatus Woesebacteria,1000,
+272,Parvarchaeota,1000,
+273,Brachiopoda,1000,
+274,RsaHf231,1000,
+275,Candidatus Kuenenbacteria,1000,
+276,uncultured dinoflagellate   ,1000,
+277,Streptophyta,10000,0.02775727524469822
+278,Pseudomonadota,10000,0.04922747469844545
+279,Foraminifera,10000,0.0347193721963981
+280,SAR,10000,0.08342935260014966
+281,Proteobacteria,10000,0.07473348350705035
+282,Cyanobacteria,10000,0.043172257113732425
+283,Metazoa (Animalia),10000,0.02941132487170191
+284,Bacillariophyta,10000,0.030047989938937217
+285,Cercozoa,10000,0.06019149947985085
+286,Apicomplexa,10000,0.06008754838340059
+287,Bacteroidetes,10000,0.0957233634418295
+288,Bacteroidota,10000,0.05401864631730505
+289,Platyhelminthes,10000,0.1538718563278829
+290,Saccharibacteria,10000,0.07671938792437173
+291,Arthropoda,10000,0.19542165315647192
+292,Gastrotricha,10000,0.17351489291412547
+293,Ciliophora,10000,0.2769806637557787
+294,Ascomycota,10000,0.28397153165158534
+295,Firmicutes,10000,0.6000687540326564
+296,Nematozoa,10000,0.1877736695712985
+297,Amoebozoa,10000,0.17010961729938864
+298,Chlorophyta,10000,0.18233306700101157
+299,Actinobacteria,10000,0.8603428923599613
+300,Actinomycetota,10000,0.1647817285683414
+301,Basidiomycota,10000,0.21222092527322578
+302,Xenacoelomorpha,10000,0.19308278532084905
+303,Euryarchaeota,10000,0.47128275803015146
+304,Verrucomicrobia,10000,0.31426968052733334
+305,Planctomycetes,10000,0.727500562005641
+306,Verrucomicrobiota,10000,0.6902566867686315
+307,Thermodesulfobacteriota,10000,0.2836367870880083
+308,Planctomycetota,10000,0.63161169505744
+309,Archaeplastida,10000,0.28743098055542554
+310,Euglenozoa,10000,0.24600763793216981
+311,Phragmoplastophyta,10000,
+312,Nematoda,10000,
+313,Aenigmarchaeota,10000,
+314,Choanoflagellida,10000,0.15713484026362962
+315,Desulfobacterota,10000,0.4694564939112791
+316,Candidatus Collierbacteria,10000,0.19999999999989998
+317,Thermoplasmatota,10000,0.6754970734919999
+318,Chytridiomycota,10000,0.10825317547306154
+319,Bathyarchaeota,10000,0.6
+320,Cnidaria,10000,0.7071067811866767
+321,Tubulinea,10000,0.5656854249491999
+322,Actinobacteriota,10000,
+323,Thermoproteota,10000,0.23999999999999996
+324,Lokiarchaeota,10000,0.2808472386685185
+325,Zoopagomycota,10000,
+326,Bdellovibrionota,10000,
+327,Haptophyta,10000,
+328,Centrohelida,10000,0.3263569759321539
+329,Patescibacteria,10000,0.0
+330,Mucoromycota,10000,
+331,Candidatus Gracilibacteria,10000,0.28571428571428575
+332,Chordata,10000,
+333,Thaumarchaeota,10000,0.47140452079100004
+334,Bacillota,10000,
+335,Entomophthoromycota,10000,
+336,Acidobacteria,10000,
+337,Cyanobacteriota,10000,
+338,Chloroflexi,10000,
+339,Nitrososphaerota,10000,
+340,Spirochaetae,10000,
+341,Excavata,10000,
+342,Chlorobiota,10000,
+343,Woesearchaeota (DHVEG-6),10000,
+344,Tenericutes,10000,
+345,Gemmatimonadetes,10000,
+346,Discicristoidea,10000,
+347,Parcubacteria,10000,
+348,Cryptomycota,10000,
+349,Acidobacteriota,10000,
+350,Oomycota,10000,
+351,Campylobacterota,10000,
+352,Microgenomates,10000,
+353,Lentisphaerota,10000,
+354,DH147-EKD10,10000,
+355,Myxococcota,10000,
+356,Dependentiae,10000,
+357,Chlamydiae,10000,
+358,Chlamydiota,10000,
+359,LKM15,10000,
+360,Nitrospirae,10000,
+361,Fusobacteria,10000,
+362,Lentisphaerae,10000,
+363,Chloroflexota,10000,
+364,Methanobacteriota,10000,
+365,Endomyxa,10000,
+366,Fusobacteriota,10000,
+367,Rhodothermota,10000,
+368,Mycoplasmatota,10000,
+369,Nitrospirota,10000,
+370,Gemmatimonadota,10000,
+371,Aminicenantes,10000,
+372,Tunicata,10000,
+373,Dinoflagellata,10000,
+374,Caldiserica,10000,
+375,Spirochaetota,10000,
+376,Candidatus Saccharibacteria,10000,
+377,Hydrogenedentes,10000,
+378,Omnitrophica,10000,
+379,Gracilibacteria,10000,
+380,SR1 (Absconditabacteria),10000,
+381,Deinococcus-Thermus,10000,
+382,Sva0485,10000,
+383,Acanthocephala,10000,
+384,Fibrobacteres,10000,
+385,Mollusca,10000,
+386,TM6 (Dependentiae),10000,
+387,Candidatus Kaiserbacteria,10000,
+388,Balneolota,10000,
+389,Marine Benthic Group E,10000,
+390,Kiritimatiellota,10000,
+391,Deinococcota,10000,
+392,Porifera,10000,
+393,Annelida,10000,
+394,Rhodophyta,10000,
+395,Blastocladiomycota,10000,
+396,WWE3,10000,
+397,Aerophobetes,10000,
+398,NB1-j,10000,
+399,Evosea,10000,
+400,Candidatus Latescibacterota,10000,
+401,KSB3 (Modulibacteria),10000,
+402,Armatimonadetes,10000,
+403,Crenarchaeota,10000,
+404,Marinimicrobia (SAR406 clade),10000,
+405,Rotifera,10000,
+406,WS6,10000,
+407,Aquificae,10000,
+408,Peregrinibacteria,10000,
+409,Calditrichota,10000,
+410,Candidatus Parcubacteria,10000,
+411,Thermotogae,10000,
+412,Filasterea,10000,
+413,Marine Hydrothermal Vent Group 1(MHVG-1),10000,
+414,WSA2,10000,
+415,Nanoarchaeota,10000,
+416,Ichthyosporea,10000,
+417,Palpitomonas,10000,
+418,RCP2-54,10000,
+419,Phoronida,10000,
+420,SAR324 clade(Marine group B),10000,
+421,Nemertea,10000,
+422,SBR1093,10000,
+423,Synergistetes,10000,
+424,Dadabacteria,10000,
+425,Cryptophyceae,10000,
+426,Chlorobi,10000,
+427,Aigarchaeota,10000,
+428,Elusimicrobia,10000,
+429,RBG-1 (Zixibacteria),10000,
+430,Acetothermia,10000,
+431,Bryozoa,10000,
+432,Hadesarchaea,10000,
+433,Latescibacterota,10000,
+434,Marine Hydrothermal Vent Group(MHVG),10000,
+435,Atribacterota,10000,
+436,Nitrospinota,10000,
+437,Ignavibacteriota,10000,
+438,Thermomicrobiota,10000,
+439,Latescibacteria,10000,
+440,Microsporidia,10000,
+441,Ignavibacteriae,10000,
+442,Deferrisomatota,10000,
+443,Priapulida,10000,
+444,Parabasalia,10000,
+445,Candidatus Campbellbacteria,10000,
+446,Deferribacteres,10000,
+447,Armatimonadota,10000,
+448,Candidatus Giovannonibacteria,10000,
+449,Atribacteria,10000,
+450,Candidatus Curtissbacteria,10000,
+451,Diapherotrites,10000,
+452,Candidatus Omnitrophota,10000,
+453,Tardigrada,10000,
+454,Nitrospinae,10000,
+455,Abditibacteriota,10000,
+456,PAUC34f,10000,
+457,BJ-169,10000,
+458,Fibrobacterota,10000,
+459,Cloacimonetes,10000,
+460,Heterolobosea,10000,
+461,FBP,10000,
+462,WPS-2,10000,
+463,AC1,10000,
+464,Echinodermata,10000,
+465,Breviatea,10000,
+466,Miscellaneous Euryarchaeotic Group(MEG),10000,
+467,MAST-12,10000,
+468,Sumerlaeota,10000,
+469,Discoba,10000,
+470,Apusomonadidae,10000,
+471,Candidatus Parvarchaeota,10000,
+472,Candidatus Calescamantes,10000,
+473,WS1,10000,
+474,Candidatus Moraniibacteriota,10000,
+475,Gnathostomulida,10000,
+476,Tectomicrobia,10000,
+477,MBNT15,10000,
+478,Schekmanbacteria,10000,
+479,Candidatus Nomurabacteria,10000,
+480,Margulisbacteria,10000,
+481,Candidatus Sumerlaeota,10000,
+482,Candidatus Berkelbacteria,10000,
+483,Methylomirabilota,10000,
+484,LCP-89,10000,
+485,Candidatus Aminicenantota,10000,
+486,Diatomea,10000,
+487,Scalidophora,10000,
+488,candidate division WWE3,10000,
+489,uncultured,10000,
+490,Glomeromycota,10000,
+491,Candidatus Peregrinibacteria,10000,
+492,Hemichordata,10000,
+493,CPR2,10000,
+494,Candidatus Melainabacteria,10000,
+495,BRC1,10000,
+496,Candidatus Daviesbacteria,10000,
+497,Bicosoecida,10000,
+498,Neocallimastigomycota,10000,
+499,Zixibacteria,10000,
+500,Candidate division YNPFFA,10000,
+501,uncultured bacterium   ,10000,
+502,AK8,10000,
+503,Candidatus Azambacteria,10000,
+504,Candidatus Wolfebacteria,10000,
+505,Telonema,10000,
+506,Candidatus Rokuibacteriota,10000,
+507,Nanobdellota,10000,
+508,Orthonectida,10000,
+509,Modulibacteria,10000,
+510,Fornicata,10000,
+511,Thermotogota,10000,
+512,Opalinata,10000,
+513,Candidatus Magasanikiibacteriota,10000,
+514,Caldisericota,10000,
+515,WS2,10000,
+516,uncultured archaeon   ,10000,
+517,Cloacimonadota,10000,
+518,Deferribacterota,10000,
+519,Elusimicrobiota,10000,
+520,Picozoa,10000,
+521,Discosea,10000,
+522,WA-aaa01f12,10000,
+523,Candidatus Bathyarchaeota,10000,
+524,Thermodesulfobacteria,10000,
+525,Dictyoglomi,10000,
+526,Ancient Archaeal Group(AAG),10000,
+527,Chaetognatha,10000,
+528,Holozoa,10000,
+529,Preaxostyla,10000,
+530,Kickxellomycotina,10000,
+531,D4P07G08,10000,
+532,Loricifera,10000,
+533,unidentified archaeon   ,10000,
+534,Candidatus Paceibacterota,10000,
+535,Ancyromonadida,10000,
+536,MD2896-B216,10000,
+537,Vertebrata,10000,
+538,Coprothermobacterota,10000,
+539,Nanohaloarchaeota,10000,
+540,GAL15,10000,
+541,FCPU426,10000,
+542,Fervidibacteria,10000,
+543,MSBL1,10000,
+544,Candidatus Shapirobacteria,10000,
+545,Ochrophyta,10000,
+546,Candidatus Amesbacteria,10000,
+547,Candidatus Adlerbacteria,10000,
+548,Candidatus Woesebacteria,10000,
+549,Parvarchaeota,10000,
+550,Brachiopoda,10000,
+551,RsaHf231,10000,
+552,Candidatus Kuenenbacteria,10000,
+553,uncultured dinoflagellate   ,10000,
+554,Streptophyta,100000,0.009938708361270743
+555,Pseudomonadota,100000,0.013603063557976566
+556,Foraminifera,100000,0.007145775456030581
+557,SAR,100000,0.01755261453585065
+558,Proteobacteria,100000,0.017219359343594202
+559,Cyanobacteria,100000,0.00390035297977192
+560,Metazoa (Animalia),100000,0.006385573595917785
+561,Bacillariophyta,100000,0.028491398087502662
+562,Cercozoa,100000,0.016834605962115858
+563,Apicomplexa,100000,0.007017931169689649
+564,Bacteroidetes,100000,0.026612031853081235
+565,Bacteroidota,100000,0.018694982698125435
+566,Platyhelminthes,100000,0.03957109203695077
+567,Saccharibacteria,100000,0.013254429593570038
+568,Arthropoda,100000,0.028798239802804788
+569,Gastrotricha,100000,0.017975891803810703
+570,Ciliophora,100000,0.03658480589841949
+571,Ascomycota,100000,0.029172698944479207
+572,Firmicutes,100000,0.1769611541175489
+573,Nematozoa,100000,0.04138532536701792
+574,Amoebozoa,100000,0.059405379106575076
+575,Chlorophyta,100000,0.08478539181264916
+576,Actinobacteria,100000,0.42014970685328284
+577,Actinomycetota,100000,0.07473797080964913
+578,Basidiomycota,100000,0.03689189056181584
+579,Xenacoelomorpha,100000,0.056288131407747445
+580,Euryarchaeota,100000,0.08962615650700713
+581,Verrucomicrobia,100000,0.19762014545526616
+582,Planctomycetes,100000,0.14481974857607655
+583,Verrucomicrobiota,100000,0.20903075447081412
+584,Thermodesulfobacteriota,100000,0.0631703910071309
+585,Planctomycetota,100000,0.13002298743028934
+586,Archaeplastida,100000,0.07531489719921422
+587,Euglenozoa,100000,0.07959952374071724
+588,Phragmoplastophyta,100000,0.47899988390549453
+589,Nematoda,100000,0.12372990235046619
+590,Aenigmarchaeota,100000,0.11747629398758389
+591,Choanoflagellida,100000,0.13182238688715206
+592,Desulfobacterota,100000,0.05266399192144436
+593,Candidatus Collierbacteria,100000,0.14398328034497285
+594,Thermoplasmatota,100000,0.1084773730060773
+595,Chytridiomycota,100000,0.09722222222223573
+596,Bathyarchaeota,100000,0.3364438206363334
+597,Cnidaria,100000,0.10788414279807253
+598,Tubulinea,100000,0.13824104097783277
+599,Actinobacteriota,100000,0.14485544727751654
+600,Thermoproteota,100000,0.19392798835429934
+601,Lokiarchaeota,100000,0.21470552644322036
+602,Zoopagomycota,100000,0.23460850850574075
+603,Bdellovibrionota,100000,0.1684192884740743
+604,Haptophyta,100000,0.16120081383626603
+605,Centrohelida,100000,0.13812813706360827
+606,Patescibacteria,100000,0.2516511079084318
+607,Mucoromycota,100000,0.10225788565913846
+608,Candidatus Gracilibacteria,100000,0.11907012119681222
+609,Chordata,100000,0.3724007679171334
+610,Thaumarchaeota,100000,0.4075315172208075
+611,Bacillota,100000,0.5859968427285468
+612,Entomophthoromycota,100000,0.08038620562452675
+613,Acidobacteria,100000,0.6032324240256411
+614,Cyanobacteriota,100000,0.5043821409850427
+615,Chloroflexi,100000,0.548127423907531
+616,Nitrososphaerota,100000,0.1671826525233488
+617,Spirochaetae,100000,0.4448782605013046
+618,Excavata,100000,0.30822070014844877
+619,Chlorobiota,100000,0.1151692348584988
+620,Woesearchaeota (DHVEG-6),100000,0.2210192869431909
+621,Tenericutes,100000,0.4677071733467426
+622,Gemmatimonadetes,100000,0.33918649724354416
+623,Discicristoidea,100000,0.24176854432381348
+624,Parcubacteria,100000,0.47777260979117114
+625,Cryptomycota,100000,0.49254801826406536
+626,Acidobacteriota,100000,0.282842712474619
+627,Oomycota,100000,1.1570838237590908
+628,Campylobacterota,100000,0.22231963567856866
+629,Microgenomates,100000,
+630,Lentisphaerota,100000,0.6435846357954428
+631,DH147-EKD10,100000,0.23570226039551587
+632,Myxococcota,100000,0.13856406460551027
+633,Dependentiae,100000,0.4714045207910317
+634,Chlamydiae,100000,0.41573970964154905
+635,Chlamydiota,100000,0.17833266514160784
+636,LKM15,100000,0.24835966018793706
+637,Nitrospirae,100000,0.30584217691149584
+638,Fusobacteria,100000,0.6185895741317419
+639,Lentisphaerae,100000,0.4957208885712143
+640,Chloroflexota,100000,0.28284271247461895
+641,Methanobacteriota,100000,0.2591307784316223
+642,Endomyxa,100000,0.4668117437070199
+643,Fusobacteriota,100000,0.5445487428443238
+644,Rhodothermota,100000,0.15061311370164163
+645,Mycoplasmatota,100000,0.2484519974999766
+646,Nitrospirota,100000,0.7614996105085896
+647,Gemmatimonadota,100000,0.0
+648,Aminicenantes,100000,
+649,Tunicata,100000,
+650,Dinoflagellata,100000,
+651,Caldiserica,100000,0.42127085800286385
+652,Spirochaetota,100000,
+653,Candidatus Saccharibacteria,100000,
+654,Hydrogenedentes,100000,0.27216552697590873
+655,Omnitrophica,100000,0.13323467750529822
+656,Gracilibacteria,100000,
+657,SR1 (Absconditabacteria),100000,0.0
+658,Deinococcus-Thermus,100000,
+659,Sva0485,100000,
+660,Acanthocephala,100000,
+661,Fibrobacteres,100000,0.0
+662,Mollusca,100000,
+663,TM6 (Dependentiae),100000,
+664,Candidatus Kaiserbacteria,100000,
+665,Balneolota,100000,
+666,Marine Benthic Group E,100000,0.2474358296526967
+667,Kiritimatiellota,100000,
+668,Deinococcota,100000,0.33333333333333337
+669,Porifera,100000,
+670,Annelida,100000,
+671,Rhodophyta,100000,
+672,Blastocladiomycota,100000,
+673,WWE3,100000,
+674,Aerophobetes,100000,0.28284271247461895
+675,NB1-j,100000,
+676,Evosea,100000,
+677,Candidatus Latescibacterota,100000,
+678,KSB3 (Modulibacteria),100000,0.28284271247461895
+679,Armatimonadetes,100000,
+680,Crenarchaeota,100000,
+681,Marinimicrobia (SAR406 clade),100000,0.0
+682,Rotifera,100000,
+683,WS6,100000,
+684,Aquificae,100000,
+685,Peregrinibacteria,100000,
+686,Calditrichota,100000,
+687,Candidatus Parcubacteria,100000,
+688,Thermotogae,100000,
+689,Filasterea,100000,
+690,Marine Hydrothermal Vent Group 1(MHVG-1),100000,
+691,WSA2,100000,
+692,Nanoarchaeota,100000,
+693,Ichthyosporea,100000,
+694,Palpitomonas,100000,
+695,RCP2-54,100000,
+696,Phoronida,100000,
+697,SAR324 clade(Marine group B),100000,
+698,Nemertea,100000,
+699,SBR1093,100000,
+700,Synergistetes,100000,
+701,Dadabacteria,100000,
+702,Cryptophyceae,100000,
+703,Chlorobi,100000,
+704,Aigarchaeota,100000,
+705,Elusimicrobia,100000,
+706,RBG-1 (Zixibacteria),100000,
+707,Acetothermia,100000,
+708,Bryozoa,100000,
+709,Hadesarchaea,100000,
+710,Latescibacterota,100000,
+711,Marine Hydrothermal Vent Group(MHVG),100000,
+712,Atribacterota,100000,
+713,Nitrospinota,100000,
+714,Ignavibacteriota,100000,
+715,Thermomicrobiota,100000,
+716,Latescibacteria,100000,
+717,Microsporidia,100000,
+718,Ignavibacteriae,100000,
+719,Deferrisomatota,100000,
+720,Priapulida,100000,
+721,Parabasalia,100000,
+722,Candidatus Campbellbacteria,100000,
+723,Deferribacteres,100000,
+724,Armatimonadota,100000,
+725,Candidatus Giovannonibacteria,100000,
+726,Atribacteria,100000,
+727,Candidatus Curtissbacteria,100000,
+728,Diapherotrites,100000,
+729,Candidatus Omnitrophota,100000,
+730,Tardigrada,100000,
+731,Nitrospinae,100000,
+732,Abditibacteriota,100000,
+733,PAUC34f,100000,
+734,BJ-169,100000,
+735,Fibrobacterota,100000,
+736,Cloacimonetes,100000,
+737,Heterolobosea,100000,
+738,FBP,100000,
+739,WPS-2,100000,
+740,AC1,100000,
+741,Echinodermata,100000,
+742,Breviatea,100000,
+743,Miscellaneous Euryarchaeotic Group(MEG),100000,
+744,MAST-12,100000,
+745,Sumerlaeota,100000,
+746,Discoba,100000,
+747,Apusomonadidae,100000,
+748,Candidatus Parvarchaeota,100000,
+749,Candidatus Calescamantes,100000,
+750,WS1,100000,
+751,Candidatus Moraniibacteriota,100000,
+752,Gnathostomulida,100000,
+753,Tectomicrobia,100000,
+754,MBNT15,100000,
+755,Schekmanbacteria,100000,
+756,Candidatus Nomurabacteria,100000,
+757,Margulisbacteria,100000,
+758,Candidatus Sumerlaeota,100000,
+759,Candidatus Berkelbacteria,100000,
+760,Methylomirabilota,100000,
+761,LCP-89,100000,
+762,Candidatus Aminicenantota,100000,
+763,Diatomea,100000,
+764,Scalidophora,100000,
+765,candidate division WWE3,100000,
+766,uncultured,100000,
+767,Glomeromycota,100000,
+768,Candidatus Peregrinibacteria,100000,
+769,Hemichordata,100000,
+770,CPR2,100000,
+771,Candidatus Melainabacteria,100000,
+772,BRC1,100000,
+773,Candidatus Daviesbacteria,100000,
+774,Bicosoecida,100000,
+775,Neocallimastigomycota,100000,
+776,Zixibacteria,100000,
+777,Candidate division YNPFFA,100000,
+778,uncultured bacterium   ,100000,
+779,AK8,100000,
+780,Candidatus Azambacteria,100000,
+781,Candidatus Wolfebacteria,100000,
+782,Telonema,100000,
+783,Candidatus Rokuibacteriota,100000,
+784,Nanobdellota,100000,
+785,Orthonectida,100000,
+786,Modulibacteria,100000,
+787,Fornicata,100000,
+788,Thermotogota,100000,
+789,Opalinata,100000,
+790,Candidatus Magasanikiibacteriota,100000,
+791,Caldisericota,100000,
+792,WS2,100000,
+793,uncultured archaeon   ,100000,
+794,Cloacimonadota,100000,
+795,Deferribacterota,100000,
+796,Elusimicrobiota,100000,
+797,Picozoa,100000,
+798,Discosea,100000,
+799,WA-aaa01f12,100000,
+800,Candidatus Bathyarchaeota,100000,
+801,Thermodesulfobacteria,100000,
+802,Dictyoglomi,100000,
+803,Ancient Archaeal Group(AAG),100000,
+804,Chaetognatha,100000,
+805,Holozoa,100000,
+806,Preaxostyla,100000,
+807,Kickxellomycotina,100000,
+808,D4P07G08,100000,
+809,Loricifera,100000,
+810,unidentified archaeon   ,100000,
+811,Candidatus Paceibacterota,100000,
+812,Ancyromonadida,100000,
+813,MD2896-B216,100000,
+814,Vertebrata,100000,
+815,Coprothermobacterota,100000,
+816,Nanohaloarchaeota,100000,
+817,GAL15,100000,
+818,FCPU426,100000,
+819,Fervidibacteria,100000,
+820,MSBL1,100000,
+821,Candidatus Shapirobacteria,100000,
+822,Ochrophyta,100000,
+823,Candidatus Amesbacteria,100000,
+824,Candidatus Adlerbacteria,100000,
+825,Candidatus Woesebacteria,100000,
+826,Parvarchaeota,100000,
+827,Brachiopoda,100000,
+828,RsaHf231,100000,
+829,Candidatus Kuenenbacteria,100000,
+830,uncultured dinoflagellate   ,100000,
+831,Streptophyta,1000000,0.0031507930400925207
+832,Pseudomonadota,1000000,0.003553969750911937
+833,Foraminifera,1000000,0.0019243695311786744
+834,SAR,1000000,0.0049325849319443804
+835,Proteobacteria,1000000,0.008902975437917649
+836,Cyanobacteria,1000000,0.006029658540145865
+837,Metazoa (Animalia),1000000,0.006473749509961085
+838,Bacillariophyta,1000000,0.007953670930357034
+839,Cercozoa,1000000,0.005534131825323086
+840,Apicomplexa,1000000,0.00408947074669809
+841,Bacteroidetes,1000000,0.015402536017992385
+842,Bacteroidota,1000000,0.009880381657648691
+843,Platyhelminthes,1000000,0.013740424816826816
+844,Saccharibacteria,1000000,0.007814216366587912
+845,Arthropoda,1000000,0.01264725869062115
+846,Gastrotricha,1000000,0.009948948231151847
+847,Ciliophora,1000000,0.010634047597716289
+848,Ascomycota,1000000,0.01862417996720346
+849,Firmicutes,1000000,0.03783107094851596
+850,Nematozoa,1000000,0.010875776964095144
+851,Amoebozoa,1000000,0.012406527646167159
+852,Chlorophyta,1000000,0.01819594784324627
+853,Actinobacteria,1000000,0.09255507504343154
+854,Actinomycetota,1000000,0.033040599318891625
+855,Basidiomycota,1000000,0.013524006498504878
+856,Xenacoelomorpha,1000000,0.017420045692423922
+857,Euryarchaeota,1000000,0.03937574629200538
+858,Verrucomicrobia,1000000,0.059732551127454375
+859,Planctomycetes,1000000,0.0676618232285707
+860,Verrucomicrobiota,1000000,0.03399615063830134
+861,Thermodesulfobacteriota,1000000,0.03126047911892682
+862,Planctomycetota,1000000,0.031710719900051434
+863,Archaeplastida,1000000,0.019354387292883857
+864,Euglenozoa,1000000,0.04259606199369589
+865,Phragmoplastophyta,1000000,0.060227952200486656
+866,Nematoda,1000000,0.03741013604591181
+867,Aenigmarchaeota,1000000,0.06392756848177861
+868,Choanoflagellida,1000000,0.044103550273645056
+869,Desulfobacterota,1000000,0.01636975106713598
+870,Candidatus Collierbacteria,1000000,0.0359690332578408
+871,Thermoplasmatota,1000000,0.02844644504854101
+872,Chytridiomycota,1000000,0.0649628069061572
+873,Bathyarchaeota,1000000,0.1458198642446909
+874,Cnidaria,1000000,0.06513681239166424
+875,Tubulinea,1000000,0.034401498164353644
+876,Actinobacteriota,1000000,0.07614507838857383
+877,Thermoproteota,1000000,0.0854357755324968
+878,Lokiarchaeota,1000000,0.06319251304725793
+879,Zoopagomycota,1000000,0.045022361198587026
+880,Bdellovibrionota,1000000,0.04272943886452032
+881,Haptophyta,1000000,0.03784797131465043
+882,Centrohelida,1000000,0.056761857429998626
+883,Patescibacteria,1000000,0.06262456680205448
+884,Mucoromycota,1000000,0.08597063258567868
+885,Candidatus Gracilibacteria,1000000,0.07430968367232434
+886,Chordata,1000000,0.14269940446933332
+887,Thaumarchaeota,1000000,0.08715639405242426
+888,Bacillota,1000000,0.056842550906013235
+889,Entomophthoromycota,1000000,0.06825246716094399
+890,Acidobacteria,1000000,0.19347720794211348
+891,Cyanobacteriota,1000000,0.12318365971953192
+892,Chloroflexi,1000000,0.18082360183556753
+893,Nitrososphaerota,1000000,0.03992184670339073
+894,Spirochaetae,1000000,0.20890597498033733
+895,Excavata,1000000,0.11804696652816574
+896,Chlorobiota,1000000,0.07550054683172355
+897,Woesearchaeota (DHVEG-6),1000000,0.11250749813267233
+898,Tenericutes,1000000,0.12270083641022321
+899,Gemmatimonadetes,1000000,0.07058516944482986
+900,Discicristoidea,1000000,0.04259679404738239
+901,Parcubacteria,1000000,0.047728306466393255
+902,Cryptomycota,1000000,0.09916584855179084
+903,Acidobacteriota,1000000,0.09302556533300396
+904,Oomycota,1000000,0.12723834866444475
+905,Campylobacterota,1000000,0.16197784651507846
+906,Microgenomates,1000000,1.0905044704172469
+907,Lentisphaerota,1000000,0.17966515392801627
+908,DH147-EKD10,1000000,0.060205806488300206
+909,Myxococcota,1000000,0.17154897276779785
+910,Dependentiae,1000000,0.42156640458067146
+911,Chlamydiae,1000000,0.2589643267993876
+912,Chlamydiota,1000000,0.3737117790853808
+913,LKM15,1000000,0.060701553339840834
+914,Nitrospirae,1000000,0.06590552854436604
+915,Fusobacteria,1000000,0.15436556838705504
+916,Lentisphaerae,1000000,0.11252930516715381
+917,Chloroflexota,1000000,0.15653238858165058
+918,Methanobacteriota,1000000,0.15332071166955802
+919,Endomyxa,1000000,0.051880703895710596
+920,Fusobacteriota,1000000,0.13898807428589585
+921,Rhodothermota,1000000,0.14989536820073399
+922,Mycoplasmatota,1000000,0.3599469814162252
+923,Nitrospirota,1000000,0.19376439687016783
+924,Gemmatimonadota,1000000,0.2359936096372324
+925,Aminicenantes,1000000,0.3680512682678233
+926,Tunicata,1000000,0.2475300945155978
+927,Dinoflagellata,1000000,0.17642089092707436
+928,Caldiserica,1000000,0.0532916802960416
+929,Spirochaetota,1000000,1.857703789105129
+930,Candidatus Saccharibacteria,1000000,0.10878565864408418
+931,Hydrogenedentes,1000000,0.10543508687103821
+932,Omnitrophica,1000000,0.24268428034929737
+933,Gracilibacteria,1000000,0.42894835066946296
+934,SR1 (Absconditabacteria),1000000,0.16903696450886233
+935,Deinococcus-Thermus,1000000,0.13400900006454294
+936,Sva0485,1000000,0.2045489318426569
+937,Acanthocephala,1000000,0.3186887195995491
+938,Fibrobacteres,1000000,0.17858441167877068
+939,Mollusca,1000000,0.2519112304061145
+940,TM6 (Dependentiae),1000000,0.8150827329735891
+941,Candidatus Kaiserbacteria,1000000,0.4054131985908888
+942,Balneolota,1000000,0.2055181565346635
+943,Marine Benthic Group E,1000000,0.33736990978435066
+944,Kiritimatiellota,1000000,0.1670106642806713
+945,Deinococcota,1000000,0.3186887195995491
+946,Porifera,1000000,0.258950243502938
+947,Annelida,1000000,0.5159493228057419
+948,Rhodophyta,1000000,0.4330127018922193
+949,Blastocladiomycota,1000000,0.26785362071507923
+950,WWE3,1000000,0.5433462286413862
+951,Aerophobetes,1000000,0.20786985482077452
+952,NB1-j,1000000,0.4194352464039306
+953,Evosea,1000000,0.3882741762434118
+954,Candidatus Latescibacterota,1000000,0.4847661969397785
+955,KSB3 (Modulibacteria),1000000,0.42632831234153096
+956,Armatimonadetes,1000000,0.5393765119990418
+957,Crenarchaeota,1000000,0.4211787674504806
+958,Marinimicrobia (SAR406 clade),1000000,0.35477692521733517
+959,Rotifera,1000000,0.5245305283129621
+960,WS6,1000000,0.25471121485525733
+961,Aquificae,1000000,0.18446263857040363
+962,Peregrinibacteria,1000000,0.8215212226969937
+963,Calditrichota,1000000,0.1928473039599675
+964,Candidatus Parcubacteria,1000000,
+965,Thermotogae,1000000,0.34404872695868804
+966,Filasterea,1000000,0.7050295502081219
+967,Marine Hydrothermal Vent Group 1(MHVG-1),1000000,
+968,WSA2,1000000,0.3657795707093653
+969,Nanoarchaeota,1000000,0.0
+970,Ichthyosporea,1000000,0.18858219668305234
+971,Palpitomonas,1000000,0.45046552401182344
+972,RCP2-54,1000000,0.08318903308077034
+973,Phoronida,1000000,0.24956709924231102
+974,SAR324 clade(Marine group B),1000000,0.5518406121558016
+975,Nemertea,1000000,0.10203171055293608
+976,SBR1093,1000000,0.2416423047816909
+977,Synergistetes,1000000,0.7071067811865475
+978,Dadabacteria,1000000,0.2232968782694361
+979,Cryptophyceae,1000000,0.7370277311900888
+980,Chlorobi,1000000,0.4385290096535146
+981,Aigarchaeota,1000000,0.4040610178208842
+982,Elusimicrobia,1000000,
+983,RBG-1 (Zixibacteria),1000000,0.38065232663367016
+984,Acetothermia,1000000,
+985,Bryozoa,1000000,0.28688765527462345
+986,Hadesarchaea,1000000,0.5781015385629837
+987,Latescibacterota,1000000,0.12856486930664496
+988,Marine Hydrothermal Vent Group(MHVG),1000000,0.3784847271756604
+989,Atribacterota,1000000,0.0
+990,Nitrospinota,1000000,0.31578947368421056
+991,Ignavibacteriota,1000000,0.09523809523809522
+992,Thermomicrobiota,1000000,0.4460712855998856
+993,Latescibacteria,1000000,0.47140452079103173
+994,Microsporidia,1000000,0.3605656092571602
+995,Ignavibacteriae,1000000,
+996,Deferrisomatota,1000000,0.12856486930664496
+997,Priapulida,1000000,
+998,Parabasalia,1000000,0.458257569495584
+999,Candidatus Campbellbacteria,1000000,0.1283000598199169
+1000,Deferribacteres,1000000,0.4007371679514864
+1001,Armatimonadota,1000000,0.47140452079103173
+1002,Candidatus Giovannonibacteria,1000000,0.30900827029565264
+1003,Atribacteria,1000000,0.5773502691896258
+1004,Candidatus Curtissbacteria,1000000,
+1005,Diapherotrites,1000000,0.24743582965269684
+1006,Candidatus Omnitrophota,1000000,0.17320508075688773
+1007,Tardigrada,1000000,
+1008,Nitrospinae,1000000,
+1009,Abditibacteriota,1000000,0.15384615384615383
+1010,PAUC34f,1000000,
+1011,BJ-169,1000000,0.22527696653090318
+1012,Fibrobacterota,1000000,0.23094010767585033
+1013,Cloacimonetes,1000000,0.0
+1014,Heterolobosea,1000000,0.3333333333333333
+1015,FBP,1000000,0.2020305089104421
+1016,WPS-2,1000000,
+1017,AC1,1000000,
+1018,Echinodermata,1000000,0.28284271247461906
+1019,Breviatea,1000000,
+1020,Miscellaneous Euryarchaeotic Group(MEG),1000000,0.0
+1021,MAST-12,1000000,
+1022,Sumerlaeota,1000000,
+1023,Discoba,1000000,
+1024,Apusomonadidae,1000000,
+1025,Candidatus Parvarchaeota,1000000,
+1026,Candidatus Calescamantes,1000000,
+1027,WS1,1000000,
+1028,Candidatus Moraniibacteriota,1000000,
+1029,Gnathostomulida,1000000,
+1030,Tectomicrobia,1000000,
+1031,MBNT15,1000000,
+1032,Schekmanbacteria,1000000,
+1033,Candidatus Nomurabacteria,1000000,
+1034,Margulisbacteria,1000000,
+1035,Candidatus Sumerlaeota,1000000,
+1036,Candidatus Berkelbacteria,1000000,
+1037,Methylomirabilota,1000000,
+1038,LCP-89,1000000,
+1039,Candidatus Aminicenantota,1000000,
+1040,Diatomea,1000000,
+1041,Scalidophora,1000000,
+1042,candidate division WWE3,1000000,
+1043,uncultured,1000000,
+1044,Glomeromycota,1000000,
+1045,Candidatus Peregrinibacteria,1000000,
+1046,Hemichordata,1000000,
+1047,CPR2,1000000,
+1048,Candidatus Melainabacteria,1000000,
+1049,BRC1,1000000,
+1050,Candidatus Daviesbacteria,1000000,
+1051,Bicosoecida,1000000,
+1052,Neocallimastigomycota,1000000,
+1053,Zixibacteria,1000000,
+1054,Candidate division YNPFFA,1000000,
+1055,uncultured bacterium   ,1000000,
+1056,AK8,1000000,
+1057,Candidatus Azambacteria,1000000,
+1058,Candidatus Wolfebacteria,1000000,
+1059,Telonema,1000000,
+1060,Candidatus Rokuibacteriota,1000000,
+1061,Nanobdellota,1000000,
+1062,Orthonectida,1000000,
+1063,Modulibacteria,1000000,
+1064,Fornicata,1000000,
+1065,Thermotogota,1000000,
+1066,Opalinata,1000000,
+1067,Candidatus Magasanikiibacteriota,1000000,
+1068,Caldisericota,1000000,
+1069,WS2,1000000,
+1070,uncultured archaeon   ,1000000,
+1071,Cloacimonadota,1000000,
+1072,Deferribacterota,1000000,
+1073,Elusimicrobiota,1000000,
+1074,Picozoa,1000000,
+1075,Discosea,1000000,
+1076,WA-aaa01f12,1000000,
+1077,Candidatus Bathyarchaeota,1000000,
+1078,Thermodesulfobacteria,1000000,
+1079,Dictyoglomi,1000000,
+1080,Ancient Archaeal Group(AAG),1000000,
+1081,Chaetognatha,1000000,
+1082,Holozoa,1000000,
+1083,Preaxostyla,1000000,
+1084,Kickxellomycotina,1000000,
+1085,D4P07G08,1000000,
+1086,Loricifera,1000000,
+1087,unidentified archaeon   ,1000000,
+1088,Candidatus Paceibacterota,1000000,
+1089,Ancyromonadida,1000000,
+1090,MD2896-B216,1000000,
+1091,Vertebrata,1000000,
+1092,Coprothermobacterota,1000000,
+1093,Nanohaloarchaeota,1000000,
+1094,GAL15,1000000,
+1095,FCPU426,1000000,
+1096,Fervidibacteria,1000000,
+1097,MSBL1,1000000,
+1098,Candidatus Shapirobacteria,1000000,
+1099,Ochrophyta,1000000,
+1100,Candidatus Amesbacteria,1000000,
+1101,Candidatus Adlerbacteria,1000000,
+1102,Candidatus Woesebacteria,1000000,
+1103,Parvarchaeota,1000000,
+1104,Brachiopoda,1000000,
+1105,RsaHf231,1000000,
+1106,Candidatus Kuenenbacteria,1000000,
+1107,uncultured dinoflagellate   ,1000000,
+1108,Streptophyta,10000000,0.0002979702542430219
+1109,Pseudomonadota,10000000,0.000597855926687864
+1110,Foraminifera,10000000,0.0006674258410857126
+1111,SAR,10000000,0.0020229550315048112
+1112,Proteobacteria,10000000,0.002378804820561868
+1113,Cyanobacteria,10000000,0.001033077703371231
+1114,Metazoa (Animalia),10000000,0.0013825466217656215
+1115,Bacillariophyta,10000000,0.0025487802922857833
+1116,Cercozoa,10000000,0.0014553277032498622
+1117,Apicomplexa,10000000,0.001463703730292357
+1118,Bacteroidetes,10000000,0.004972914348495496
+1119,Bacteroidota,10000000,0.0006329109661224285
+1120,Platyhelminthes,10000000,0.0041807267120041285
+1121,Saccharibacteria,10000000,0.0022643148569113495
+1122,Arthropoda,10000000,0.005954597644011172
+1123,Gastrotricha,10000000,0.00397755968215751
+1124,Ciliophora,10000000,0.0031154164132990813
+1125,Ascomycota,10000000,0.0031700801807756783
+1126,Firmicutes,10000000,0.009542763335277033
+1127,Nematozoa,10000000,0.0027741260266021437
+1128,Amoebozoa,10000000,0.005194151451316334
+1129,Chlorophyta,10000000,0.0036917541727247015
+1130,Actinobacteria,10000000,0.018807790911318442
+1131,Actinomycetota,10000000,0.04837864775826905
+1132,Basidiomycota,10000000,0.002609303753082217
+1133,Xenacoelomorpha,10000000,0.0031761227692514876
+1134,Euryarchaeota,10000000,0.011167632971386473
+1135,Verrucomicrobia,10000000,0.021652383715232974
+1136,Planctomycetes,10000000,0.012237762477678354
+1137,Verrucomicrobiota,10000000,0.007158835930619175
+1138,Thermodesulfobacteriota,10000000,0.007349727839909746
+1139,Planctomycetota,10000000,0.007078869929066966
+1140,Archaeplastida,10000000,0.00888870703508055
+1141,Euglenozoa,10000000,0.005532625711589551
+1142,Phragmoplastophyta,10000000,0.0067091083220120595
+1143,Nematoda,10000000,0.008039521807192352
+1144,Aenigmarchaeota,10000000,0.014164371446977247
+1145,Choanoflagellida,10000000,0.011242937863742516
+1146,Desulfobacterota,10000000,0.00822225193817321
+1147,Candidatus Collierbacteria,10000000,0.008568116736210158
+1148,Thermoplasmatota,10000000,0.009124423501598687
+1149,Chytridiomycota,10000000,0.004549737776462033
+1150,Bathyarchaeota,10000000,0.018839153338401617
+1151,Cnidaria,10000000,0.016173194252134135
+1152,Tubulinea,10000000,0.01207185279181159
+1153,Actinobacteriota,10000000,0.01353843896943765
+1154,Thermoproteota,10000000,0.015491002739111907
+1155,Lokiarchaeota,10000000,0.016731943933207028
+1156,Zoopagomycota,10000000,0.019613239228713397
+1157,Bdellovibrionota,10000000,0.01087686612039102
+1158,Haptophyta,10000000,0.013290245501611387
+1159,Centrohelida,10000000,0.00939848894418071
+1160,Patescibacteria,10000000,0.008509747808198803
+1161,Mucoromycota,10000000,0.00646112698799032
+1162,Candidatus Gracilibacteria,10000000,0.012976894049642088
+1163,Chordata,10000000,0.010727161899391194
+1164,Thaumarchaeota,10000000,0.009975034163992738
+1165,Bacillota,10000000,0.04109039052383375
+1166,Entomophthoromycota,10000000,0.005741857580194317
+1167,Acidobacteria,10000000,0.028982949083492762
+1168,Cyanobacteriota,10000000,0.09667965236142893
+1169,Chloroflexi,10000000,0.05887938718121464
+1170,Nitrososphaerota,10000000,0.015634781129852112
+1171,Spirochaetae,10000000,0.042693204829450854
+1172,Excavata,10000000,0.029926580162159003
+1173,Chlorobiota,10000000,0.02005286416476904
+1174,Woesearchaeota (DHVEG-6),10000000,0.025863921295965275
+1175,Tenericutes,10000000,0.035533734680427455
+1176,Gemmatimonadetes,10000000,0.02605992158529167
+1177,Discicristoidea,10000000,0.02061933777050217
+1178,Parcubacteria,10000000,0.02885031303069041
+1179,Cryptomycota,10000000,0.027093357419768288
+1180,Acidobacteriota,10000000,0.022419679301585175
+1181,Oomycota,10000000,0.10558942021402118
+1182,Campylobacterota,10000000,0.029718336147501176
+1183,Microgenomates,10000000,0.28790784077385706
+1184,Lentisphaerota,10000000,0.021207400330480835
+1185,DH147-EKD10,10000000,0.033800745837644704
+1186,Myxococcota,10000000,0.016902014498139974
+1187,Dependentiae,10000000,0.040227410072750436
+1188,Chlamydiae,10000000,0.042997838066975415
+1189,Chlamydiota,10000000,0.05108634473509255
+1190,LKM15,10000000,0.031967666688657005
+1191,Nitrospirae,10000000,0.02458445485796242
+1192,Fusobacteria,10000000,0.042661245164070195
+1193,Lentisphaerae,10000000,0.04199822125101878
+1194,Chloroflexota,10000000,0.02643435088451387
+1195,Methanobacteriota,10000000,0.07423949838428527
+1196,Endomyxa,10000000,0.036073628093394684
+1197,Fusobacteriota,10000000,0.019557097909003417
+1198,Rhodothermota,10000000,0.042440699785700225
+1199,Mycoplasmatota,10000000,0.16020610758017828
+1200,Nitrospirota,10000000,0.05603945308913093
+1201,Gemmatimonadota,10000000,0.015467688676534858
+1202,Aminicenantes,10000000,0.061846429330380086
+1203,Tunicata,10000000,0.4259754053187599
+1204,Dinoflagellata,10000000,0.2779831652848835
+1205,Caldiserica,10000000,0.02905085244945129
+1206,Spirochaetota,10000000,1.0392080880591243
+1207,Candidatus Saccharibacteria,10000000,0.6077053998518267
+1208,Hydrogenedentes,10000000,0.05624154505120065
+1209,Omnitrophica,10000000,0.03023207992966861
+1210,Gracilibacteria,10000000,0.0454985959088659
+1211,SR1 (Absconditabacteria),10000000,0.05834749445801903
+1212,Deinococcus-Thermus,10000000,0.05138505473635737
+1213,Sva0485,10000000,0.07944591007887061
+1214,Acanthocephala,10000000,0.06438320834025309
+1215,Fibrobacteres,10000000,0.04132545517839458
+1216,Mollusca,10000000,0.05546522443400788
+1217,TM6 (Dependentiae),10000000,0.203000031423295
+1218,Candidatus Kaiserbacteria,10000000,0.09135795820948207
+1219,Balneolota,10000000,0.18812554819248933
+1220,Marine Benthic Group E,10000000,0.020392666355355214
+1221,Kiritimatiellota,10000000,0.055033951294196526
+1222,Deinococcota,10000000,0.03347472351837047
+1223,Porifera,10000000,0.13744612332640438
+1224,Annelida,10000000,0.2972603377908757
+1225,Rhodophyta,10000000,0.06774777634976754
+1226,Blastocladiomycota,10000000,0.03450872781095451
+1227,WWE3,10000000,0.05821209363067673
+1228,Aerophobetes,10000000,0.08374255126028604
+1229,NB1-j,10000000,0.046976711800135316
+1230,Evosea,10000000,0.06441723244901817
+1231,Candidatus Latescibacterota,10000000,0.098259494293724
+1232,KSB3 (Modulibacteria),10000000,0.03664387312362058
+1233,Armatimonadetes,10000000,0.10501030399179548
+1234,Crenarchaeota,10000000,0.057539635613619605
+1235,Marinimicrobia (SAR406 clade),10000000,0.06419812633512784
+1236,Rotifera,10000000,0.0665773643061123
+1237,WS6,10000000,0.0432939952535261
+1238,Aquificae,10000000,0.2895485823439464
+1239,Peregrinibacteria,10000000,0.053799294702588554
+1240,Calditrichota,10000000,0.31904894317843224
+1241,Candidatus Parcubacteria,10000000,1.4676233598567265
+1242,Thermotogae,10000000,0.09492044756437613
+1243,Filasterea,10000000,0.06222629642064813
+1244,Marine Hydrothermal Vent Group 1(MHVG-1),10000000,0.22697603789050255
+1245,WSA2,10000000,0.19947436141298874
+1246,Nanoarchaeota,10000000,0.22067756264533037
+1247,Ichthyosporea,10000000,0.05736221674502832
+1248,Palpitomonas,10000000,0.0563695767854735
+1249,RCP2-54,10000000,0.21691508521772143
+1250,Phoronida,10000000,0.2252498256071897
+1251,SAR324 clade(Marine group B),10000000,0.16349433871596267
+1252,Nemertea,10000000,0.038855985233999565
+1253,SBR1093,10000000,0.0801459644683135
+1254,Synergistetes,10000000,0.0490442099660601
+1255,Dadabacteria,10000000,0.15785553792660761
+1256,Cryptophyceae,10000000,0.15419559633088556
+1257,Chlorobi,10000000,0.07624400821656312
+1258,Aigarchaeota,10000000,0.04154023031590304
+1259,Elusimicrobia,10000000,0.1293614132030723
+1260,RBG-1 (Zixibacteria),10000000,0.11587810136086976
+1261,Acetothermia,10000000,0.13630507155898183
+1262,Bryozoa,10000000,0.08752922092641843
+1263,Hadesarchaea,10000000,0.11071665496750265
+1264,Latescibacterota,10000000,0.08596793837460256
+1265,Marine Hydrothermal Vent Group(MHVG),10000000,0.1374381459919459
+1266,Atribacterota,10000000,0.20089329427979594
+1267,Nitrospinota,10000000,0.11888067601575934
+1268,Ignavibacteriota,10000000,0.12355738788477909
+1269,Thermomicrobiota,10000000,0.08331849873894195
+1270,Latescibacteria,10000000,0.09407448506768122
+1271,Microsporidia,10000000,0.12149542357448592
+1272,Ignavibacteriae,10000000,0.15642502999587093
+1273,Deferrisomatota,10000000,0.17068094718295973
+1274,Priapulida,10000000,0.14689938961867666
+1275,Parabasalia,10000000,0.19003703521018633
+1276,Candidatus Campbellbacteria,10000000,0.19692242158675488
+1277,Deferribacteres,10000000,0.05646924393157822
+1278,Armatimonadota,10000000,0.21799170159613038
+1279,Candidatus Giovannonibacteria,10000000,0.08958464210197851
+1280,Atribacteria,10000000,0.22395160411940415
+1281,Candidatus Curtissbacteria,10000000,0.3562522714374972
+1282,Diapherotrites,10000000,0.2726669256307498
+1283,Candidatus Omnitrophota,10000000,0.09635025642716395
+1284,Tardigrada,10000000,0.13982653573805184
+1285,Nitrospinae,10000000,0.1723255515330138
+1286,Abditibacteriota,10000000,0.05534476482907211
+1287,PAUC34f,10000000,0.19060519474728463
+1288,BJ-169,10000000,0.16381446839458857
+1289,Fibrobacterota,10000000,0.20416639622446306
+1290,Cloacimonetes,10000000,0.09737024038214216
+1291,Heterolobosea,10000000,0.31502488260901235
+1292,FBP,10000000,0.11578475441762258
+1293,WPS-2,10000000,0.1308052776502425
+1294,AC1,10000000,0.341458638563516
+1295,Echinodermata,10000000,0.43323739277495765
+1296,Breviatea,10000000,0.24786422284763873
+1297,Miscellaneous Euryarchaeotic Group(MEG),10000000,0.2712917991128868
+1298,MAST-12,10000000,0.1572637234018859
+1299,Sumerlaeota,10000000,0.24686239706342522
+1300,Discoba,10000000,0.2203645326012817
+1301,Apusomonadidae,10000000,0.2277360768409114
+1302,Candidatus Parvarchaeota,10000000,0.1781054079784384
+1303,Candidatus Calescamantes,10000000,0.26347622724092346
+1304,WS1,10000000,0.282842712474619
+1305,Candidatus Moraniibacteriota,10000000,0.4074501503251655
+1306,Gnathostomulida,10000000,0.3333333333333333
+1307,Tectomicrobia,10000000,0.1500690742318894
+1308,MBNT15,10000000,0.21649984563982855
+1309,Schekmanbacteria,10000000,0.391543638190507
+1310,Candidatus Nomurabacteria,10000000,0.19875992873741216
+1311,Margulisbacteria,10000000,0.20786985482077447
+1312,Candidatus Sumerlaeota,10000000,0.09507500301523585
+1313,Candidatus Berkelbacteria,10000000,0.5085476277156077
+1314,Methylomirabilota,10000000,
+1315,LCP-89,10000000,0.15304756582940407
+1316,Candidatus Aminicenantota,10000000,0.22287231299835014
+1317,Diatomea,10000000,0.2626065333498478
+1318,Scalidophora,10000000,0.17496355305594125
+1319,candidate division WWE3,10000000,0.22978410436519855
+1320,uncultured,10000000,0.5038276269239326
+1321,Glomeromycota,10000000,0.7427369408244794
+1322,Candidatus Peregrinibacteria,10000000,0.46798318822668183
+1323,Hemichordata,10000000,0.3214121732666126
+1324,CPR2,10000000,0.1430731215858784
+1325,Candidatus Melainabacteria,10000000,0.29322982080724824
+1326,BRC1,10000000,0.35355339059327373
+1327,Candidatus Daviesbacteria,10000000,
+1328,Bicosoecida,10000000,0.30000000000000004
+1329,Neocallimastigomycota,10000000,0.3721614637823934
+1330,Zixibacteria,10000000,0.26057865332352387
+1331,Candidate division YNPFFA,10000000,0.14816369102733298
+1332,uncultured bacterium   ,10000000,0.10647942749998998
+1333,AK8,10000000,0.20038630152628026
+1334,Candidatus Azambacteria,10000000,0.2651650429449554
+1335,Candidatus Wolfebacteria,10000000,0.6808163101206028
+1336,Telonema,10000000,0.6440851239514813
+1337,Candidatus Rokuibacteriota,10000000,0.09428090415820632
+1338,Nanobdellota,10000000,0.15407776014853214
+1339,Orthonectida,10000000,0.2282177322938192
+1340,Modulibacteria,10000000,0.14285714285714285
+1341,Fornicata,10000000,0.41649656391752143
+1342,Thermotogota,10000000,
+1343,Opalinata,10000000,0.5420770854544945
+1344,Candidatus Magasanikiibacteriota,10000000,0.840317400351399
+1345,Caldisericota,10000000,0.07213122508063838
+1346,WS2,10000000,0.4327873504838304
+1347,uncultured archaeon   ,10000000,0.7264831572567789
+1348,Cloacimonadota,10000000,0.408248290463863
+1349,Deferribacterota,10000000,0.29701306567998836
+1350,Elusimicrobiota,10000000,0.37029359559513786
+1351,Picozoa,10000000,0.12856486930664499
+1352,Discosea,10000000,0.471864652204422
+1353,WA-aaa01f12,10000000,
+1354,Candidatus Bathyarchaeota,10000000,0.36376522892785895
+1355,Thermodesulfobacteria,10000000,0.36376522892785895
+1356,Dictyoglomi,10000000,0.3529411764705882
+1357,Ancient Archaeal Group(AAG),10000000,0.35355339059327373
+1358,Chaetognatha,10000000,0.5
+1359,Holozoa,10000000,
+1360,Preaxostyla,10000000,0.5046083923495819
+1361,Kickxellomycotina,10000000,0.4948716593053934
+1362,D4P07G08,10000000,0.1649572197684645
+1363,Loricifera,10000000,
+1364,unidentified archaeon   ,10000000,0.0
+1365,Candidatus Paceibacterota,10000000,
+1366,Ancyromonadida,10000000,0.3849001794597505
+1367,MD2896-B216,10000000,0.1818181818181818
+1368,Vertebrata,10000000,0.1818181818181818
+1369,Coprothermobacterota,10000000,0.0
+1370,Nanohaloarchaeota,10000000,
+1371,GAL15,10000000,
+1372,FCPU426,10000000,
+1373,Fervidibacteria,10000000,
+1374,MSBL1,10000000,0.0
+1375,Candidatus Shapirobacteria,10000000,
+1376,Ochrophyta,10000000,0.0
+1377,Candidatus Amesbacteria,10000000,
+1378,Candidatus Adlerbacteria,10000000,
+1379,Candidatus Woesebacteria,10000000,
+1380,Parvarchaeota,10000000,0.0
+1381,Brachiopoda,10000000,
+1382,RsaHf231,10000000,0.0
+1383,Candidatus Kuenenbacteria,10000000,
+1384,uncultured dinoflagellate   ,10000000,

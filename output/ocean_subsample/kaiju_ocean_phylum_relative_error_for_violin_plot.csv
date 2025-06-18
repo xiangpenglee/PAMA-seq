@@ -1,0 +1,1031 @@
+,phylum,read count,relative error
+0,Proteobacteria,1K,0.035218686440449454
+1,Bacteroidetes,1K,0.10551896170247263
+2,Bacillariophyta,1K,0.24918946423768729
+3,Actinobacteria,1K,0.11785113019775792
+4,Chlorophyta,1K,0.6085806194501846
+5,Chloroflexi,1K,0.5592469952052406
+6,Verrucomicrobia,1K,0.6512350903146596
+7,Planctomycetes,1K,0.5003428180039369
+8,Cyanobacteria,1K,0.5
+9,Gemmatimonadetes,1K,0.4714045207910317
+10,Firmicutes,1K,0.7243558228002941
+11,Spirochaetes,1K,
+12,Nitrospinae,1K,
+13,Candidatus Peregrinibacteria,1K,
+14,Rhodothermaeota,1K,0.38490017945975047
+15,Candidatus Dormibacteraeota,1K,
+16,Viruses,1K,0.6928203230275509
+17,Basidiomycota,1K,
+18,Ciliophora,1K,
+19,Candidatus Saccharibacteria,1K,
+20,Rhodophyta,1K,
+21,Acidobacteria,1K,0.4714045207910317
+22,Mucoromycota,1K,
+23,Chlorobi,1K,
+24,Oomycota,1K,
+25,Euryarchaeota,1K,
+26,Nitrospirae,1K,
+27,Tubulinea,1K,
+28,Thaumarchaeota,1K,
+29,Ascomycota,1K,
+30,Deferribacteres,1K,
+31,Candidatus Melainabacteria,1K,
+32,Balneolaeota,1K,
+33,Haptophyta,1K,
+34,Euglenozoa,1K,
+35,Armatimonadetes,1K,
+36,Ignavibacteriae,1K,
+37,Candidatus Tectomicrobia,1K,
+38,Deinococcus-Thermus,1K,
+39,Candidatus Marinimicrobia,1K,
+40,Fibrobacteres,1K,
+41,Kiritimatiellaeota,1K,
+42,Candidatus Hydrogenedentes,1K,
+43,Thermotogae,1K,
+44,Candidatus Gracilibacteria,1K,
+45,Synergistetes,1K,
+46,Candidatus Bathyarchaeota,1K,
+47,candidate division Zixibacteria,1K,
+48,Candidatus Berkelbacteria,1K,
+49,Candidatus Rokubacteria,1K,
+50,Candidatus Campbellbacteria,1K,
+51,Candidatus Lindowbacteria,1K,
+52,Candidatus Portnoybacteria,1K,
+53,Calditrichaeota,1K,
+54,Candidatus Cryosericota,1K,
+55,Evosea,1K,
+56,Preaxostyla,1K,
+57,Chlamydiae,1K,
+58,Lentisphaerae,1K,
+59,Fusobacteria,1K,
+60,Candidatus Aminicenantes,1K,
+61,Microsporidia,1K,
+62,Elusimicrobia,1K,
+63,Thermodesulfobacteria,1K,
+64,Candidatus Parcubacteria,1K,
+65,Candidatus Aerophobetes,1K,
+66,Candidatus Fermentibacteria,1K,
+67,Candidatus Dadabacteria,1K,
+68,Zoopagomycota,1K,
+69,Candidatus Blackallbacteria,1K,
+70,Tenericutes,1K,
+71,Candidatus Thermoplasmatota,1K,
+72,Candidatus Omnitrophica,1K,
+73,Atribacterota,1K,
+74,Candidatus Poribacteria,1K,
+75,candidate division CPR2,1K,
+76,Candidatus Woesearchaeota,1K,
+77,Candidatus Riflebacteria,1K,
+78,Chytridiomycota,1K,
+79,Candidatus Moranbacteria,1K,
+80,Candidatus Korarchaeota,1K,
+81,Candidatus Latescibacteria,1K,
+82,candidate division WOR-3,1K,
+83,Candidatus Amesbacteria,1K,
+84,Candidatus Kaiserbacteria,1K,
+85,Candidatus Micrarchaeota,1K,
+86,Apicomplexa,1K,
+87,Cryptomycota,1K,
+88,Candidatus Desantisbacteria,1K,
+89,Aquificae,1K,
+90,Candidatus Cloacimonetes,1K,
+91,Discosea,1K,
+92,Candidatus Woesebacteria,1K,
+93,Candidatus Giovannonibacteria,1K,
+94,Candidatus Schekmanbacteria,1K,
+95,Candidatus Heimdallarchaeota,1K,
+96,Heterolobosea,1K,
+97,Foraminifera,1K,
+98,Candidatus Sumerlaeota,1K,
+99,Chrysiogenetes,1K,
+100,Candidatus Aenigmarchaeota,1K,
+101,Candidatus Lokiarchaeota,1K,
+102,Candidatus Kapabacteria,1K,
+103,Candidatus Thorarchaeota,1K,
+104,Imbricatea,1K,
+105,Candidatus Daviesbacteria,1K,
+106,Candidatus Pacebacteria,1K,
+107,Candidatus Magasanikbacteria,1K,
+108,Candidatus Eisenbacteria,1K,
+109,Candidatus Margulisbacteria,1K,
+110,Candidatus Buchananbacteria,1K,
+111,Candidatus Zambryskibacteria,1K,
+112,Olpidiomycota,1K,
+113,Endomyxa,1K,
+114,Candidatus Bipolaricaulota,1K,
+115,Candidatus Levybacteria,1K,
+116,Candidatus Raymondbacteria,1K,
+117,Perkinsozoa,1K,
+118,Parabasalia,1K,
+119,Candidatus Absconditabacteria,1K,
+120,candidate division NC10,1K,
+121,Candidatus Roizmanbacteria,1K,
+122,Candidatus Handelsmanbacteria,1K,
+123,Candidatus Ryanbacteria,1K,
+124,Candidatus Terrybacteria,1K,
+125,Candidatus Verstraetearchaeota,1K,
+126,Candidatus Marsarchaeota,1K,
+127,Candidatus Goldbacteria,1K,
+128,Candidatus Aureabacteria,1K,
+129,Candidatus Muirbacteria,1K,
+130,Candidatus Uhrbacteria,1K,
+131,Crenarchaeota,1K,
+132,Caldiserica,1K,
+133,candidate division WWE3,1K,
+134,Candidatus Falkowbacteria,1K,
+135,Candidatus Nomurabacteria,1K,
+136,Candidatus Yanofskybacteria,1K,
+137,Candidatus Coatesbacteria,1K,
+138,Candidatus Lloydbacteria,1K,
+139,Candidatus Kryptonia,1K,
+140,Candidatus Gottesmanbacteria,1K,
+141,Blastocladiomycota,1K,
+142,Candidatus Hydrothermae,1K,
+143,Candidatus Wolfebacteria,1K,
+144,Candidatus Delongbacteria,1K,
+145,Candidatus Doudnabacteria,1K,
+146,Candidatus Glassbacteria,1K,
+147,Candidatus Harrisonbacteria,1K,
+148,Fornicata,1K,
+149,Candidatus Wallbacteria,1K,
+150,Cercozoa,1K,
+151,Candidatus Andersenbacteria,1K,
+152,Candidatus Abyssubacteria,1K,
+153,Candidatus Mcinerneyibacteriota,1K,
+154,Candidatus Firestonebacteria,1K,
+155,Candidatus Staskawiczbacteria,1K,
+156,Candidatus Altiarchaeota,1K,
+157,Candidatus Abawacabacteria,1K,
+158,Candidatus Fischerbacteria,1K,
+159,Candidatus Kerfeldbacteria,1K,
+160,Candidatus Komeilibacteria,1K,
+161,Candidatus Nealsonbacteria,1K,
+162,candidate division LCP-89,1K,
+163,Dictyoglomi,1K,
+164,Picozoa,1K,
+165,Candidatus Adlerbacteria,1K,
+166,Candidatus Azambacteria,1K,
+167,Candidatus Fraserbacteria,1K,
+168,Candidatus Liptonbacteria,1K,
+169,Candidatus Spechtbacteria,1K,
+170,Candidatus Sungbacteria,1K,
+171,Candidatus Vogelbacteria,1K,
+172,Candidatus Wildermuthbacteria,1K,
+173,Candidatus Odinarchaeota,1K,
+174,Coprothermobacterota,1K,
+175,Candidatus Taylorbacteria,1K,
+176,Abditibacteriota,1K,
+177,candidate division CPR1,1K,
+178,Candidatus Microgenomates,1K,
+179,Candidatus Yonathbacteria,1K,
+180,Candidatus Kuenenbacteria,1K,
+181,Candidatus Tagabacteria,1K,
+182,Candidatus Wirthbacteria,1K,
+183,candidate division CPR3,1K,
+184,Candidatus Curtissbacteria,1K,
+185,Candidatus Jorgensenbacteria,1K,
+186,Candidatus Edwardsbacteria,1K,
+187,Candidatus Woykebacteria,1K,
+188,Nanoarchaeota,1K,
+189,Candidatus Diapherotrites,1K,
+190,Candidatus Beckwithbacteria,1K,
+191,Candidatus Cerribacteria,1K,
+192,Candidatus Colwellbacteria,1K,
+193,Candidatus Collierbacteria,1K,
+194,Candidatus Niyogibacteria,1K,
+195,Candidatus Shapirobacteria,1K,
+196,Candidatus Eremiobacteraeota,1K,
+197,Candidatus Nanohaloarchaeota,1K,
+198,Candidatus Chisholmbacteria,1K,
+199,Candidatus Gribaldobacteria,1K,
+200,Candidatus Parvarchaeota,1K,
+201,candidate division KD3-62,1K,
+202,Candidatus Blackburnbacteria,1K,
+203,Candidatus Geothermarchaeota,1K,
+204,Candidatus Nezhaarchaeota,1K,
+205,Candidatus Huberarchaea,1K,
+206,Proteobacteria,10K,0.022294140208060156
+207,Bacteroidetes,10K,0.033163732370744346
+208,Bacillariophyta,10K,0.05434979110712784
+209,Actinobacteria,10K,0.12284266025994392
+210,Chlorophyta,10K,0.2869364392555262
+211,Chloroflexi,10K,0.1223044426459927
+212,Verrucomicrobia,10K,0.11371950945963816
+213,Planctomycetes,10K,0.14495747684499802
+214,Cyanobacteria,10K,0.3383412868523274
+215,Gemmatimonadetes,10K,0.47075115315785043
+216,Firmicutes,10K,0.12179485049819548
+217,Spirochaetes,10K,0.7497534111391508
+218,Nitrospinae,10K,0.4
+219,Candidatus Peregrinibacteria,10K,
+220,Rhodothermaeota,10K,0.5014627042462879
+221,Candidatus Dormibacteraeota,10K,
+222,Viruses,10K,0.17770068351376064
+223,Basidiomycota,10K,0.5592469952052407
+224,Ciliophora,10K,0.5592469952052407
+225,Candidatus Saccharibacteria,10K,
+226,Rhodophyta,10K,0.5592469952052408
+227,Acidobacteria,10K,0.14142135623730945
+228,Mucoromycota,10K,0.5592469952052408
+229,Chlorobi,10K,
+230,Oomycota,10K,0.6666666666666666
+231,Euryarchaeota,10K,0.20327890704543536
+232,Nitrospirae,10K,0.15971914124998499
+233,Tubulinea,10K,
+234,Thaumarchaeota,10K,0.4385290096535147
+235,Ascomycota,10K,0.2201736911931778
+236,Deferribacteres,10K,
+237,Candidatus Melainabacteria,10K,
+238,Balneolaeota,10K,
+239,Haptophyta,10K,
+240,Euglenozoa,10K,0.2857142857142857
+241,Armatimonadetes,10K,0.4648111258522642
+242,Ignavibacteriae,10K,0.22222222222222215
+243,Candidatus Tectomicrobia,10K,0.4714045207910316
+244,Deinococcus-Thermus,10K,
+245,Candidatus Marinimicrobia,10K,0.4
+246,Fibrobacteres,10K,
+247,Kiritimatiellaeota,10K,
+248,Candidatus Hydrogenedentes,10K,
+249,Thermotogae,10K,
+250,Candidatus Gracilibacteria,10K,0.38490017945975047
+251,Synergistetes,10K,
+252,Candidatus Bathyarchaeota,10K,
+253,candidate division Zixibacteria,10K,
+254,Candidatus Berkelbacteria,10K,
+255,Candidatus Rokubacteria,10K,
+256,Candidatus Campbellbacteria,10K,
+257,Candidatus Lindowbacteria,10K,
+258,Candidatus Portnoybacteria,10K,
+259,Calditrichaeota,10K,0.6666666666666665
+260,Candidatus Cryosericota,10K,
+261,Evosea,10K,
+262,Preaxostyla,10K,
+263,Chlamydiae,10K,0.5728219618694802
+264,Lentisphaerae,10K,0.6928203230275509
+265,Fusobacteria,10K,
+266,Candidatus Aminicenantes,10K,0.43301270189221935
+267,Microsporidia,10K,
+268,Elusimicrobia,10K,
+269,Thermodesulfobacteria,10K,
+270,Candidatus Parcubacteria,10K,
+271,Candidatus Aerophobetes,10K,
+272,Candidatus Fermentibacteria,10K,
+273,Candidatus Dadabacteria,10K,
+274,Zoopagomycota,10K,
+275,Candidatus Blackallbacteria,10K,
+276,Tenericutes,10K,0.4714045207910316
+277,Candidatus Thermoplasmatota,10K,
+278,Candidatus Omnitrophica,10K,
+279,Atribacterota,10K,
+280,Candidatus Poribacteria,10K,
+281,candidate division CPR2,10K,
+282,Candidatus Woesearchaeota,10K,
+283,Candidatus Riflebacteria,10K,
+284,Chytridiomycota,10K,0.4714045207910316
+285,Candidatus Moranbacteria,10K,
+286,Candidatus Korarchaeota,10K,
+287,Candidatus Latescibacteria,10K,
+288,candidate division WOR-3,10K,
+289,Candidatus Amesbacteria,10K,
+290,Candidatus Kaiserbacteria,10K,
+291,Candidatus Micrarchaeota,10K,
+292,Apicomplexa,10K,
+293,Cryptomycota,10K,
+294,Candidatus Desantisbacteria,10K,
+295,Aquificae,10K,
+296,Candidatus Cloacimonetes,10K,
+297,Discosea,10K,
+298,Candidatus Woesebacteria,10K,
+299,Candidatus Giovannonibacteria,10K,
+300,Candidatus Schekmanbacteria,10K,
+301,Candidatus Heimdallarchaeota,10K,
+302,Heterolobosea,10K,
+303,Foraminifera,10K,
+304,Candidatus Sumerlaeota,10K,
+305,Chrysiogenetes,10K,
+306,Candidatus Aenigmarchaeota,10K,
+307,Candidatus Lokiarchaeota,10K,
+308,Candidatus Kapabacteria,10K,
+309,Candidatus Thorarchaeota,10K,
+310,Imbricatea,10K,
+311,Candidatus Daviesbacteria,10K,
+312,Candidatus Pacebacteria,10K,
+313,Candidatus Magasanikbacteria,10K,
+314,Candidatus Eisenbacteria,10K,
+315,Candidatus Margulisbacteria,10K,
+316,Candidatus Buchananbacteria,10K,
+317,Candidatus Zambryskibacteria,10K,
+318,Olpidiomycota,10K,
+319,Endomyxa,10K,
+320,Candidatus Bipolaricaulota,10K,
+321,Candidatus Levybacteria,10K,
+322,Candidatus Raymondbacteria,10K,
+323,Perkinsozoa,10K,
+324,Parabasalia,10K,
+325,Candidatus Absconditabacteria,10K,
+326,candidate division NC10,10K,
+327,Candidatus Roizmanbacteria,10K,
+328,Candidatus Handelsmanbacteria,10K,
+329,Candidatus Ryanbacteria,10K,
+330,Candidatus Terrybacteria,10K,
+331,Candidatus Verstraetearchaeota,10K,
+332,Candidatus Marsarchaeota,10K,
+333,Candidatus Goldbacteria,10K,
+334,Candidatus Aureabacteria,10K,
+335,Candidatus Muirbacteria,10K,
+336,Candidatus Uhrbacteria,10K,
+337,Crenarchaeota,10K,
+338,Caldiserica,10K,
+339,candidate division WWE3,10K,
+340,Candidatus Falkowbacteria,10K,
+341,Candidatus Nomurabacteria,10K,
+342,Candidatus Yanofskybacteria,10K,
+343,Candidatus Coatesbacteria,10K,
+344,Candidatus Lloydbacteria,10K,
+345,Candidatus Kryptonia,10K,
+346,Candidatus Gottesmanbacteria,10K,
+347,Blastocladiomycota,10K,
+348,Candidatus Hydrothermae,10K,
+349,Candidatus Wolfebacteria,10K,
+350,Candidatus Delongbacteria,10K,
+351,Candidatus Doudnabacteria,10K,
+352,Candidatus Glassbacteria,10K,
+353,Candidatus Harrisonbacteria,10K,
+354,Fornicata,10K,
+355,Candidatus Wallbacteria,10K,
+356,Cercozoa,10K,
+357,Candidatus Andersenbacteria,10K,
+358,Candidatus Abyssubacteria,10K,
+359,Candidatus Mcinerneyibacteriota,10K,
+360,Candidatus Firestonebacteria,10K,
+361,Candidatus Staskawiczbacteria,10K,
+362,Candidatus Altiarchaeota,10K,
+363,Candidatus Abawacabacteria,10K,
+364,Candidatus Fischerbacteria,10K,
+365,Candidatus Kerfeldbacteria,10K,
+366,Candidatus Komeilibacteria,10K,
+367,Candidatus Nealsonbacteria,10K,
+368,candidate division LCP-89,10K,
+369,Dictyoglomi,10K,
+370,Picozoa,10K,
+371,Candidatus Adlerbacteria,10K,
+372,Candidatus Azambacteria,10K,
+373,Candidatus Fraserbacteria,10K,
+374,Candidatus Liptonbacteria,10K,
+375,Candidatus Spechtbacteria,10K,
+376,Candidatus Sungbacteria,10K,
+377,Candidatus Vogelbacteria,10K,
+378,Candidatus Wildermuthbacteria,10K,
+379,Candidatus Odinarchaeota,10K,
+380,Coprothermobacterota,10K,
+381,Candidatus Taylorbacteria,10K,
+382,Abditibacteriota,10K,
+383,candidate division CPR1,10K,
+384,Candidatus Microgenomates,10K,
+385,Candidatus Yonathbacteria,10K,
+386,Candidatus Kuenenbacteria,10K,
+387,Candidatus Tagabacteria,10K,
+388,Candidatus Wirthbacteria,10K,
+389,candidate division CPR3,10K,
+390,Candidatus Curtissbacteria,10K,
+391,Candidatus Jorgensenbacteria,10K,
+392,Candidatus Edwardsbacteria,10K,
+393,Candidatus Woykebacteria,10K,
+394,Nanoarchaeota,10K,
+395,Candidatus Diapherotrites,10K,
+396,Candidatus Beckwithbacteria,10K,
+397,Candidatus Cerribacteria,10K,
+398,Candidatus Colwellbacteria,10K,
+399,Candidatus Collierbacteria,10K,
+400,Candidatus Niyogibacteria,10K,
+401,Candidatus Shapirobacteria,10K,
+402,Candidatus Eremiobacteraeota,10K,
+403,Candidatus Nanohaloarchaeota,10K,
+404,Candidatus Chisholmbacteria,10K,
+405,Candidatus Gribaldobacteria,10K,
+406,Candidatus Parvarchaeota,10K,
+407,candidate division KD3-62,10K,
+408,Candidatus Blackburnbacteria,10K,
+409,Candidatus Geothermarchaeota,10K,
+410,Candidatus Nezhaarchaeota,10K,
+411,Candidatus Huberarchaea,10K,
+412,Proteobacteria,100K,0.006428629717714738
+413,Bacteroidetes,100K,0.021336264436156084
+414,Bacillariophyta,100K,0.01625828309777021
+415,Actinobacteria,100K,0.03404510047741366
+416,Chlorophyta,100K,0.039192751763201965
+417,Chloroflexi,100K,0.030646887418830634
+418,Verrucomicrobia,100K,0.04345723905350582
+419,Planctomycetes,100K,0.028463373422327343
+420,Cyanobacteria,100K,0.08163960330542129
+421,Gemmatimonadetes,100K,0.1743041721945991
+422,Firmicutes,100K,0.11132031165369352
+423,Spirochaetes,100K,0.08404012406197917
+424,Nitrospinae,100K,0.3414214156570471
+425,Candidatus Peregrinibacteria,100K,
+426,Rhodothermaeota,100K,0.08979133729352984
+427,Candidatus Dormibacteraeota,100K,
+428,Viruses,100K,0.04676187785645947
+429,Basidiomycota,100K,0.364835982967112
+430,Ciliophora,100K,0.17241379310344826
+431,Candidatus Saccharibacteria,100K,
+432,Rhodophyta,100K,0.53138417929546
+433,Acidobacteria,100K,0.13393576442737762
+434,Mucoromycota,100K,0.16197088596792505
+435,Chlorobi,100K,0.6547663768585424
+436,Oomycota,100K,0.11935247900657209
+437,Euryarchaeota,100K,0.22566773346211005
+438,Nitrospirae,100K,0.07394841721604241
+439,Tubulinea,100K,
+440,Thaumarchaeota,100K,0.1867070468191972
+441,Ascomycota,100K,0.11440563873171244
+442,Deferribacteres,100K,0.34641016151377546
+443,Candidatus Melainabacteria,100K,0.5163977794943222
+444,Balneolaeota,100K,0.5691057665928179
+445,Haptophyta,100K,0.38820440842666054
+446,Euglenozoa,100K,0.14172179141744887
+447,Armatimonadetes,100K,0.3912303982179757
+448,Ignavibacteriae,100K,0.16382505196892136
+449,Candidatus Tectomicrobia,100K,0.5443310539518174
+450,Deinococcus-Thermus,100K,0.4513354669242202
+451,Candidatus Marinimicrobia,100K,0.3912303982179758
+452,Fibrobacteres,100K,0.37267799624996495
+453,Kiritimatiellaeota,100K,0.2667894653011367
+454,Candidatus Hydrogenedentes,100K,0.4575657233497424
+455,Thermotogae,100K,0.34641016151377546
+456,Candidatus Gracilibacteria,100K,0.11692679333668572
+457,Synergistetes,100K,
+458,Candidatus Bathyarchaeota,100K,0.6871842709362768
+459,candidate division Zixibacteria,100K,0.3496690869141741
+460,Candidatus Berkelbacteria,100K,
+461,Candidatus Rokubacteria,100K,0.3446761565477978
+462,Candidatus Campbellbacteria,100K,
+463,Candidatus Lindowbacteria,100K,
+464,Candidatus Portnoybacteria,100K,
+465,Calditrichaeota,100K,0.23594562882420358
+466,Candidatus Cryosericota,100K,
+467,Evosea,100K,0.5698307040253272
+468,Preaxostyla,100K,
+469,Chlamydiae,100K,0.12247448713915889
+470,Lentisphaerae,100K,0.2212192182518245
+471,Fusobacteria,100K,0.6435846357954428
+472,Candidatus Aminicenantes,100K,0.6481590798850738
+473,Microsporidia,100K,0.6123724356957946
+474,Elusimicrobia,100K,0.46481112585226425
+475,Thermodesulfobacteria,100K,0.43852900965351466
+476,Candidatus Parcubacteria,100K,0.6666666666666666
+477,Candidatus Aerophobetes,100K,
+478,Candidatus Fermentibacteria,100K,0.43301270189221935
+479,Candidatus Dadabacteria,100K,0.1244823994329923
+480,Zoopagomycota,100K,0.5863019699779287
+481,Candidatus Blackallbacteria,100K,0.43301270189221935
+482,Tenericutes,100K,0.3908679799852857
+483,Candidatus Thermoplasmatota,100K,0.46481112585226425
+484,Candidatus Omnitrophica,100K,0.49757027371550094
+485,Atribacterota,100K,0.4
+486,Candidatus Poribacteria,100K,0.6388765649999398
+487,candidate division CPR2,100K,
+488,Candidatus Woesearchaeota,100K,0.4999999999999999
+489,Candidatus Riflebacteria,100K,
+490,Chytridiomycota,100K,0.26987027314652634
+491,Candidatus Moranbacteria,100K,0.3849001794597505
+492,Candidatus Korarchaeota,100K,
+493,Candidatus Latescibacteria,100K,0.6666666666666666
+494,candidate division WOR-3,100K,0.6928203230275509
+495,Candidatus Amesbacteria,100K,
+496,Candidatus Kaiserbacteria,100K,0.6085806194501846
+497,Candidatus Micrarchaeota,100K,
+498,Apicomplexa,100K,0.3240068961457457
+499,Cryptomycota,100K,0.5471012044321931
+500,Candidatus Desantisbacteria,100K,0.7071067811865475
+501,Aquificae,100K,0.686978002202548
+502,Candidatus Cloacimonetes,100K,0.5163977794943222
+503,Discosea,100K,0.4999999999999999
+504,Candidatus Woesebacteria,100K,0.3912303982179758
+505,Candidatus Giovannonibacteria,100K,0.4714045207910316
+506,Candidatus Schekmanbacteria,100K,0.2857142857142857
+507,Candidatus Heimdallarchaeota,100K,0.3849001794597505
+508,Heterolobosea,100K,0.39999999999999997
+509,Foraminifera,100K,
+510,Candidatus Sumerlaeota,100K,0.34641016151377546
+511,Chrysiogenetes,100K,0.43301270189221935
+512,Candidatus Aenigmarchaeota,100K,
+513,Candidatus Lokiarchaeota,100K,
+514,Candidatus Kapabacteria,100K,
+515,Candidatus Thorarchaeota,100K,
+516,Imbricatea,100K,
+517,Candidatus Daviesbacteria,100K,
+518,Candidatus Pacebacteria,100K,0.4648111258522642
+519,Candidatus Magasanikbacteria,100K,
+520,Candidatus Eisenbacteria,100K,
+521,Candidatus Margulisbacteria,100K,0.4714045207910316
+522,Candidatus Buchananbacteria,100K,
+523,Candidatus Zambryskibacteria,100K,
+524,Olpidiomycota,100K,
+525,Endomyxa,100K,0.45825756949558394
+526,Candidatus Bipolaricaulota,100K,0.4
+527,Candidatus Levybacteria,100K,
+528,Candidatus Raymondbacteria,100K,
+529,Perkinsozoa,100K,0.3849001794597505
+530,Parabasalia,100K,0.4714045207910316
+531,Candidatus Absconditabacteria,100K,0.43301270189221935
+532,candidate division NC10,100K,0.8571428571428572
+533,Candidatus Roizmanbacteria,100K,
+534,Candidatus Handelsmanbacteria,100K,
+535,Candidatus Ryanbacteria,100K,
+536,Candidatus Terrybacteria,100K,
+537,Candidatus Verstraetearchaeota,100K,
+538,Candidatus Marsarchaeota,100K,
+539,Candidatus Goldbacteria,100K,
+540,Candidatus Aureabacteria,100K,
+541,Candidatus Muirbacteria,100K,
+542,Candidatus Uhrbacteria,100K,
+543,Crenarchaeota,100K,0.43301270189221935
+544,Caldiserica,100K,
+545,candidate division WWE3,100K,
+546,Candidatus Falkowbacteria,100K,
+547,Candidatus Nomurabacteria,100K,
+548,Candidatus Yanofskybacteria,100K,
+549,Candidatus Coatesbacteria,100K,
+550,Candidatus Lloydbacteria,100K,
+551,Candidatus Kryptonia,100K,
+552,Candidatus Gottesmanbacteria,100K,0.4714045207910316
+553,Blastocladiomycota,100K,
+554,Candidatus Hydrothermae,100K,
+555,Candidatus Wolfebacteria,100K,
+556,Candidatus Delongbacteria,100K,
+557,Candidatus Doudnabacteria,100K,
+558,Candidatus Glassbacteria,100K,
+559,Candidatus Harrisonbacteria,100K,
+560,Fornicata,100K,
+561,Candidatus Wallbacteria,100K,
+562,Cercozoa,100K,
+563,Candidatus Andersenbacteria,100K,
+564,Candidatus Abyssubacteria,100K,
+565,Candidatus Mcinerneyibacteriota,100K,
+566,Candidatus Firestonebacteria,100K,
+567,Candidatus Staskawiczbacteria,100K,
+568,Candidatus Altiarchaeota,100K,
+569,Candidatus Abawacabacteria,100K,
+570,Candidatus Fischerbacteria,100K,
+571,Candidatus Kerfeldbacteria,100K,
+572,Candidatus Komeilibacteria,100K,
+573,Candidatus Nealsonbacteria,100K,
+574,candidate division LCP-89,100K,
+575,Dictyoglomi,100K,
+576,Picozoa,100K,
+577,Candidatus Adlerbacteria,100K,
+578,Candidatus Azambacteria,100K,
+579,Candidatus Fraserbacteria,100K,
+580,Candidatus Liptonbacteria,100K,
+581,Candidatus Spechtbacteria,100K,
+582,Candidatus Sungbacteria,100K,
+583,Candidatus Vogelbacteria,100K,
+584,Candidatus Wildermuthbacteria,100K,
+585,Candidatus Odinarchaeota,100K,
+586,Coprothermobacterota,100K,
+587,Candidatus Taylorbacteria,100K,
+588,Abditibacteriota,100K,
+589,candidate division CPR1,100K,
+590,Candidatus Microgenomates,100K,
+591,Candidatus Yonathbacteria,100K,
+592,Candidatus Kuenenbacteria,100K,
+593,Candidatus Tagabacteria,100K,
+594,Candidatus Wirthbacteria,100K,
+595,candidate division CPR3,100K,
+596,Candidatus Curtissbacteria,100K,
+597,Candidatus Jorgensenbacteria,100K,
+598,Candidatus Edwardsbacteria,100K,
+599,Candidatus Woykebacteria,100K,
+600,Nanoarchaeota,100K,
+601,Candidatus Diapherotrites,100K,
+602,Candidatus Beckwithbacteria,100K,
+603,Candidatus Cerribacteria,100K,
+604,Candidatus Colwellbacteria,100K,
+605,Candidatus Collierbacteria,100K,
+606,Candidatus Niyogibacteria,100K,
+607,Candidatus Shapirobacteria,100K,
+608,Candidatus Eremiobacteraeota,100K,
+609,Candidatus Nanohaloarchaeota,100K,
+610,Candidatus Chisholmbacteria,100K,
+611,Candidatus Gribaldobacteria,100K,
+612,Candidatus Parvarchaeota,100K,
+613,candidate division KD3-62,100K,
+614,Candidatus Blackburnbacteria,100K,
+615,Candidatus Geothermarchaeota,100K,
+616,Candidatus Nezhaarchaeota,100K,
+617,Candidatus Huberarchaea,100K,
+618,Proteobacteria,1M,0.0007000758432211073
+619,Bacteroidetes,1M,0.0021787585255307225
+620,Bacillariophyta,1M,0.007938692237245063
+621,Actinobacteria,1M,0.011379782360954528
+622,Chlorophyta,1M,0.00919810028632511
+623,Chloroflexi,1M,0.03577088358936988
+624,Verrucomicrobia,1M,0.016333675485538428
+625,Planctomycetes,1M,0.014774891395170351
+626,Cyanobacteria,1M,0.02086494340267528
+627,Gemmatimonadetes,1M,0.08803017682753267
+628,Firmicutes,1M,0.021972551524598944
+629,Spirochaetes,1M,0.08446696094454031
+630,Nitrospinae,1M,0.07934480648429845
+631,Candidatus Peregrinibacteria,1M,0.21245914639969937
+632,Rhodothermaeota,1M,0.04331387487162949
+633,Candidatus Dormibacteraeota,1M,0.37267799624996495
+634,Viruses,1M,0.048320636363670205
+635,Basidiomycota,1M,0.08640074806054975
+636,Ciliophora,1M,0.08818937237834493
+637,Candidatus Saccharibacteria,1M,0.3939098000247716
+638,Rhodophyta,1M,0.17405556425414392
+639,Acidobacteria,1M,0.026176680450404333
+640,Mucoromycota,1M,0.038695861168105104
+641,Chlorobi,1M,0.1640958184772646
+642,Oomycota,1M,0.03131100038946054
+643,Euryarchaeota,1M,0.04602710567270303
+644,Nitrospirae,1M,0.03521581643918953
+645,Tubulinea,1M,
+646,Thaumarchaeota,1M,0.0851066906657117
+647,Ascomycota,1M,0.04767175893037505
+648,Deferribacteres,1M,0.18372443549727793
+649,Candidatus Melainabacteria,1M,0.20360275448198895
+650,Balneolaeota,1M,0.09371262320197443
+651,Haptophyta,1M,0.09302130507801827
+652,Euglenozoa,1M,0.07517630872881714
+653,Armatimonadetes,1M,0.09911932934100623
+654,Ignavibacteriae,1M,0.07198218912103478
+655,Candidatus Tectomicrobia,1M,0.08741727172854355
+656,Deinococcus-Thermus,1M,0.14529591394244126
+657,Candidatus Marinimicrobia,1M,0.1205816344040649
+658,Fibrobacteres,1M,0.19452968121857395
+659,Kiritimatiellaeota,1M,0.12391601314736016
+660,Candidatus Hydrogenedentes,1M,0.2565639165054103
+661,Thermotogae,1M,0.11321863177214128
+662,Candidatus Gracilibacteria,1M,0.06506578622171633
+663,Synergistetes,1M,0.25325809067792326
+664,Candidatus Bathyarchaeota,1M,0.09069177839262174
+665,candidate division Zixibacteria,1M,0.0604594831437828
+666,Candidatus Berkelbacteria,1M,0.3849001794597505
+667,Candidatus Rokubacteria,1M,0.1664181092089448
+668,Candidatus Campbellbacteria,1M,0.43301270189221935
+669,Candidatus Lindowbacteria,1M,0.4385290096535146
+670,Candidatus Portnoybacteria,1M,
+671,Calditrichaeota,1M,0.12919595923708982
+672,Candidatus Cryosericota,1M,0.39123039821797584
+673,Evosea,1M,0.09078113364007087
+674,Preaxostyla,1M,0.34809979802889157
+675,Chlamydiae,1M,0.09275665984714801
+676,Lentisphaerae,1M,0.07492955177379314
+677,Fusobacteria,1M,0.04799288255728828
+678,Candidatus Aminicenantes,1M,0.08818369146720445
+679,Microsporidia,1M,0.21170161439794125
+680,Elusimicrobia,1M,0.27690404367419796
+681,Thermodesulfobacteria,1M,0.10092195845909227
+682,Candidatus Parcubacteria,1M,0.30859243338233094
+683,Candidatus Aerophobetes,1M,0.23564655857259564
+684,Candidatus Fermentibacteria,1M,0.18108895570007352
+685,Candidatus Dadabacteria,1M,0.053136420059865595
+686,Zoopagomycota,1M,0.1650546390646103
+687,Candidatus Blackallbacteria,1M,0.27807877682852566
+688,Tenericutes,1M,0.11679052735583721
+689,Candidatus Thermoplasmatota,1M,0.038524878833236985
+690,Candidatus Omnitrophica,1M,0.03362829381411074
+691,Atribacterota,1M,0.33911649915626335
+692,Candidatus Poribacteria,1M,0.1810889557000736
+693,candidate division CPR2,1M,0.3531523089093173
+694,Candidatus Woesearchaeota,1M,0.31943828249997
+695,Candidatus Riflebacteria,1M,0.686978002202548
+696,Chytridiomycota,1M,0.1605003188976743
+697,Candidatus Moranbacteria,1M,0.35208939510976517
+698,Candidatus Korarchaeota,1M,0.6319062870042959
+699,Candidatus Latescibacteria,1M,0.05923358880794149
+700,candidate division WOR-3,1M,0.24617840534373606
+701,Candidatus Amesbacteria,1M,
+702,Candidatus Kaiserbacteria,1M,0.38191908614999986
+703,Candidatus Micrarchaeota,1M,0.5471012044321932
+704,Apicomplexa,1M,0.1188607562790586
+705,Cryptomycota,1M,0.16666666666666663
+706,Candidatus Desantisbacteria,1M,0.848528137423857
+707,Aquificae,1M,0.23132254021751042
+708,Candidatus Cloacimonetes,1M,0.09999999999999996
+709,Discosea,1M,0.47153811992104594
+710,Candidatus Woesebacteria,1M,0.5832156365085337
+711,Candidatus Giovannonibacteria,1M,0.7243558228002943
+712,Candidatus Schekmanbacteria,1M,0.6117160375207985
+713,Candidatus Heimdallarchaeota,1M,0.21600459743049708
+714,Heterolobosea,1M,0.2641261041947915
+715,Foraminifera,1M,0.24134423842329103
+716,Candidatus Sumerlaeota,1M,0.6429381225315658
+717,Chrysiogenetes,1M,0.38540102570865575
+718,Candidatus Aenigmarchaeota,1M,0.550685425510629
+719,Candidatus Lokiarchaeota,1M,0.6930206164842208
+720,Candidatus Kapabacteria,1M,0.10647942749999006
+721,Candidatus Thorarchaeota,1M,0.37179633427145803
+722,Imbricatea,1M,0.7505142270059053
+723,Candidatus Daviesbacteria,1M,0.5471012044321932
+724,Candidatus Pacebacteria,1M,0.33499675095088216
+725,Candidatus Magasanikbacteria,1M,0.45079220333321124
+726,Candidatus Eisenbacteria,1M,0.11785113019775792
+727,Candidatus Margulisbacteria,1M,0.49983560742610067
+728,Candidatus Buchananbacteria,1M,
+729,Candidatus Zambryskibacteria,1M,0.6986885432532673
+730,Olpidiomycota,1M,0.6666666666666666
+731,Endomyxa,1M,0.182558380598837
+732,Candidatus Bipolaricaulota,1M,0.4007371679514864
+733,Candidatus Levybacteria,1M,0.34641016151377546
+734,Candidatus Raymondbacteria,1M,0.3903262361629296
+735,Perkinsozoa,1M,0.33086184748585246
+736,Parabasalia,1M,0.5336321894427541
+737,Candidatus Absconditabacteria,1M,0.34401045807689073
+738,candidate division NC10,1M,0.2713030996889391
+739,Candidatus Roizmanbacteria,1M,0.34467615654779776
+740,Candidatus Handelsmanbacteria,1M,0.52704627669473
+741,Candidatus Ryanbacteria,1M,0.5000000000000001
+742,Candidatus Terrybacteria,1M,
+743,Candidatus Verstraetearchaeota,1M,0.4
+744,Candidatus Marsarchaeota,1M,
+745,Candidatus Goldbacteria,1M,0.3849001794597505
+746,Candidatus Aureabacteria,1M,0.6614378277661477
+747,Candidatus Muirbacteria,1M,
+748,Candidatus Uhrbacteria,1M,0.5672262001443318
+749,Crenarchaeota,1M,0.5908647000371574
+750,Caldiserica,1M,0.6546536707079772
+751,candidate division WWE3,1M,0.7200822998230956
+752,Candidatus Falkowbacteria,1M,0.2716334335501104
+753,Candidatus Nomurabacteria,1M,0.5061943174124038
+754,Candidatus Yanofskybacteria,1M,0.425523159002817
+755,Candidatus Coatesbacteria,1M,0.4714045207910316
+756,Candidatus Lloydbacteria,1M,
+757,Candidatus Kryptonia,1M,0.7071067811865475
+758,Candidatus Gottesmanbacteria,1M,0.21650635094610973
+759,Blastocladiomycota,1M,0.17496355305594125
+760,Candidatus Hydrothermae,1M,
+761,Candidatus Wolfebacteria,1M,0.4714045207910316
+762,Candidatus Delongbacteria,1M,0.6972166887783963
+763,Candidatus Doudnabacteria,1M,0.4714045207910316
+764,Candidatus Glassbacteria,1M,0.9854310631217635
+765,Candidatus Harrisonbacteria,1M,0.7071067811865475
+766,Fornicata,1M,0.4263283123415311
+767,Candidatus Wallbacteria,1M,0.34641016151377546
+768,Cercozoa,1M,0.5232211106009699
+769,Candidatus Andersenbacteria,1M,0.6666666666666669
+770,Candidatus Abyssubacteria,1M,0.3240068961457456
+771,Candidatus Mcinerneyibacteriota,1M,0.7071067811865475
+772,Candidatus Firestonebacteria,1M,0.6666666666666669
+773,Candidatus Staskawiczbacteria,1M,0.5471012044321933
+774,Candidatus Altiarchaeota,1M,0.29880715233359845
+775,Candidatus Abawacabacteria,1M,0.4714045207910316
+776,Candidatus Fischerbacteria,1M,0.34815531191139565
+777,Candidatus Kerfeldbacteria,1M,0.24845199749997662
+778,Candidatus Komeilibacteria,1M,0.37267799624996495
+779,Candidatus Nealsonbacteria,1M,0.3849001794597506
+780,candidate division LCP-89,1M,0.8413197549333737
+781,Dictyoglomi,1M,
+782,Picozoa,1M,0.37267799624996495
+783,Candidatus Adlerbacteria,1M,
+784,Candidatus Azambacteria,1M,
+785,Candidatus Fraserbacteria,1M,
+786,Candidatus Liptonbacteria,1M,
+787,Candidatus Spechtbacteria,1M,
+788,Candidatus Sungbacteria,1M,0.692820323027551
+789,Candidatus Vogelbacteria,1M,
+790,Candidatus Wildermuthbacteria,1M,
+791,Candidatus Odinarchaeota,1M,
+792,Coprothermobacterota,1M,
+793,Candidatus Taylorbacteria,1M,0.29459295623271947
+794,Abditibacteriota,1M,0.4082482904638631
+795,candidate division CPR1,1M,0.4714045207910316
+796,Candidatus Microgenomates,1M,
+797,Candidatus Yonathbacteria,1M,
+798,Candidatus Kuenenbacteria,1M,
+799,Candidatus Tagabacteria,1M,0.4714045207910316
+800,Candidatus Wirthbacteria,1M,
+801,candidate division CPR3,1M,
+802,Candidatus Curtissbacteria,1M,
+803,Candidatus Jorgensenbacteria,1M,0.692820323027551
+804,Candidatus Edwardsbacteria,1M,
+805,Candidatus Woykebacteria,1M,0.692820323027551
+806,Nanoarchaeota,1M,0.4714045207910316
+807,Candidatus Diapherotrites,1M,
+808,Candidatus Beckwithbacteria,1M,
+809,Candidatus Cerribacteria,1M,
+810,Candidatus Colwellbacteria,1M,
+811,Candidatus Collierbacteria,1M,
+812,Candidatus Niyogibacteria,1M,
+813,Candidatus Shapirobacteria,1M,
+814,Candidatus Eremiobacteraeota,1M,
+815,Candidatus Nanohaloarchaeota,1M,
+816,Candidatus Chisholmbacteria,1M,
+817,Candidatus Gribaldobacteria,1M,
+818,Candidatus Parvarchaeota,1M,
+819,candidate division KD3-62,1M,
+820,Candidatus Blackburnbacteria,1M,
+821,Candidatus Geothermarchaeota,1M,
+822,Candidatus Nezhaarchaeota,1M,
+823,Candidatus Huberarchaea,1M,
+824,Proteobacteria,10M,0.0006459722875298265
+825,Bacteroidetes,10M,0.00037242359402454915
+826,Bacillariophyta,10M,0.0006731219143458681
+827,Actinobacteria,10M,0.0015162219013060826
+828,Chlorophyta,10M,0.0036729814042313325
+829,Chloroflexi,10M,0.006273303384683532
+830,Verrucomicrobia,10M,0.0014554112836633955
+831,Planctomycetes,10M,0.002754518506874659
+832,Cyanobacteria,10M,0.006541871438061203
+833,Gemmatimonadetes,10M,0.011432433842391794
+834,Firmicutes,10M,0.007558423217819569
+835,Spirochaetes,10M,0.013570597787929047
+836,Nitrospinae,10M,0.00710209058023725
+837,Candidatus Peregrinibacteria,10M,0.09564673469162593
+838,Rhodothermaeota,10M,0.004671781796980707
+839,Candidatus Dormibacteraeota,10M,0.17766436291597743
+840,Viruses,10M,0.006743895129762408
+841,Basidiomycota,10M,0.016208150929970546
+842,Ciliophora,10M,0.007749106945630907
+843,Candidatus Saccharibacteria,10M,0.07925838492021829
+844,Rhodophyta,10M,0.019887948745162767
+845,Acidobacteria,10M,0.008031859987024438
+846,Mucoromycota,10M,0.007925428941427259
+847,Chlorobi,10M,0.028397565922920854
+848,Oomycota,10M,0.0023738774567040573
+849,Euryarchaeota,10M,0.011255837487767
+850,Nitrospirae,10M,0.007309026558547001
+851,Tubulinea,10M,0.08695652173913043
+852,Thaumarchaeota,10M,0.01258261826985601
+853,Ascomycota,10M,0.016511661842481384
+854,Deferribacteres,10M,0.014259656863277568
+855,Candidatus Melainabacteria,10M,0.03449685296196862
+856,Balneolaeota,10M,0.015911185085036982
+857,Haptophyta,10M,0.010731639932416225
+858,Euglenozoa,10M,0.013107123773504852
+859,Armatimonadetes,10M,0.014538511237656357
+860,Ignavibacteriae,10M,0.01774679627254574
+861,Candidatus Tectomicrobia,10M,0.031045911143864312
+862,Deinococcus-Thermus,10M,0.029412306644782192
+863,Candidatus Marinimicrobia,10M,0.049455542833267106
+864,Fibrobacteres,10M,0.06736915861623417
+865,Kiritimatiellaeota,10M,0.022635474104424853
+866,Candidatus Hydrogenedentes,10M,0.015464282489718388
+867,Thermotogae,10M,0.0202789732508986
+868,Candidatus Gracilibacteria,10M,0.016701296829450596
+869,Synergistetes,10M,0.021756494070636217
+870,Candidatus Bathyarchaeota,10M,0.023059846967730252
+871,candidate division Zixibacteria,10M,0.028690075932887752
+872,Candidatus Berkelbacteria,10M,0.1680608838394381
+873,Candidatus Rokubacteria,10M,0.04115429209758923
+874,Candidatus Campbellbacteria,10M,0.08219178082191778
+875,Candidatus Lindowbacteria,10M,0.054392829322042056
+876,Candidatus Portnoybacteria,10M,0.1928904337245963
+877,Calditrichaeota,10M,0.011864875733116719
+878,Candidatus Cryosericota,10M,0.19354838709677424
+879,Evosea,10M,0.024295233748437107
+880,Preaxostyla,10M,0.04033639765450465
+881,Chlamydiae,10M,0.0014116943124503412
+882,Lentisphaerae,10M,0.01513901530602468
+883,Fusobacteria,10M,0.016990624876065674
+884,Candidatus Aminicenantes,10M,0.013756979221512398
+885,Microsporidia,10M,0.05364276241393318
+886,Elusimicrobia,10M,0.035323782524226854
+887,Thermodesulfobacteria,10M,0.01886011446230947
+888,Candidatus Parcubacteria,10M,0.07124033335467042
+889,Candidatus Aerophobetes,10M,0.08660082756255855
+890,Candidatus Fermentibacteria,10M,0.033838164238804
+891,Candidatus Dadabacteria,10M,0.02016256068522475
+892,Zoopagomycota,10M,0.032086454656331496
+893,Candidatus Blackallbacteria,10M,0.06349057416929747
+894,Tenericutes,10M,0.04865887073664218
+895,Candidatus Thermoplasmatota,10M,0.03382131910908365
+896,Candidatus Omnitrophica,10M,0.020223938055898977
+897,Atribacterota,10M,0.061060057622311675
+898,Candidatus Poribacteria,10M,0.03194888178913738
+899,candidate division CPR2,10M,0.0974661882465207
+900,Candidatus Woesearchaeota,10M,0.060702613257056906
+901,Candidatus Riflebacteria,10M,0.08594797634138049
+902,Chytridiomycota,10M,0.015751800308630225
+903,Candidatus Moranbacteria,10M,0.07803011551700921
+904,Candidatus Korarchaeota,10M,0.2487301080823684
+905,Candidatus Latescibacteria,10M,0.03141188754792892
+906,candidate division WOR-3,10M,0.0751021061132543
+907,Candidatus Amesbacteria,10M,0.25531389540169014
+908,Candidatus Kaiserbacteria,10M,0.03839577112741722
+909,Candidatus Micrarchaeota,10M,0.1659765325773231
+910,Apicomplexa,10M,0.03211419353574984
+911,Cryptomycota,10M,0.05799865717886649
+912,Candidatus Desantisbacteria,10M,0.07856742013183857
+913,Aquificae,10M,0.06332988681981377
+914,Candidatus Cloacimonetes,10M,0.05499004594420113
+915,Discosea,10M,0.08344370821994697
+916,Candidatus Woesebacteria,10M,0.04583743626635725
+917,Candidatus Giovannonibacteria,10M,0.17830207726620906
+918,Candidatus Schekmanbacteria,10M,0.13904122875127692
+919,Candidatus Heimdallarchaeota,10M,0.05391282482555667
+920,Heterolobosea,10M,0.05586968931131087
+921,Foraminifera,10M,0.14079481794297072
+922,Candidatus Sumerlaeota,10M,0.11781537677932415
+923,Chrysiogenetes,10M,0.09292260846568742
+924,Candidatus Aenigmarchaeota,10M,0.12001371663718259
+925,Candidatus Lokiarchaeota,10M,0.061435811823064373
+926,Candidatus Kapabacteria,10M,0.06686293228020658
+927,Candidatus Thorarchaeota,10M,0.06977651394858549
+928,Imbricatea,10M,0.04647143204516825
+929,Candidatus Daviesbacteria,10M,0.17069363297190907
+930,Candidatus Pacebacteria,10M,0.03647020169819557
+931,Candidatus Magasanikbacteria,10M,0.0652645687440162
+932,Candidatus Eisenbacteria,10M,0.07892542481354271
+933,Candidatus Margulisbacteria,10M,0.056288913780563034
+934,Candidatus Buchananbacteria,10M,0.15430334996209186
+935,Candidatus Zambryskibacteria,10M,0.26646935501059654
+936,Olpidiomycota,10M,0.12679453935510587
+937,Endomyxa,10M,0.05888948726028869
+938,Candidatus Bipolaricaulota,10M,0.06246950475544239
+939,Candidatus Levybacteria,10M,0.11614382043993407
+940,Candidatus Raymondbacteria,10M,0.15494317309347103
+941,Perkinsozoa,10M,0.06460582824697984
+942,Parabasalia,10M,0.12765957446808515
+943,Candidatus Absconditabacteria,10M,0.06698104584973644
+944,candidate division NC10,10M,0.068857904303869
+945,Candidatus Roizmanbacteria,10M,0.17048758244362516
+946,Candidatus Handelsmanbacteria,10M,0.055511093319096864
+947,Candidatus Ryanbacteria,10M,0.2160246899469287
+948,Candidatus Terrybacteria,10M,0.2347262634065101
+949,Candidatus Verstraetearchaeota,10M,0.2857142857142857
+950,Candidatus Marsarchaeota,10M,0.4330127018922193
+951,Candidatus Goldbacteria,10M,0.06060606060606061
+952,Candidatus Aureabacteria,10M,0.08247860988423225
+953,Candidatus Muirbacteria,10M,0.1986145305747393
+954,Candidatus Uhrbacteria,10M,0.06635071090047392
+955,Crenarchaeota,10M,0.03728313301368272
+956,Caldiserica,10M,0.13943216575407852
+957,candidate division WWE3,10M,0.16777409856157222
+958,Candidatus Falkowbacteria,10M,0.08251185175159295
+959,Candidatus Nomurabacteria,10M,0.1268647884805434
+960,Candidatus Yanofskybacteria,10M,0.09357945904985936
+961,Candidatus Coatesbacteria,10M,0.11820025346861054
+962,Candidatus Lloydbacteria,10M,0.09836065573770494
+963,Candidatus Kryptonia,10M,0.15309310892394856
+964,Candidatus Gottesmanbacteria,10M,0.14380637019563336
+965,Blastocladiomycota,10M,0.06077706637436212
+966,Candidatus Hydrothermae,10M,0.1360827634879543
+967,Candidatus Wolfebacteria,10M,0.12307777986918388
+968,Candidatus Delongbacteria,10M,0.11174521339154045
+969,Candidatus Doudnabacteria,10M,0.05393955536655425
+970,Candidatus Glassbacteria,10M,0.17475728155339806
+971,Candidatus Harrisonbacteria,10M,0.15309310892394865
+972,Fornicata,10M,0.046689875888712436
+973,Candidatus Wallbacteria,10M,0.17830207726620903
+974,Cercozoa,10M,0.08151927288088678
+975,Candidatus Andersenbacteria,10M,0.19518001458970669
+976,Candidatus Abyssubacteria,10M,0.09004832267395503
+977,Candidatus Mcinerneyibacteriota,10M,0.12420546382981329
+978,Candidatus Firestonebacteria,10M,0.13953488372093026
+979,Candidatus Staskawiczbacteria,10M,0.2347262634065101
+980,Candidatus Altiarchaeota,10M,0.15590239111558093
+981,Candidatus Abawacabacteria,10M,0.11764705882352942
+982,Candidatus Fischerbacteria,10M,0.08164965809277265
+983,Candidatus Kerfeldbacteria,10M,0.07989242788646297
+984,Candidatus Komeilibacteria,10M,0.17516155155486493
+985,Candidatus Nealsonbacteria,10M,0.19709829178740848
+986,candidate division LCP-89,10M,0.17721518987341775
+987,Dictyoglomi,10M,0.2449489742783178
+988,Picozoa,10M,0.20412414523193148
+989,Candidatus Adlerbacteria,10M,0.2664693550105965
+990,Candidatus Azambacteria,10M,0.3149183286488867
+991,Candidatus Fraserbacteria,10M,0.31578947368421056
+992,Candidatus Liptonbacteria,10M,
+993,Candidatus Spechtbacteria,10M,0.38490017945975047
+994,Candidatus Sungbacteria,10M,0.06060606060606061
+995,Candidatus Vogelbacteria,10M,0.20156360163291337
+996,Candidatus Wildermuthbacteria,10M,0.2608202654786505
+997,Candidatus Odinarchaeota,10M,0.2721655269759086
+998,Coprothermobacterota,10M,0.16650906221849357
+999,Candidatus Taylorbacteria,10M,0.03299144395369286
+1000,Abditibacteriota,10M,0.10154468290078698
+1001,candidate division CPR1,10M,0.2945929562327194
+1002,Candidatus Microgenomates,10M,0.3529411764705882
+1003,Candidatus Yonathbacteria,10M,0.06060606060606061
+1004,Candidatus Kuenenbacteria,10M,0.1531883372410141
+1005,Candidatus Tagabacteria,10M,0.35355339059327373
+1006,Candidatus Wirthbacteria,10M,0.2732520204255893
+1007,candidate division CPR3,10M,0.42552315900281695
+1008,Candidatus Curtissbacteria,10M,0.31491832864888675
+1009,Candidatus Jorgensenbacteria,10M,0.12353898164597911
+1010,Candidatus Edwardsbacteria,10M,0.2309401076758503
+1011,Candidatus Woykebacteria,10M,0.14433756729740643
+1012,Nanoarchaeota,10M,0.19354838709677424
+1013,Candidatus Diapherotrites,10M,0.16650906221849357
+1014,Candidatus Beckwithbacteria,10M,0.2347262634065101
+1015,Candidatus Cerribacteria,10M,
+1016,Candidatus Colwellbacteria,10M,0.27325202042558927
+1017,Candidatus Collierbacteria,10M,0.4575657233497424
+1018,Candidatus Niyogibacteria,10M,0.6454972243679028
+1019,Candidatus Shapirobacteria,10M,0.4118729394751475
+1020,Candidatus Eremiobacteraeota,10M,0.2721655269759086
+1021,Candidatus Nanohaloarchaeota,10M,0.29607193863806863
+1022,Candidatus Chisholmbacteria,10M,0.4
+1023,Candidatus Gribaldobacteria,10M,0.5471012044321932
+1024,Candidatus Parvarchaeota,10M,0.4
+1025,candidate division KD3-62,10M,
+1026,Candidatus Blackburnbacteria,10M,
+1027,Candidatus Geothermarchaeota,10M,
+1028,Candidatus Nezhaarchaeota,10M,
+1029,Candidatus Huberarchaea,10M,
