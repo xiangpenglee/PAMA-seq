@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	74.665733	1061	1224	Proteobacteria
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	2.533427	36	1239	Firmicutes
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	1.618578	23	976	Bacteroidetes
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	1.548205	22	201174	Actinobacteria
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.703730	10	1117	Cyanobacteria
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.281492	4	28890	Euryarchaeota
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.281492	4	203682	Planctomycetes
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.211119	3	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.211119	3	200795	Chloroflexi
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.140746	2	1090	Chlorobi
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.140746	2	1297	Deinococcus-Thermus
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.140746	2	28889	Crenarchaeota
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.140746	2	40117	Nitrospirae
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.140746	2	1134404	Ignavibacteriae
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.070373	1	32066	Fusobacteria
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.070373	1	74152	Elusimicrobia
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.070373	1	200930	Deferribacteres
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.070373	1	203691	Spirochaetes
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	0.070373	1	1936987	Balneolaeota
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	15.622801	222	10239	Viruses
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	1.266714	18	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1735062701930/kaiju_output/GCF_03236255.1_v2.kaiju	99.569392	328579	NA	unclassified

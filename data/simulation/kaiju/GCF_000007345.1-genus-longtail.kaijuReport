@@ -1,0 +1,21 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	99.495201	91454	2207	Methanosarcina
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.073979	68	2220	Methanolobus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.072891	67	2175	Methanohalophilus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.016319	15	2222	Methanothrix
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.013055	12	1883	Streptomyces
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.008703	8	1392997	Candidatus Methanoperedens
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.005440	5	2225	Methanococcoides
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.003264	3	100175	Papillibacter
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.003264	3	196118	Methanocaldococcus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.002176	2	5820	Plasmodium
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.002176	2	45989	Methanoculleus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.002176	2	1348611	Vallitalea
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.001088	1	2160	Methanobacterium
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.001088	1	2263	Thermococcus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.001088	1	33877	Agromyces
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.001088	1	79206	Desulfosporosinus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.001088	1	363276	Ktedonobacter
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.295916	272	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	8.082000	8082	NA	unclassified

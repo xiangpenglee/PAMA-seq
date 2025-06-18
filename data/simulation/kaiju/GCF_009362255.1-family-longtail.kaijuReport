@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	33.302174	32775	49546	Flavobacteriaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.050804	50	72275	Alteromonadaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.009145	9	31989	Rhodobacteraceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.004064	4	809	Chlamydiaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.003048	3	2762318	Weeksellaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	641	Vibrionaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	775	Rickettsiaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	28256	Halomonadaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	84566	Sphingobacteriaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	171552	Prevotellaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	213121	Desulfobulbaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	267888	Pseudoalteromonadaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	563835	Chitinophagaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	1890429	Acaryochloridaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	1890438	Leptolyngbyaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	2005525	Tannerellaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	66.619583	65565	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	1.583000	1583	NA	unclassified

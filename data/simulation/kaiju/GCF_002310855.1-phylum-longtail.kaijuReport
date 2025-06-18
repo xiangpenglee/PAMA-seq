@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_002310855.1.kaiju	99.752609	195968	1224	Proteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_002310855.1.kaiju	0.003054	6	40117	Nitrospirae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_002310855.1.kaiju	0.003054	6	201174	Actinobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_002310855.1.kaiju	0.001527	3	1239	Firmicutes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_002310855.1.kaiju	0.001018	2	1117	Cyanobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_002310855.1.kaiju	0.000509	1	976	Bacteroidetes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_002310855.1.kaiju	0.000509	1	5204	Basidiomycota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_002310855.1.kaiju	0.000509	1	1913637	Mucoromycota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_002310855.1.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_002310855.1.kaiju	0.237206	466	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_002310855.1.kaiju	1.773000	3546	NA	unclassified

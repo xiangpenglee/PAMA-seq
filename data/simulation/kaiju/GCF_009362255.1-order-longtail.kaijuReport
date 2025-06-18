@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	33.425121	32896	200644	Flavobacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.051820	51	135622	Alteromonadales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.009145	9	204455	Rhodobacterales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.004064	4	51291	Chlamydiales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.002032	2	171549	Bacteroidales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.002032	2	768507	Cytophagales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	766	Rickettsiales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	135619	Oceanospirillales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	135623	Vibrionales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	186802	Eubacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	200666	Sphingobacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	213118	Desulfobacterales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	1853229	Chitinophagales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	1890424	Synechococcales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	2881377	Pseudanabaenales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	66.496643	65444	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	1.583000	1583	NA	unclassified

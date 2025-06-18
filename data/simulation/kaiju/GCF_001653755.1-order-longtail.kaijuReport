@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	85.980049	84993	200644	Flavobacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	0.006070	6	135623	Vibrionales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	0.005058	5	118969	Legionellales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	0.005058	5	171549	Bacteroidales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	0.003035	3	768507	Cytophagales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	0.001012	1	89954	Suessiales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	0.001012	1	135614	Xanthomonadales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	0.001012	1	200666	Sphingobacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	0.001012	1	1643688	Leptospirales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	0.001012	1	1936988	Saprospirales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	13.995669	13835	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_001653755.1.kaiju	1.148000	1148	NA	unclassified

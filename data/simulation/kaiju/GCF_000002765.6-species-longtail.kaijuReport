@@ -1,0 +1,87 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	35.481232	318410	5833	Plasmodium falciparum
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.108535	974	5854	Plasmodium reichenowi
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.098841	887	36330	Plasmodium ovale
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.090706	814	31272	Plasmodium sp.
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.071205	639	5861	Plasmodium yoelii
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.046244	415	880534	Plasmodium sp. gorilla clade G1
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.040784	366	720590	Plasmodium sp. DRC-Itaito
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.034656	311	5858	Plasmodium malariae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.033875	304	103836	Thermopolyspora flexuosa
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.027970	251	5855	Plasmodium vivax
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.026632	239	880536	Plasmodium sp. gorilla clade G3
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.015155	136	880535	Plasmodium sp. gorilla clade G2
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.011255	101	647221	Plasmodium gaboni
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.007912	71	68892	Streptococcus infantis
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.007466	67	5850	Plasmodium knowlesi
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.007243	65	5949	Stylonychia lemnae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.006240	56	573	Klebsiella pneumoniae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.006129	55	1754191	Piromyces finnis
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.004457	40	2304603	Zhongshania marina
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.004234	38	5860	Plasmodium vinckei
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.004012	36	5693	Trypanosoma cruzi
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.004012	36	85471	Plasmodium relictum
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.003566	32	5825	Plasmodium chabaudi
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.003343	30	5849	Plasmodium gallinaceum
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.003343	30	113107	Streptococcus australis
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.003120	28	5827	Plasmodium cynomolgi
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.002897	26	208452	Plasmodium coatneyi
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.002452	22	77519	Plasmodium gonderi
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.002452	22	2600580	Hepatocystis sp. ex Piliocolobus tephrosceles
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.002229	20	5857	Plasmodium fragile
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.002006	18	1485682	Mitosporidium daphniae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001894	17	5689	Leishmania tarentolae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001671	15	68886	Theileria orientalis
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001560	14	82926	Globisporangium splendens
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001449	13	666	Vibrio cholerae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001449	13	52288	Plasmodium inui
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001337	12	94023	Acaulospora morrowiae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001226	11	5821	Plasmodium berghei
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001114	10	52584	Brachyspira pilosicoli
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001114	10	310910	Linnemannia elongata
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000780	7	210	Helicobacter pylori
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000780	7	94643	Besnoitia besnoiti
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000780	7	423460	Basidiobolus meristosporus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000669	6	12968	Blastocystis hominis
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000557	5	5911	Tetrahymena thermophila
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000557	5	133385	Smittium simulii
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000446	4	100044	Pleomassaria siparia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000446	4	1291522	Helicosporidium sp. ATCC 50920
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000334	3	587	Providencia rettgeri
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000334	3	38448	Monilinia fructicola
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000334	3	61186	Monilinia laxa
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000334	3	319626	Aspergillus homomorphus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000334	3	456999	Rhizoctonia solani
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000223	2	585	Proteus vulgaris
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000223	2	4874	Gigaspora margarita
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000223	2	5801	Eimeria acervulina
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000223	2	5875	Theileria parva
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000223	2	146866	Pseudoloma neurophilia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	470	Acinetobacter baumannii
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	562	Escherichia coli
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	5963	Stentor coeruleus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	45607	Wickerhamiella sorbophila
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	47790	Tetrabaena socialis
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	51315	Eimeria necatrix
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	54195	Ascoidea rubescens
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	110365	Gregarina niphandrodes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	130081	Galdieria sulphuraria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	135727	Candidatus Phytoplasma ziziphi
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	281847	Rozella allomycis
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	1001833	Hypoxylon sp. CI-4A
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	1447940	Gymnopus androsaceus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	1580589	Pelomyxa schiedti
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	1764295	Chloropicon primus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	1805483	Nematocida displodere
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	1867952	Candidatus Terasakiella magnetica
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	1906665	archaeon
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	1913989	Gammaproteobacteria bacterium
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	1970542	Planctomycetia bacterium 21-64-5
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	2054153	Mucor circinatus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	2665630	Salmonella sp. S141_59878
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	2811429	Sabulicella rubraurantiaca
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	2822280	Salpingoeca llamariensis
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	2829486	Auriculariales sp. MPI-PUGE-AT-0066
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000223	2	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	63.812172	572653	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	35.899714	502596	NA	unclassified

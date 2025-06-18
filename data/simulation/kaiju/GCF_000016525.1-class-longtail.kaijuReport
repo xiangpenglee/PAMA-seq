@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000016525.1.kaiju	98.258797	96103	183925	Methanobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000016525.1.kaiju	0.044987	44	183968	Thermococci
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000016525.1.kaiju	0.019426	19	183963	Halobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000016525.1.kaiju	0.010224	10	183939	Methanococci
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000016525.1.kaiju	0.006135	6	224756	Methanomicrobia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000016525.1.kaiju	0.001022	1	186801	Clostridia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000016525.1.kaiju	0.001022	1	301297	Dehalococcoidia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000016525.1.kaiju	0.001022	1	2885733	Candidatus Micrarchaeia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000016525.1.kaiju	0.071570	70	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000016525.1.kaiju	1.585792	1551	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000016525.1.kaiju	2.194000	2194	NA	unclassified

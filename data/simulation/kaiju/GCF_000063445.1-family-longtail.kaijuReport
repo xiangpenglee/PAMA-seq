@@ -1,0 +1,10 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000063445.1.kaiju	96.581604	93067	570265	Methanocellaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000063445.1.kaiju	0.021793	21	2206	Methanosarcinaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000063445.1.kaiju	0.018680	18	2183	Methanococcaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000063445.1.kaiju	0.001038	1	137	Spirochaetaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000063445.1.kaiju	0.001038	1	2062	Streptomycetaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000063445.1.kaiju	0.001038	1	1198451	Methanoregulaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000063445.1.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000063445.1.kaiju	3.374810	3252	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000063445.1.kaiju	3.639000	3639	NA	unclassified

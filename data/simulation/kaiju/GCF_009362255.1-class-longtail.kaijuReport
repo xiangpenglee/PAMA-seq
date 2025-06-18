@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	33.481007	32951	117743	Flavobacteriia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.053852	53	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.010161	10	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.004064	4	204429	Chlamydiia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.002032	2	200643	Bacteroidia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.002032	2	768503	Cytophagia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	186801	Clostridia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.001016	1	1853228	Chitinophagia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	66.442787	65391	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_009362255.1.kaiju	1.583000	1583	NA	unclassified

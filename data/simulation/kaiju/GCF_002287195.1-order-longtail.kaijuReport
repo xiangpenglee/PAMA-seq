@@ -1,0 +1,25 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	99.965729	2741636	2158	Methanobacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.011084	304	94695	Methanosarcinales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.002516	69	186802	Eubacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.001349	37	2887326	Moraxellales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000109	3	2301	Thermoplasmatales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	1385	Bacillales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	2235	Halobacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	31932	Nitrosopumilales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	72273	Thiotrichales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	85006	Micrococcales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	85009	Propionibacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	135624	Aeromonadales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	186826	Lactobacillales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	200644	Flavobacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	204433	Acidobacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	213118	Desulfobacterales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	526525	Erysipelotrichales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	795748	Ignavibacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	1240482	Orbales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	1676649	Limnochordales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	1803511	Candidatus Altiarchaeales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.018632	511	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	5.428414	157424	NA	unclassified

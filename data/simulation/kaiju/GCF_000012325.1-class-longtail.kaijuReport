@@ -1,0 +1,11 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	99.454163	96569	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.036046	35	91061	Bacilli
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.022657	22	2212703	Mucoromycetes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.010299	10	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.007209	7	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.002060	2	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.001030	1	203693	Nitrospira
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.001030	1	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.465504	452	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	2.901000	2901	NA	unclassified

@@ -1,0 +1,27 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	96.722931	93917	135622	Alteromonadales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.258499	251	135623	Vibrionales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.138003	134	91347	Enterobacterales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.061793	60	135619	Oceanospirillales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.043255	42	72274	Pseudomonadales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.022657	22	4827	Mucorales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.020598	20	1385	Bacillales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.019568	19	135613	Chromatiales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.015448	15	186826	Lactobacillales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.009269	9	2887326	Moraxellales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.007209	7	135625	Pasteurellales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.003090	3	80840	Burkholderiales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.003090	3	1706369	Cellvibrionales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.002060	2	356	Hyphomicrobiales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.002060	2	118969	Legionellales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.002060	2	1240482	Orbales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.001030	1	29	Myxococcales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.001030	1	766	Rickettsiales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.001030	1	32003	Nitrosomonadales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.001030	1	135624	Aeromonadales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.001030	1	189778	Nitrospirales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.001030	1	204441	Rhodospirillales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.001030	1	204455	Rhodobacterales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	0.001030	1	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	2.660172	2583	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000012325.1.kaiju	2.901000	2901	NA	unclassified

@@ -1,0 +1,25 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	99.570312	893548	5794	Apicomplexa
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.033875	304	201174	Actinobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.015935	143	1224	Proteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.011812	106	1239	Firmicutes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.008469	76	5878	Ciliophora
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.006129	55	4761	Chytridiomycota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.006129	55	33682	Euglenozoa
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.003120	28	1913637	Mucoromycota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.002340	21	6029	Microsporidia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.002117	19	4890	Ascomycota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001671	15	5204	Basidiomycota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001560	14	4762	Oomycota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001337	12	1913638	Zoopagomycota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.001114	10	203691	Spirochaetes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000780	7	3041	Chlorophyta
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	2763	Rhodophyta
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	203682	Planctomycetes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	544448	Tenericutes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	1031332	Cryptomycota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	2497438	Perkinsozoa
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000111	1	2605435	Evosea
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.000223	2	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	0.332403	2983	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000002765.6.kaiju	35.899714	502596	NA	unclassified

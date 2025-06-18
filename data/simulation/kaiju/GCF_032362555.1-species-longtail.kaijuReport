@@ -1,0 +1,1542 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	9.012452	6485	470	Acinetobacter baumannii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	8.068820	5806	287	Pseudomonas aeruginosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	7.354494	5292	2268447	Desertihabitans brevis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	4.176163	3005	573	Klebsiella pneumoniae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	3.489633	2511	672	Vibrio vulnificus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	3.087998	2222	2511993	Enterobacter cloacae complex sp. 2DZ2F20B
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	3.004614	2162	346	Xanthomonas citri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	2.261104	1627	2364774	Citrobacter sp. MH181794
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	2.177720	1567	632	Yersinia pestis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	2.052643	1477	654	Aeromonas veronii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	1.816388	1307	152958	Russula emetica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	1.606537	1156	69966	Macrococcus caseolyticus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	1.368892	985	562	Escherichia coli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	1.328590	956	33883	Microbacterium arborescens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	1.318861	949	2567936	Herbaspirillum sp. ST 5-3
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	1.260492	907	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	1.197954	862	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	1.142365	822	573658	Candidatus Hodgkinia cicadicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	1.092334	786	263	Francisella tularensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.947801	682	955	Wolbachia pipientis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.792151	570	1702224	Chlamydomyzium anomalum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.674023	485	3190	Scherffelia dubia
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.576741	415	946362	Salpingoeca rosetta
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.528100	380	1238	Piscirickettsia salmonis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.516983	372	81824	Monosiga brevicollis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.416921	300	2497683	Desulfovibrio sp. DS-1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.415532	299	1795308	Pseudothioclava arenosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.343265	247	2021391	Flavobacteriales bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.284896	205	160621	Lingulodinium polyedra
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.282117	203	553151	Halopseudomonas pelagia
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.269609	194	83555	Chlamydia abortus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.252932	182	177407	symbiont bacterium of Scopalina lophyropoda
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.230697	166	643651	Acarposporophycos brasiliensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.226527	163	2662032	Montagnia macrospora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.219579	158	2204302	Flavobacterium sp. JXAS1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.190394	137	1892852	Solihabitans fulvus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.182056	131	27350	Puccinia striiformis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.180666	130	1643	Listeria welshimeri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.161210	116	225359	Erysiphe pulchra
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.161210	116	329647	Wolbachia endosymbiont of Culex molestus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.143143	103	1334	Streptococcus dysgalactiae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.143143	103	3159	Pedinomonas minor
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.143143	103	92715	Papiliomyces liangshanensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.141753	102	5755	Acanthamoeba castellanii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.138974	100	144026	Maricaulis salignorans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.132025	95	1639	Listeria monocytogenes
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.123687	89	1890364	Planoprotostelium fungivorum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.122297	88	281847	Rozella allomycis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.120907	87	2607660	Nocardioides humilatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.118128	85	1913989	Gammaproteobacteria bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.112569	81	317	Pseudomonas syringae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.102841	74	224131	Harpochytrium sp. JEL105
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.102841	74	2479545	Pararhodobacter zhoushanensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.097282	70	55529	Guillardia theta
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.094502	68	423460	Basidiobolus meristosporus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.093112	67	230985	Symbiodinium sp. KB8
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.093112	67	1357716	Batrachochytrium salamandrivorans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.088943	64	796027	Sugiyamaella lignohabitans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.083384	60	529818	Thecamonas trahens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.081995	59	158836	Enterobacter hormaechei
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.081995	59	2607659	Nocardioides antri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.079215	57	77133	uncultured bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.077825	56	1123529	Gonapodya prolifera
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.076436	55	100861	Aphanomyces euteiches
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.073656	53	28583	Allomyces macrogynus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.073656	53	1580589	Pelomyxa schiedti
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.073656	53	1764295	Chloropicon primus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.068097	49	2775968	Agilicoccus flavus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.063928	46	2044729	Candidatus Nephrothrix sp. EaCA
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.061148	44	129364	Phytophthora rubi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.059759	43	2951	Symbiodinium microadriaticum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.059759	43	1906665	archaeon
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.058369	42	670	Vibrio parahaemolyticus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.058369	42	94643	Besnoitia besnoiti
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.055590	40	109895	Powellomyces hirtus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.055590	40	388810	Blyttiomyces helicus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.055590	40	2682840	Wolbachia endosymbiont of Atemnus politus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.054200	39	2903	Emiliania huxleyi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.054200	39	57706	Citrobacter braakii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.054200	39	246404	Chytriomyces confervae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.054200	39	2315210	Hondaea fermentalgiana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.052810	38	286115	Synchytrium endobioticum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.052810	38	1638099	Salinarimonas soli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.051420	37	86804	Ustilago trichophora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.050031	36	82926	Globisporangium splendens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.048641	35	37360	Plasmodiophora brassicae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.048641	35	51714	Volvox africanus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.048641	35	72228	Ophiocordyceps sinensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.048641	35	588596	Rhizophagus irregularis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.048641	35	2607653	Chitinophaga agrisoli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.045861	33	78915	Thamnocephalis sphaerospora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.045861	33	86473	uncultured Gammaproteobacteria bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.045861	33	202954	Acinetobacter tandoii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.045861	33	296587	Micromonas commoda
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.045861	33	303371	Tribonema minus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.045861	33	329046	Rhizoclosmatium globosum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.045861	33	361077	Tieghemostelium lacteum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.044472	32	1806994	Synchytrium microbalum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.043082	31	5689	Leishmania tarentolae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.043082	31	34488	Conidiobolus coronatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.043082	31	72558	Sporisorium reilianum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.041692	30	2769	Chondrus crispus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.041692	30	130081	Galdieria sulphuraria
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.041692	30	1460289	Chrysochromulina tobinii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.040302	29	5693	Trypanosoma cruzi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.040302	29	35688	Porphyridium purpureum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.040302	29	109876	Catenaria anguillulae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.038913	28	48296	Acinetobacter pittii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.038913	28	91625	Umbelopsis isabellina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.038913	28	114742	Pythium insidiosum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.038913	28	361139	Acytostelium subglobosum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.038913	28	483139	Cystoisospora suis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.037523	27	160502	Racocetra persica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.037523	27	2081491	Diacronema lutheri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.036133	26	1496	Clostridioides difficile
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.036133	26	4795	Phytophthora megakarya
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.036133	26	159749	Thalassiosira oceanica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.036133	26	261658	Cavenderia fasciculata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.036133	26	1938954	Bifiguratus adelaidae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.036133	26	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.036133	26	2487322	Vibrio viridaestus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.034743	25	34485	Entomophthora muscae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.034743	25	109871	Batrachochytrium dendrobatidis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.034743	25	112090	Aphanomyces astaci
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.034743	25	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.034743	25	2021370	Sphingobacteriaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.034743	25	2044944	Sphingobacteriales bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.033354	24	5963	Stentor coeruleus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.033354	24	50956	Geosiphon pyriformis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.033354	24	215637	Dimargaris cristalligena
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.033354	24	1555241	Caulochytrium protostelioides
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.033354	24	1907219	Piptocephalis cylindrospora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.033354	24	1986839	Planctomycetia bacterium TMED53
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.033354	24	2497945	Shimia sediminis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.033354	24	2650976	Scenedesmus sp. NREL 46B-D3
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.031964	23	1428	Bacillus thuringiensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.031964	23	5949	Stylonychia lemnae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.031964	23	43143	Tissierella creatinini
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.031964	23	89957	Polarella glacialis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.031964	23	94023	Acaulospora morrowiae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.031964	23	293387	Bacillus altitudinis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.031964	23	554055	Micractinium conductrix
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.031964	23	1169539	Vitrella brassicaformis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.031964	23	2511990	Enterobacter cloacae complex sp. 4DZ3-17B2
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.030574	22	5911	Tetrahymena thermophila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.030574	22	44689	Dictyostelium discoideum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.030574	22	456999	Rhizoctonia solani
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.030574	22	1684307	Pseudomicrostroma glucosiphilum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.030574	22	2086695	Heterostelium album
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.029184	21	3075	Auxenochlorella protothecoides
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.029184	21	35722	Parasitella parasitica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.029184	21	38833	Micromonas pusilla
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.029184	21	46433	Reticulomyxa filosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.029184	21	121088	Ostreobium quekettii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.029184	21	222440	Streblomastix strix
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.029184	21	994334	Jimgerdemannia flammicorona
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.029184	21	1712513	Syncephalis pseudoplumigaleata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.027795	20	948	Anaplasma phagocytophilum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.027795	20	4837	Phycomyces blakesleeanus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.027795	20	38082	Pneumocystis wakefieldiae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.027795	20	94130	Rhizophagus clarus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.027795	20	101127	Hesseltinella vesiculosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.027795	20	653948	Albugo laibachii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.027795	20	1221601	bacterium endosymbiont of Escarpia laminata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.027795	20	1410381	Amoebophrya sp. A25
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.027795	20	1896186	Mortierella sp. AM989
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.026405	19	1485682	Mitosporidium daphniae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.026405	19	1653778	Chlamydomonas sp. UWO 241
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	666	Vibrio cholerae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	5297	Puccinia graminis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	13706	Syncephalastrum racemosum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	28995	Pleurotus pulmonarius
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	29920	Phytophthora cactorum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	35677	Pelagomonas calceolata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	44056	Aureococcus anophagefferens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	144538	Paraglomus brasilianum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	470934	Pantoea vagans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	1246581	Paramicrosporidium saccamoebae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	1650286	Chlorella desiccata (nom. nud.)
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.025015	18	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	986	Flavobacterium johnsoniae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	5762	Naegleria gruberi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	5811	Toxoplasma gondii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	31276	Perkinsus marinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	33653	Cafeteria roenbergensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	100044	Pleomassaria siparia
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	133385	Smittium simulii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	145388	Monoraphidium neglectum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	167371	Phellinidium pouzarii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	242159	Ostreococcus sp. 'lucimarinus'
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	765719	Pedinophyceae sp. YPF-701
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	1081671	Enterospora canceri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	1291522	Helicosporidium sp. ATCC 50920
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	1938712	Atractiella rhizophila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	2026788	Rickettsiales bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	2496632	Gammaproteobacteria bacterium (ex Lamellibrachia satsuma)
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	2605745	Comamonas sp. CAH-2
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.023626	17	2913551	Shewanella sp. C32
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.022236	16	487	Neisseria meningitidis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.022236	16	48691	Neolecta irregularis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.022236	16	133409	Polysphondylium violaceum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.022236	16	278681	Olpidium bornovanus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.022236	16	1004836	Gluconacetobacter sp. SXCC-1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.022236	16	1712417	Stygiella incarcerata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.022236	16	2202890	Amoebophrya sp. A120
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.022236	16	2562755	Metschnikowia sp. JCM 33374
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.022236	16	2608996	Trebouxia sp. A1-2
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.020846	15	35128	Thalassiosira pseudonana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.020846	15	41880	Pycnococcus provasolii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.020846	15	75058	Bodo saltans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.020846	15	76777	Malassezia sympodialis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.020846	15	139134	Sistotremastrum niveocremeum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.020846	15	139363	Hydnum rufescens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.020846	15	144679	Ambispora leptoticha
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.020846	15	266149	Pseudocohnilembus persalinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.020846	15	944170	Blastocystis sp. subtype 4
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.020846	15	1838287	Gammaproteobacteria bacterium 2W06
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.020846	15	1889775	Moraxellaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	1598	Limosilactobacillus reuteri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	3046	Dunaliella salina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	4896	Schizosaccharomyces pombe
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	5606	Saitoella complicata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	41045	Pythium oligandrum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	44745	Haematococcus lacustris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	61392	Coemansia reversa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	133412	Smittium culicis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	144530	Ambispora gerdemannii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	426638	Chaetoceros tenuissimus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	936053	Rhizopus delemar
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	1144522	Tritrichomonas foetus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	1895795	Myxococcales bacterium 68-20
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	1913988	Alphaproteobacteria bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	2066021	Desulfocapsa sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.019456	14	2767002	Neocallimastix sp. JGI-2020a
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.018067	13	2786	Porphyra umbilicalis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.018067	13	5932	Ichthyophthirius multifiliis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.018067	13	47775	Astrephomene gubernaculifera
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.018067	13	59586	Corynespora cassiicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.018067	13	64648	Mucor saturninus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.018067	13	133381	Smittium megazygosporum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.018067	13	201153	Carpediemonas membranifera
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.018067	13	702518	Colletotrichum asianum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.018067	13	1173061	Geotrichum candidum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.018067	13	1433469	Cetraspora pellucida
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.018067	13	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	5786	Dictyostelium purpureum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	68886	Theileria orientalis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	70448	Ostreococcus tauri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	101091	Choanephora cucurbitarum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	109760	Spizellomyces punctatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	144539	Paraglomus occultum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	264483	Phaffia rhodozyma
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	979761	Lunasporangiospora selenospora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	984092	Claroideoglomus candidum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	1485010	Pythium brassicum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	1754191	Piromyces finnis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	1754192	Anaeromyces robustus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.016677	12	2511984	Enterobacter cloacae complex sp. 2DZ2F2B
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.015287	11	34349	Mixia osmundae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.015287	11	45786	Nadsonia fulvescens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.015287	11	84751	Pseudozyma flocculosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.015287	11	144541	Pseudotulostoma volvatum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.015287	11	313370	Aquifex sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.015287	11	476202	Cardiosporidium cionae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.015287	11	1280837	Meira miltonrushii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.015287	11	1343610	Actinomortierella ambigua
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.015287	11	1869227	bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.015287	11	2340872	Endogone sp. FLAS-F59071
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.015287	11	2853592	Porospora cf. gigantea B
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	4779	Bremia lactucae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	4874	Gigaspora margarita
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	5005	Sporidiobolus salmonicolor
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	5722	Trichomonas vaginalis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	5974	Halteria grandinella
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	13370	Brettanomyces naardenensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	27376	Acaulospora colombiana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	29522	Brachyspira aalborgi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	41875	Bathycoccus prasinos
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	71150	Paxillus involutus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	104408	Naganishia liquefaciens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	116794	Heterodermia speciosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	183589	Pseudo-nitzschia multistriata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	330153	Perkinsus chesapeaki
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	448386	Gracilariopsis chorda
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	451514	Candidatus Magnetococcus massalia
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	688394	Lichtheimia ramosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	867726	Ectocarpus sp. CCAP 1310/34
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	979699	Podila epigama
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.013897	10	1348612	Diversispora epigaea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	1280	Staphylococcus aureus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	27322	Metschnikowia bicuspidata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	44093	Trichomonascus ciferrii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	51930	Tortispora caseinolytica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	88456	Cyclospora cayetanensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	206403	Sulfurovum lithotrophicum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	658196	Glomus cerebriforme
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	1052209	Bathymodiolus brooksi thiotrophic gill symbiont
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	1157962	Chlamydomonas eustigma
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	1213189	Zancudomyces culisetae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	1225785	Dickeya sp. DW 0440
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	1242993	Ehrlichia minasensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	1348616	Dentiscutata erythropus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	1628268	Symbiodinium necroappetens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	1820025	Burkholderia sp. ABCPW 111
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.012508	9	2049356	Monocercomonoides exilis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	303	Pseudomonas putida
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	5191	Ascobolus immersus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	5325	Trametes versicolor
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	5477	[Candida] boidinii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	27342	Schizopora paradoxa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	40457	Fistulina hepatica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	42399	Vittaforma corneae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	48140	Phanerochaete sordida
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	73868	Piromyces sp. E2
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	80842	Herbaspirillum rubrisubalbicans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	83296	Nosema granulosis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	101201	Trichoderma asperellum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	113608	Tetrapisispora phaffii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	157072	Aphanomyces invadans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	303405	Nitzschia inconspicua
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	349221	Micavibrio aeruginosavorus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	542832	Peronospora effusa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	554065	Chlorella variabilis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	932217	Anaerosalibacter bizertensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	1048519	Viridothelium virens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	1673888	Violaceomyces palustris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	1709381	Baudoinia panamericana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	2054153	Mucor circinatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	2315456	Coccomyxa sp. Obi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	2742167	Scenedesmus sp. PABB004
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	2773426	Nocardioides malaquae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.011118	8	2828733	Undibacterium luofuense
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	548	Klebsiella aerogenes
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	3055	Chlamydomonas reinhardtii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	3076	Chlorella sorokiniana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	4897	Schizosaccharomyces japonicus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	5011	Taphrina deformans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	5281	Tilletiaria anomala
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	5478	[Candida] glabrata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	12968	Blastocystis hominis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	36033	Vanderwaltozyma polyspora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	44941	Gigaspora rosea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	53986	Phytophthora idaei
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	54195	Ascoidea rubescens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	61395	Linderina pennispora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	72520	Nannochloropsis gaditana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	175245	uncultured fungus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	186039	Fragilariopsis cylindrus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	197222	Paraglaciecola mesophila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	226899	Grosmannia clavigera
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	309120	Dialister micraerophilus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	317047	Kuraishia capsulata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	413579	uncultured Oxymonadida sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	418781	Teratosphaeria destructans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	429457	Choanoflagellida sp. Z2171C
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	602035	Lachnellula suecica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	679940	Apophysomyces ossiformis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	1737510	Volvox reticuliferus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	1896193	Mortierella sp. NVP85
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	2600232	Tulasnella sp. JGI-2019a
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.009728	7	2665635	Salmonella sp. S146_54837
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	1166	Dolichospermum flos-aquae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	1307	Streptococcus suis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	4829	Absidia glauca
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	5210	Filobasidium floriforme
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	5866	Babesia bigemina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	27289	Naumovozyma dairenensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	29829	Lipomyces starkeyi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	52247	[Candida] inconspicua
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	59799	Angomonas deanei
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	74557	Thraustotheca clavata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	77020	Malassezia pachydermatis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	80388	Stachybotrys elegans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	92637	Metarhizium acridum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	133383	Smittium mucronatum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	202698	Punctularia strigosozonata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	209285	Chaetomium thermophilum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	221518	Phytophthora pseudosyringae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	227086	Bigelowiella natans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	248742	Coccomyxa subellipsoidea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	291193	Gelidibacter salicanalis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	341454	Ascodesmis nigricans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	398843	Rhodococcus kyotonensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	430498	Dactylellina haptotyla
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	442528	Scopulibacillus darangshiensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	703497	Microthyrium microscopicum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	705562	Polychaeton citri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	714531	Chitinivorax tropicus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	944036	Blastocystis sp. subtype 1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	947033	Legionella steelei
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	979673	Entomortierella beljakovae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	979765	Linnemannia zychae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	985762	Staphylococcus agnetis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	1033840	Exophiala aquamarina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	1121252	Cucumibacter marinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	1378264	Wickerhamomyces mucosus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	1569628	Jaminaea rosea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	1874619	Pseudoalteromonas sp. BMB
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	1896174	Umbelopsis sp. PMI_123
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	1977087	Proteobacteria bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	2025994	Coniella lustricola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	2026742	Gemmatimonadetes bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	2037914	Pararhizobium haloflavum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	2182807	Melampsora americana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.008338	6	2687289	Polaribacter sp. 20A6
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	813	Chlamydia trachomatis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	4903	Cyberlindnera jadinii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	5105	Ascosphaera apis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	5875	Theileria parva
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	29394	Dolosigranulum pigrum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	36911	Clavispora lusitaniae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	40419	Auriscalpium vulgare
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	40492	Stereum hirsutum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	41413	Aspergillus glaucus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	41688	Lomentospora prolificans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	42258	Zygosaccharomyces mellis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	44442	Umbelopsis vinacea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	45157	Cyanidioschyzon merolae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	45513	Scheffersomyces spartinae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	49012	Sporisorium scitamineum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	49181	Zoogloea sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	62708	Golovinomyces cichoracearum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	64518	Mortierella alpina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	76775	Malassezia restricta
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	86259	Venturia nashicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	101098	Gamsiella multidivaricata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	120398	Aphanomyces stellatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	150792	Hysterangium stoloniferum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	201230	Macrolepiota fuliginosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	202697	Jaapia argillacea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	282688	Philasterides dicentrarchi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	307502	Wolbachia endosymbiont of Drosophila ananassae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	307507	Raphidocelis subcapitata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	310037	Acaryochloris sp. CCMEE 5410
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	348837	Spironucleus salmonicida
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	372787	Fischerella thermalis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	394432	Cylindrobasidium torrendii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	458711	Halodesulfovibrio marinisediminis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	588726	Kazachstania naganishii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	715481	Trypanosoma melophagium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	979620	Dissophora ornata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	979702	Dissophora globulifera
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	1166482	Pseudomaricurvus alcaniphilus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	1217826	Xylona heveae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	1262685	Acetobacter sp. CAG:977
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	1331704	uncultured Aureispira sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	1340029	Aspergillus eucalypticola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	1485229	Cadophora sp. DSE1049
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	1519565	Fistulifera solaris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	1866961	Amphiamblys sp. WSBS2006
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	1940652	Gomphillus americanus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2013071	Alphaproteobacteria bacterium MarineAlpha3_Bin5
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2020962	Malassezia vespertilionis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2026763	Myxococcales bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2500179	Hwanghaeella grinnelliae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2511172	Sporolactobacillus sp. THM7-7
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2600225	Tulasnella sp. 417
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2665159	Hyphomicrobium album
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2710884	Parapusillimonas sp. SGNA-6
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2786956	Phocaeicola faecalis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2795029	Inhella proteolytica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.006949	5	2829486	Auriculariales sp. MPI-PUGE-AT-0066
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	196	Campylobacter fetus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1354	Enterococcus hirae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1590	Lactiplantibacillus plantarum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2371	Xylella fastidiosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2850	Phaeodactylum tricornutum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2880	Ectocarpus siliculosus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	4781	Plasmopara halstedii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	4808	Blastocladiella emersonii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	4899	Schizosaccharomyces octosporus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	4920	Millerozyma farinosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	5346	Coprinopsis cinerea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	5518	Fusarium graminearum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	5801	Eimeria acervulina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	5802	Eimeria tenella
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	28141	Cronobacter sakazakii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	36056	Boletus edulis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	36914	Lodderomyces elongisporus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	38515	Solieria pacifica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	41804	Mortierella polycephala
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	43439	Wilcoxina mikolae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	45354	[Candida] intermedia
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	46634	Aureobasidium melanogenum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	48254	Torulaspora globosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	60492	Racocetra fulgida
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	60552	Burkholderia vietnamiensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	61186	Monilinia laxa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	62686	Cryptobia helicis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	63146	Calocera viscosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	68825	Rasamsonia emersonii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	72124	Hygrophoropsis aurantiaca
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	83540	Cryptosporidium felis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	85575	Scutellospora calospora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	101852	Glarea lozoyensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	109636	Pholiota conissans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	110365	Gregarina niphandrodes
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	114155	Dichomitus squalens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	114497	Cordyceps fumosorosea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	134006	Phytomonas sp. isolate EM1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	135588	Histomonas meleagridis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	139390	Plicaturopsis crispa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	147573	Piedraia hortae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	152965	Russula ochroleuca
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	178872	Pisolithus microcarpus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	200254	Aromatoleum buckelii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	202700	Amylocystis lapponica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	205924	Entomortierella parvispora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	215803	Enhygromyxa salina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	253628	Verruconis gallopava
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	265491	Astraeus odoratus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	302913	Elsinoe ampelina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	303698	Penicillium steckii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	307937	Dactylonectria macrodidyma
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	318829	Pyricularia oryzae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	340412	Aspergillus novofumigatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	361140	Rostrostelium ellipticum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	378272	Irpex rosettiformis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	394096	Hyalangium minutum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	432096	Kazachstania africana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	498730	uncultured Saccharopolyspora sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	682386	uncultured Corallinales
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	683308	Frankia sp. CH37
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	698440	Drepanopeziza brunnea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	756892	Acinetobacter indicus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	878477	Symbiodinium natans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1095465	Bondarzewia mesenterica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1159556	Ustilaginoidea virens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1301914	Wolbachia endosymbiont of Pentalonia nigronervosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1314962	Perkinsela sp. CCAP 1560/4
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1325360	Paenibacillus segetis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1325616	Butyriboletus roseoflavus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1385715	Hymenobacter qilianensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1392244	Kalmanozyma brasiliensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1419009	Clathrus columnatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1469170	Longimonas halophila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1504671	Delitschia confertaspora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1764962	Epulopiscium sp. Nele67-Bin004
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1896187	Mortierella sp. GBA30
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1898206	Spirochaetaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	1960156	Abditibacterium utsteinense
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2026887	Nitrospirae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2029104	Pseudooceanicola lipolyticus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2030880	SAR86 cluster bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2035421	bacterium HR26
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2044939	Clostridia bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2049433	Desulfobacteraceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2053607	Candidatus Rokubacteria bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2056845	Sphingomonas sp. HMWF008
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2067452	Tabrizicola sp. TH137
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2163413	Metschnikowia aff. pulcherrima
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2171997	Candidatus Nanosyncoccus alces
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2315449	Yamadazyma tenuis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2496275	Nephromyces sp. MMRI
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2571272	Pedobacter frigoris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2586908	Vineibacter terrae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2606893	Saprochaete ingens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2608631	Winogradskyella ouciana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2662263	Paraferrimonas sp. SM1919
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2676312	Oceanobacillus sp. HTM 045
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2732470	Bacidia gigantensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2761535	Pseudonocardia sp. CGMCC 4.1532
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2873383	Micromonospora sp. PLK6-60
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.005559	4	2898423	Flavobacterium salilacus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	259	Sphingobacterium thalpophilum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	615	Serratia marcescens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	821	Phocaeicola vulgatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1010	Sphingobacterium mizutaii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1160	Planktothrix agardhii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1850	Actinopolyspora halophila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1993	Actinomadura madurae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	3067	Volvox carteri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	3111	Prototheca wickerhamii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	4796	Phytophthora palmivora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	4846	Rhizopus stolonifer
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	4955	Lachancea fermentati
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5208	Cryptococcus depauperatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5217	Tremella mesenterica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5219	Exidia glandulosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5286	Rhodotorula toruloides
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5288	Rhodotorula diobovata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5334	Schizophyllum commune
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5341	Agaricus bisporus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5364	Heliocybe sulcata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5365	Lentinus tigrinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5630	Laetiporus sulphureus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5643	Trametes cinnabarina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	5804	Eimeria maxima
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	29889	Calocera cornea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	32597	Perkinsus olseni
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	33097	Gonium pectorale
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	34480	Basidiobolus ranarum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	36659	Volvariella volvacea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	36809	Mycobacteroides abscessus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	38799	Neolentinus lepideus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	43667	Glutamicibacter uratoxydans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	43669	Brachybacterium faecium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	45286	Eremothecium sinecaudum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	45357	[Candida] haemuloni
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	45607	Wickerhamiella sorbophila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	47281	Edaphochlamys debaryana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	48578	Suillus paluster
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	51637	Naegleria lovaniensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	55214	Brenneria salicis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	61424	Furculomyces boomerangus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	64522	Linnemannia gamsii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	64523	Podila humilis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	64524	Linnemannia hyalina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	64525	Podila minutissima
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	64571	Lobosporangium transversale
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	65357	Albugo candida
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	68777	Cyathus striatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	68786	Sphaerobolus stellatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	81526	Monosiga ovata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	85980	Leucogyrophana mollusca
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	85982	Serpula lacrymans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	90253	Actinomortierella wolfii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	97098	Mucor plumbeus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	101480	Trichophyton interdigitale
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	104341	Postia placenta
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	106004	Leucosporidium creatinivorum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	109633	Galerina marginata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	109899	Serendipita vermifera
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	112489	Dissoconium aciculare
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	142831	Coremiostelium polycephalum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	147570	Myriangium duriaei
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	150359	Sporothrix insectorum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	152480	Burkholderia ambifaria
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	157538	Leptomonas pyrrhocoris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	158841	Leminorella richardii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	167644	Ilyobacter tartaricus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	179467	Oxalicibacterium flavum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	206315	Gymnopus confluens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	208348	Puccinia triticina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	208960	Fomitiporia mediterranea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	215250	Acaromyces ingoldii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	221428	Polytolypa hystricis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	253256	Soehngenia saccharolytica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	256645	Dendryphion nanum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	257571	Cystoclonium purpureum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	279532	Dictyocoela muelleri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	286661	Peltaster fructicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	321852	Arthrobotrys entomopaga
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	325452	Phytophthora kernoviae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	329885	Friedmanniomyces endolithicus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	355243	Amphritea atlantica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	381431	Panacagrimonas perspica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	392734	Terriglobus roseus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	440168	Pelagibacterium luteolum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	462254	Aplosporella prunicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	543632	Actinoplanes subtropicus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	568099	Litorimonas taeanensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	578093	Lineolata rhizophorae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	641691	Pricia antarctica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	671214	Oribacterium sp. oral taxon 102
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	682080	Polyplosphaeria fusca
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	683042	Leucobacter denitrificans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	713887	Candidatus Atelocyanobacterium thalassa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	797122	Kipferlia bialata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	979690	Gryganskiella cystojenkinii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1004511	Amanita polypyramis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1054997	Sticholonche zanclea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1081669	Hepatospora eriocheir
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1176130	Aulographum hederae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1202772	Achlya hypogyna
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1220188	Aspergillus tanneri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1279027	Hippea alviniae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1314805	Vararia minispora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1316150	Dentiscutata heterogama
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1325293	Mycena kentingensis (nom. inval.)
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1333998	Tepidicaulis marinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1450552	Coniochaeta sp. PMI_546
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1485228	Flagelloscypha sp. PMI_526
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1506992	Thozetella sp. PMI_491
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1582974	Ceratobasidium theobromae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1605993	Wolbachia endosymbiont of Dactylopius coccus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1633335	Thalassobaculum fulvum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1708541	Wallemia mellicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1750698	Arsenicibacter rosenii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1797625	Chloroflexi bacterium RBG_13_51_36
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1798312	Gemmatimonadetes bacterium RIFCSPLOWO2_02_FULL_71_11
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1798512	Candidatus Kaiserbacteria bacterium RIFCSPLOWO2_01_FULL_54_13
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1803481	Actinobacteria bacterium 13_1_20CM_4_69_9
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1841509	Nostoc minutum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1892596	Neptunicoccus sediminis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1896314	Streptomyces sp. CBMA29
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1899563	Thiotrichales bacterium HS_08
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1914213	Chiua virens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1954211	Bisporella sp. PMI_857
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1974483	Candidatus Shapirobacteria bacterium CG10_big_fil_rev_8_21_14_0_10_38_14
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1974768	Candidatus Pacebacteria bacterium CG10_big_fil_rev_8_21_14_0_10_42_12
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	1986720	Crocinitomicaceae bacterium TMED114
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2012485	Candidatus Aerophobetes bacterium Ae_b3a
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2013741	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-14
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2015576	Bradyrhizobiaceae bacterium PARB1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2026729	Cytophagaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2035434	bacterium HR39
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2048520	Pleurotus ostreatoroseus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2052148	candidate division WOR-3 bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2052831	Methanocella sp. CWC-04
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2053541	Cytophagales bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2070368	Nonomuraea aridisoli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2082308	Sphaceloma murrayae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2161747	Saccharospirillum mangrovi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2163644	Candidatus Deianiraea vastatrix
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2200906	endosymbiont of Galathealinum brachiosum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2250257	Candidatus Verstraetearchaeota archaeon
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2320252	Salpingoeca surira
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2447956	Antrodiella citrinella
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2480587	Psilocybe cf. subviscida
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2484901	Leptospira ilyithenensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2518983	Glycocaulis profundi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2528208	Lewinella sp. W8
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2570323	Pseudorivibacter rhizosphaerae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2592335	Kallotenue sp. CFH 73958
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2592383	Aliikangiella coralliicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2599600	Nitratireductor sp. SY7
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2600177	Bradymonadales bacterium V1718
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2600202	Ceratobasidium sp. 392
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2600223	Tulasnella sp. 403
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2614602	Xylogone sp. PMI_703
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2614609	Xylariomycetidae sp. FL2044
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2663370	Nemania sp. FL0031
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2690220	Cyanidiococcus yangmingshanensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2691898	Flavobacterium sp. SaA2.13
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2698480	Pneumocystis sp. 'macacae'
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2699202	Rhodobacter tardus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2703788	Edaphobacter sp. 12200R-103
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2721175	Sphingomonas sp. dw_22
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2754530	Protomyces lactucae-debilis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2762620	Acetobacter sp. P5B1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2762760	Pelagibius sp. NBU2595
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2763506	Hymenobacter citatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2817656	Marinobacter sp. CA1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2826082	Fusarium sp. MPI-SDFR-AT-0072
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2842455	Alkalihalobacillus sp. TS-13
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.004169	3	2917758	Psychrobium sp. MM17-31
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	106	Runella slithyformis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	197	Campylobacter jejuni
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	316	Pseudomonas stutzeri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	480	Moraxella catarrhalis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	738	Glaesserella parasuis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	784	Orientia tsutsugamushi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1311	Streptococcus agalactiae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1376	Aerococcus urinae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1613	Limosilactobacillus fermentum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1767	Mycobacterium intracellulare
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2340	Solemya velum gill symbiont
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	4754	Pneumocystis carinii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	4785	Phytophthora cinnamomi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	4876	Rhizophagus intraradices
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	4999	Kockovaella imperatae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	5065	Aspergillus sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	5141	Neurospora crassa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	5180	Sclerotinia sclerotiorum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	5417	Vanrija humicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	5570	Cenococcum geophilum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	5665	Leishmania mexicana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	5699	Trypanosoma vivax
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	5763	Naegleria fowleri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	5865	Babesia bovis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	5872	Theileria equi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	5874	Theileria annulata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	13373	Burkholderia mallei
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	27288	Naumovozyma castellii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	27349	Puccinia sorghi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	28137	Prevotella veroralis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	28161	Conservatibacter flavescens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	28573	Talaromyces islandicus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	31312	Nephroselmis olivacea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	31325	Goniomonas truncata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	31452	Plocamium cartilagineum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	34086	Pedobacter antarcticus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	36022	Cyberlindnera fabianii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	36058	Xerocomus badius
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	38457	Monilinia fructigena
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	40302	Nosema ceranae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	40437	Daedalea quercina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	41956	Amanita muscaria
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	42467	Thraustochytrium aureum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	43985	Galactomyces reessii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	45067	Legionella lansingensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	45656	Desulfonema limicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	46171	Nonomuraea africana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	47238	Drechslerella brochopaga
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	47253	Leptolyngbya foveolarum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	47911	Entodinium caudatum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	51314	Eimeria brunetti
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	52586	Erysiphe necator
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	53685	Hanseniaspora valbyensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	53985	Phytophthora fragariae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	56493	Thelephora terrestris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	58291	Rhizopus microsporus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	58919	Tilletiopsis washingtonensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	61459	Coniosporium apollinis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	64495	Rhizopus arrhizus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	65129	Paramecium sonneborni
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	65672	Serendipita indica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	68775	Crucibulum laeve
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	69771	Penicillium decumbens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	69781	Penicillium oxalicum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	71717	Coprinellus micaceus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	71804	Trypanosoma grayi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	71945	Hypholoma sublateritium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	76759	Pseudomonas monteilii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	77046	Xylaria polymorpha
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	78148	Oidiodendron maius
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	78579	Thermothelomyces thermophilus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	79548	marine bacterium B5-7
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	81535	Stephanoeca diplocostata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	82508	Trichosporon asahii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	83451	Archangium violaceum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	84607	Agrocybe pediades
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	87326	Amanita brunnescens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	87883	Burkholderia multivorans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	90262	Absidia repens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	96345	Flavobacterium psychrophilum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	98765	Hermanssonia centrifuga
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	101142	Thamnidium elegans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	101203	Saprolegnia parasitica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	104176	Oscillochloris trichoides
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	105984	Apiotrichum porosum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	111831	Defluviicoccus vanus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	117820	Spizellomyces sp. 'palustris'
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	119927	Alternaria tenuissima
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	121128	Helicocarpus griseus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	127956	Phellopilus nigrolimitatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	130810	[Candida] arabinofermentans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	136089	Malawimonas jakobiformis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	138277	Aspergillus melleus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	149040	Mollisia scopiformis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	152500	Burkholderia dolosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	153496	Kozakia baliensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	158046	Phaeomoniella chlamydospora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	159317	Eurychasma dicksonii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	164328	Phytophthora ramorum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	180195	Herbaspirillum autotrophicum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	187400	Paracoccus zeaxanthinifaciens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	206335	Rhodocollybia butyracea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	217478	Salishia firma
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	221103	Moniliophthora roreri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	221721	Jakoba bahamiensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	223192	Phaeoacremonium minimum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	228604	Prevotella salivae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	230812	Mycena sanguinolenta
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	253239	Ethanoligenens harbinense
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	256035	Glycomyces arizonensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	257860	Polysiphonia scopulorum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	258981	Russula dissimulans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	264124	Botryobasidium botryosum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	264697	Peribacillus muralis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	279262	Nocardia mexicana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	280473	Aquiflexum balticum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	293275	Cladocopium sp. clade C
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	310047	Cryptosporidium bovis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	311239	Podila horticola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	317577	Deinococcus ficus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	318751	Westerdykella ornata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	319626	Aspergillus homomorphus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	328396	Enterococcus aquimarinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	330517	Panaeolus papilionaceus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	332947	Hirsutella minnesotensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	349313	Krasilnikovia cinnamomea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	364733	Endocarpon pusillum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	376733	Paracoccus halophilus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	429465	Bodonidae sp. RS407A2
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	447679	Ekhidna lutea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	460523	Ogataea polymorpha
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	462227	Babesia sp. Xinjiang
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	505693	Chromera velia
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	655186	uncultured SUP05 cluster bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	658473	Mycena chlorophos
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	659016	Pusillimonas soli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	671218	Alloprevotella rava
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	691689	Lutibacter flavus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	716816	Oceanicoccus sagamiensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	718367	Peniophora sp. CBMAI 1063
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	741139	Lepidopterella palustris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	746128	Aspergillus fumigatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	747076	Tepidamorphus gemmatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	761804	Mycobacterium europaeum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	879819	Cutaneotrichosporon oleaginosum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	885475	Salipaludibacillus neizhouensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	979670	Mortierella antarctica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	979697	Podila epicladia
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	979712	Entomortierella lignicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	990373	Humitalea rosea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1028796	Codosiga botrytis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1038867	Bradyrhizobium sp. WSM3983
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1041607	Wickerhamomyces ciferrii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1048955	Tothia fuscella
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1053134	Fusarium zealandicum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1064514	Lamprobacter modestohalophilus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1077675	Enterococcus plantarum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1110389	Verminephrobacter aporrectodeae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1114878	Geobacter luticola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1117310	Funneliformis caledonium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1131652	Talaromyces proteolyticus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1134496	Crithidia dedva
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1166683	Rhizobium cauense
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1166950	Candidatus Thiodictyon syntrophicum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1213867	Diversispora eburnea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1216932	Clostridium bornimense
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1218508	Bombilactobacillus mellis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1230097	Cytospora leucostoma
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1249101	Mycolicibacterium celeriflavum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1267423	Roseivirga pacifica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1302862	Sodiomyces alkalinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1329796	Risungbinella massiliensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1400862	Candidatus Competibacter denitrificans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1441469	Talaromyces atroroseus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1450171	Aaosphaeria arxii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1461337	Aestuariispira insulae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1486700	Clavulina sp. PMI_390
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1503470	cyanobacterium TDX16
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1524460	Phaeodactylibacter xiamenensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1540922	Wallemia hederae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1610689	Sarocladium implicatum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1619010	Candidatus Wolfebacteria bacterium GW2011_GWC1_37_10
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1622150	Pseudogymnoascus sp. 24MN13
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1629404	Denitromonas halophilus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1644129	Rhodococcus agglutinans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1675527	Candidatus Rhodobacter lobularis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1678310	Planktothrix serta
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1690039	Monaibacterium marinum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1704235	Chlamydiae bacterium SM23_39
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1708749	Tenggerimyces flavus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1742264	Sphingobacterium chuzhouense
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1777271	Pseudoalteromonas sp. CO348
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1797488	Betaproteobacteria bacterium RIFCSPLOWO2_02_FULL_65_20
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1797496	Betaproteobacteria bacterium RIFCSPLOWO2_12_FULL_62_13b
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1798213	Pseudovibrio sp. Tun.PSC04-5.I4
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1798552	Candidatus Komeilibacteria bacterium RIFCSPLOWO2_01_FULL_53_11
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1801708	Nitrospirae bacterium RBG_16_64_22
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1801817	Omnitrophica bacterium GWA2_52_8
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1803508	Alphaproteobacteria bacterium CG1_02_46_17
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1827144	Synechococcus sp. NIES-970
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1848298	Hemiarma marina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1848973	Sphingomonas colocasiae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1852820	Bacteroidetes bacterium ADurb.BinA395
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1855300	Polaromonas sp. OV174
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1882483	Testicularia cyperi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1882831	Verrucomicrobium sp. GAS474
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1883446	Rhodanobacter sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1884261	Pterula gracilis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1886765	Stenomitos frigidus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1891026	Thalassiosira sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1895825	Rhodospirillales bacterium 69-11
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1896179	Mortierella sp. AD010
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1909294	Hyphomicrobiales bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1924737	Salpingoeca kvevrii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1965318	Draconibacterium sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1973897	Alphaproteobacteria bacterium CG_4_10_14_0_8_um_filter_37_21
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1974635	Candidatus Lloydbacteria bacterium CG22_combo_CG10-13_8_21_14_all_47_15
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1974785	Candidatus Peregrinibacteria bacterium CG10_big_fil_rev_8_21_14_0_10_42_8
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1978229	Beijerinckiaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1983721	Metabacillus lacus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1986590	Roseibacillus sp. TMED18
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1986666	Betaproteobacteria bacterium TMED100
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	1986842	Cellvibrionales bacterium TMED49
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2010828	Aquipluma nitroreducens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2013677	Bacteroidetes bacterium HGW-Bacteroidetes-1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2014311	Elusimicrobia bacterium CG11_big_fil_rev_8_21_14_0_20_64_6
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2022438	Mongoliibacter sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2026714	Candidatus Bathyarchaeota archaeon
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2026748	Hyphomonadaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2026947	Chlamydomonas schloesseri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2030809	Candidatus Hydrogenedentes bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2035772	Candidatus Omnitrophica bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2041840	Galactobacillus timonensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2043166	Candidatus Sulfopaludibacter sp. SbA6
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2043611	Ustilago sp. UG-2017b
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2044936	Bacteroidia bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2047966	Dongshaea marina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2053303	Marinilabiliales bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2053459	Termitomyces sp. T159_Od127
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2058893	Arthrobacter sp. DWC3
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2073160	Acuticoccus kandeliae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2093792	Candidatus Aenigmarchaeota archaeon
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2202144	Spirochaetes bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2211119	Lujinxingia litoralis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2212469	Calditrichaeota bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2219864	Sinomicrobium sp. N-1-3-6
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2250085	Candidatus Hydrothermae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2303538	Salinimonas sediminis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2303987	Motilimonas pumila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2304574	Neglectibacter sp. X58
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2316722	Corallococcus aberystwythensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2338552	Parashewanella curva
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2483804	Lunatibacter salilacus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2487934	Arthrospiribacter ruber
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2498858	Halomonas populi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2510334	OM182 bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2510978	Amycolatopsis suaedae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2527991	Pseudobythopirellula maris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2544991	Nephromyces sp. ex Molgula occidentalis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2567896	Polyangium aurulentum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2572930	Choanoeca flexa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2583587	Aggregatimonas sangjinii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2587847	Roseovarius sp. THAF9
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2614577	Emericellopsis atlantica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2614600	Diaporthaceae sp. PMI_573
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2614610	Xylariaceae sp. FL0662B
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2652290	Scrofimicrobium canadense
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2661937	Ferruginivarius sediminum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2675880	Fusarium flagelliforme
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2698477	Pneumocystis canis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2706883	Aliiroseovarius sp. PrR006
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2714928	Erysipelothrix sp. HDW6A
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2721164	Pseudoruegeria sp. HB172150
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2722702	Salinimicrobium oceani
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2748771	Athelia sp. TMB
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2760087	Aequorivita sp. 609
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2779575	Enterobacter cloacae complex sp. P18RS
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2804532	Belnapia mucosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2823693	Caulobacter sp. S6
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2826081	Coprinopsis sp. MPI-PUGE-AT-0042
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2831590	Buttiauxella massiliensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2834409	Algiphilus sp. NNCM1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2835871	Williamsia sp. CHRR-6
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2849041	Marinobacterium ramblicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.002779	2	2907145	Sinirhodobacter sp. WL0062
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	33	Myxococcus fulvus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	48	Archangium gephyra
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	52	Chondromyces crocatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	82	Hyphomicrobium sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	192	Azospirillum brasilense
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	210	Helicobacter pylori
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	375	Bradyrhizobium japonicum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	418	Methylomonas sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	546	Citrobacter freundii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	747	Pasteurella multocida
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	892	Desulfuromonas sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	894	Desulfobulbus propionicus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1027	Microscilla marina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1165	Anabaena cylindrica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1314	Streptococcus pyogenes
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1404	Priestia megaterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1405	Bacillus mycoides
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1561	Clostridium baratii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1938	Streptomyces viridochromogenes
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2771	Cyanidium caldarium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2866	Crypthecodinium cohnii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	3107	Hydrodictyon reticulatum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	4784	Phytophthora capsici
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	4924	Scheffersomyces stipitis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	4927	Wickerhamomyces anomalus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	4932	Saccharomyces cerevisiae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	4952	Yarrowia lipolytica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	4956	Zygosaccharomyces rouxii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5007	Brettanomyces bruxellensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5067	Aspergillus parasiticus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5101	Amorphotheca resinae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5116	Cryphonectria parasitica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5270	Ustilago maydis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5353	Lentinula edodes
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5383	Suillus spraguei
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5400	Agrocybe aegerita
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5481	Diutina rugosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5499	Fulvia fulva
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5627	Grifola frondosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5632	Lenzites betulinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5741	Giardia intestinalis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5742	Giardia muris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5791	Physarum polycephalum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5854	Plasmodium reichenowi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5868	Babesia microti
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	5936	Moneuplotes crassus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	27973	Encephalitozoon hellem
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	28005	Strigomonas culicis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	28092	Robbsia andropogonis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	28107	Pseudoalteromonas espejiana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	28108	Alteromonas macleodii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	29176	Neospora caninum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	29372	Clostridium thermobutyricum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	29898	Rhodotorula graminis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	31302	Chromochloris zofingiensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	33085	Entamoeba invadens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	33188	Uncinocarpus reesii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	33203	Purpureocillium lilacinum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	33945	Enterococcus avium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	34373	Blumeria graminis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	35231	Nosema apis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	36035	Saccharomycodes ludwigii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	36330	Plasmodium ovale
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	36738	Halococcus salifodinae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	38307	Gluconobacter cerinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	38448	Monilinia fructicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	40127	Neurospora tetrasperma
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	41063	Penicilliopsis zonata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	41248	Mycena galopus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	41456	Polymyxa betae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	42067	Pneumocystis oryctolagi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	42068	Pneumocystis jirovecii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	42260	Zygotorulaspora mrakii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	42353	Nitrosomonas sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	42858	Mammaliicoccus lentus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	44576	Nitrosomonas halophila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	44640	Choiromyces venosus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	45142	Cucurbitaria berberidis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	45428	Amylocarpus encephaloides
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	45979	Nocardia pseudobrasiliensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	46172	Nonomuraea angiospora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	46583	Suhomyces tanzawaensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	47266	Dactylellina cionopaga
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	48021	Artomyces pyxidatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	48568	Suillus cothurnatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	48569	Suillus decipiens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	51656	Kluyveromyces dobzhanskii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	52556	Synura sphagnicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	54291	Raoultella ornithinolytica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	58839	Encephalitozoon intestinalis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	63577	Trichoderma atroviride
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	64363	Dothistroma septosporum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	64567	Linnemannia schmuckeri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	64609	Ilyonectria destructans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	68788	Scleroderma citrinum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	70189	Olpidium brassicae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	70452	Diacronema vlkianum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	71784	Naematelia encephala
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	72032	Thielaviopsis punctulata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	77105	Sclerotinia borealis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	77922	Cyanoptyche gloeocystis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	78410	Neonectria ditissima
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	78921	Tieghemiomyces parasiticus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	80637	Coniophora puteana
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	80663	Piloderma croceum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	80881	Simplicispira metamorpha
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	82310	Phlebiopsis gigantea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	82516	Apiotrichum gracile
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	83455	Myxococcus stipitatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	83554	Chlamydia psittaci
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	83891	Trypanosoma conorhini
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	84031	Clostridium sartagoforme
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	84032	Pseudoclostridium thermosuccinogenes
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	85971	Gyrodon lividus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	89051	Gordonia desulfuricans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	89968	Hymenobacter gelipurpurascens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	90426	Methanothrix sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	91624	Clostridium acidisoli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	95605	Azospirillum sp. B4
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	97359	Auriculariopsis ampla
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	97972	Periconia macrospinosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	100019	Didymella exigua
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	100035	Massariosphaeria phaeospora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	108461	Ophiostoma quercus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	109635	Flammula alnicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	111770	Thiothrix fructosivorans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	112098	Saprolegnia diclina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	112417	Gautieria morchelliformis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	112498	Ramularia collo-cygni
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	113071	Ramaria rubella
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	116821	Physcia stellaris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	117069	Sphagnurus paluster
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	117070	Tephrocybe rancida
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	133377	Smittium angustum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	134849	Cryptosporangium aurantiacum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	136548	Nitrosospira sp. Nsp2
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	137993	Ectobacillus funiculus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	138118	Quatrionicoccus australiensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	139825	Sparassis crispa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	140057	Roseospira marina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	143451	Plasmopara viticola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	156131	Prasinococcus capsulatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	156213	Anabaenopsis elenkinii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	159720	Fuligo septica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	162425	Aspergillus nidulans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	165185	uncultured Eubacterium sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	170000	Phakopsora pachyrhizi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	171480	Cortinarius glaucopus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	177197	Coniochaeta ligniaria
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	177199	Coniochaeta pulveracea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	179283	Pterothamnion yezoense
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	179855	Crepidotus variabilis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	181527	Pluteus cervinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	181874	Panaeolus cyanescens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	182062	Tetrapyrgos nigripes
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	184978	Decorospora gaudefroyi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	204891	Nocardia iowensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	205917	Dentipellis fragilis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	208596	Carnobacterium sp. 17-4
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	211096	Hanseniaspora opuntiae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	212602	Oidium neolycopersici
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	212818	Exophiala mesophila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	215243	Exophiala oligosperma
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	217070	Stella vacuolata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	218848	Proterospongia choanojuncta
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	225196	Geopsychrobacter electrodiphilus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	230819	Coprinopsis marcescibilis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	235205	Bathymodiolus azoricus thioautotrophic gill symbiont
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	235537	Amanita thiersii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	238991	Thermosipho atlanticus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	239935	Akkermansia muciniphila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	246130	uncultured Gemmatimonadaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	247633	marine gamma proteobacterium HTCC2143
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	254901	Claviceps digitariae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	255045	Bradyrhizobium canariense
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	257772	Halomonas organivorans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	264951	Paecilomyces variotii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	265668	Vibrio ponticus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	269621	Microbotryum intermedium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	279832	Suttonella ornithocola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	280036	Sporisorium graminicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	285540	Streptomyces thermolilacinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	296797	Chlorociboria aeruginascens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	305860	Ceratobasidium sp. AG-I
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	307643	Exiguobacterium profundum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	309742	Mesogloia ikomae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	314127	Drechslerella stenobrocha
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	319627	Aspergillus sclerotioniger
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	321831	Phlebia sp. MG60
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	324770	Kwoniella dejecticola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	327079	Pseudozyma hubeiensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	330214	Nitrospira defluvii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	333368	Rhodoblastus sphagnicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	333708	Sphingosinicella soli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	336203	Sphingobium fuliginis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	340170	Spathaspora passalidarum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	343232	methanotrophic endosymbiont of Bathymodiolus azoricus (Menez Gwen)
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	354080	Cudoniella acicularis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	356828	Alloscardovia criceti
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	356882	Valsa malicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	359370	Microbulbifer sp. A4B17
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	361085	Synstelium polycarpum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	390880	Roseospira visakhapatnamensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	391066	Dysnectes brevis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	392015	Alicyclobacillus macrosporangiidus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	395010	Zasmidium cellare
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	396806	Symphyocladia latiuscula
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	410723	Pythium quercum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	427923	Desulfurivibrio alkaliphilus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	437507	Robiginitomaculum antarcticum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	450367	[Brevibacterium] frigoritolerans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	452629	Amphritea balenae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	453220	Desulfogranum marinum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	453575	Pusillimonas ginsengisoli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	455074	Amniculicola lignicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	455432	Nocardia terpenica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	459534	Didymoeca costata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	460514	[Candida] californica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	470096	Pseudovirgaria hyperparasitica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	473813	Salpingoeca urceolata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	474922	Colletotrichum gloeosporioides
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	497635	uncultured Paludibacter sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	502181	Actinophytocola oryzae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	515981	Cryptosporidium ryanae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	516698	Alteromonas halophila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	522488	Deinococcus aerophilus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	530044	Arthromyces matolae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	530045	Blastosporella zonata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	543023	uncultured Truepera sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	546367	Hafnia paralvei
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	551788	Caldicoprobacter oshimai
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	552467	Cryptococcus gattii VGIII
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	561895	[Candida] subhashii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	571177	Desulfosarcina alkanivorans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	577311	Aspidisca leptaspis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	580166	Oceanibaculum pacificum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	599839	Fibroporia radiculosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	626931	Bacteroides oleiciplenus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	655015	Methylocystis bryophila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	663603	Actinomycetospora succinea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	670956	Candidatus Uzinura diaspidicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	673940	Lindgomyces ingoldianus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	690417	Paracoccus sphaerophysae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	692418	Reichenbachiella faecimaris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	703511	Trichodelitschia bisporula
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	703756	Colletotrichum simmondsii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	704171	Mesodinium rubrum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	706561	Salinomyces thailandica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	708113	Terrihabitans soli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	708132	Oligoflexus tunisiensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	708187	Colletotrichum chlorophyti
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	718229	Sporormia fimetaria
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	720633	Lysinibacillus composti
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	741276	Rhodotorula taiwanensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	741659	Virgisporangium aliadipatigenens
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	746032	Mobilicoccus pelagius
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	748908	Alpinimonas psychrophila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	765867	Pyrenochaeta sp. DS3sAY3a
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	768535	Acidipila rosea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	861532	Ammoniphilus resinae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	869814	Desulfobulbus alkaliphilus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	888997	Calothrix rhizosoleniae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	935700	Jannaschia aquimarina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	946333	Rhizobacter gummiphilus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	989403	Pseudovibrio axinellae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1000566	Halosaccharopolyspora lacisalsi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1002672	Candidatus Pelagibacter sp. IMCC9063
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1036180	Massilia lurida
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1041504	Candidatus Arthromitus sp. SFB-rat-Yit
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1042127	Aureobasidium subglaciale
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1042376	Ochrovirga pacifica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1047168	Zymoseptoria brevis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1071379	Tetrapisispora blattae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1073253	Thermocatellispora tengchongensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1094350	Geosmithia morbida
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1117309	Funneliformis coronatus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1124597	Magnetococcus marinus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1150157	Bacillus bingmayongensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1162706	uncultured Solirubrobacteraceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1166340	Sphingomonas gellani
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1168729	Nocardioides zhouii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1173028	Oscillatoria sp. PCC 10802
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1173995	Parvularcula dongshanensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1184151	Opitutaceae bacterium TSB47
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1196081	Talaromyces amestolkiae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1198452	Janthinobacterium sp. HH01
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1231657	Clohesyomyces aquaticus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1250544	Sphaerosporella brunnea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1256514	Novosphingobium arvoryzae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1262813	Clostridium sp. CAG:492
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1263026	Firmicutes bacterium CAG:475
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1265690	Nafulsella turpanensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1280946	Hyphomonas beringensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1300035	Bradyrhizobium retamae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1306991	Pseudomaricurvus alkylphenolicus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1314803	Dendrothele bispora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1341166	Eremomyces bilateralis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1378263	Ogataea philodendri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1379270	Gemmatimonas phototrophica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1399860	Ophiocordyceps australis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1414136	Wolbachia endosymbiont of Camponotus MG003
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1416533	Fontibacillus phaseoli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1434700	Moheibacter sediminis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1434821	Oceanospirillum sanctuarii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1437523	Domibacillus indicus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1440133	Modicella reniformis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1442555	Synechococcus sp. NOUM97013
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1447940	Gymnopus androsaceus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1453555	Streptomyces sp. SW4
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1457234	Nocardioides zeae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1463662	Pseudomonas sp. CHM02
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1484486	Myzocytiopsis osiris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1492817	Colponema vietnamica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1495045	Thermopetrobacter sp. TC1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1513793	Pseudobacteriovorax antillogorgiicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1524831	Pseudogymnoascus sp. 23342-1-I1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1528106	Thalassospira australica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1539049	Dinghuibacter silviterrae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1540896	Pseudanabaena sp. FACHB-1277
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1566827	Aquisalinus luteolus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1577725	Conticribra weissflogii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1603295	fungal sp. No.11243
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1632858	Massilibacterium senegalense
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1634955	Algoriphagus aestuarii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1639689	Pontivivens insulae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1652492	Donghicola tyrosinivorans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1660125	Pelagibacterium sp. SCN 64-44
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1670608	Glutinoglossum americanum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1677008	Batrachospermum dapsile
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1685124	miscellaneous Crenarchaeota group-1 archaeon SG8-32-1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1690483	Bacteroidetes bacterium UKL13-3
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1703355	Gemmatimonas sp. SG8_17
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1703358	Gemmatimonas sp. SG8_38_2
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1710701	Epulopiscium sp. SCG-B11WGA-EpuloA1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1712416	Stygiella cryptica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1714833	Leucoagaricus sp. SymC.cos
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1715255	Xylaria sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1715691	Cognatishimia activa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1720261	Telluribacter humicola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1735581	Kordiimonas sediminis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1774956	Pseudoalteromonas profundi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1792845	Mucilaginibacter pedocola
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1797190	Acidobacteria bacterium RIFCSPLOWO2_12_FULL_66_10
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1797384	Bdellovibrionales bacterium GWA2_49_15
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1797661	Chloroflexi bacterium RBG_16_69_14
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1797678	Clostridiales bacterium GWC2_40_7
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1798276	Gammaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_37_14
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1798578	Lentisphaerae bacterium RIFOXYA12_FULL_48_11
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1801816	Omnitrophica bacterium GWA2_52_12
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1801959	Planctomycetes bacterium GWF2_50_10
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1802004	Pseudomonadales bacterium RIFCSPHIGHO2_01_FULL_64_12
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1805319	Parcubacteria group bacterium CG2_30_45_37
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1805366	Candidatus Rokubacteria bacterium 13_1_40CM_68_15
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1805483	Nematocida displodere
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1810919	Aspergillus mulundensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1812111	Wolbachia endosymbiont of Cruorifilaria tuberocauda
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1814901	Dactylella cylindrospora
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1817878	Candidatus Schekmanbacteria bacterium RBG_13_48_7
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1817964	Shinella curvata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1849104	Mesorhizobium sediminum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1849581	Dyella caseinilytica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1852370	Prevotellamassilia timonensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1852787	Acidobacteria bacterium ADurb.Bin340
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1852841	Candidatus Diapherotrites archaeon ADurb.Bin253
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1852900	Lentisphaerae bacterium ADurb.Bin242
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1852905	Planctomycetes bacterium ADurb.Bin412
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1858805	Dacryopinax primogenitus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1867774	Aliidongia dinghuensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1868793	Jeotgalibaca porci
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1869302	Desulfobacterales bacterium S7086C20
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1871053	Phenylobacterium sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1871086	Brevundimonas sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1871323	Chlamydiales bacterium SCGC AG-110-P3
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1872578	Aquabacterium sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1874115	Sphingobacterium alkalisoli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1879010	Firmicutes bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1884377	Paenibacillus sp. OV219
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1895718	Bacteroidales bacterium 36-12
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1896109	Hypoxylon sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1896183	Mortierella sp. AD032
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1896185	Mortierella sp. AD094
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1896190	Mortierella sp. GBA43
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1898203	Lachnospiraceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1898207	Clostridiales bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1906666	Thermoplasmata archaeon
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1908198	Salinivibrio kushneri
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1917863	Leptospira ryugenii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1919154	Halobacteriales archaeon QH_6_64_20
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1926614	SAR202 cluster bacterium Io17-Chloro-G5
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1940300	Cristinia sonorae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1955620	Hymenobacter sp. CRA2
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1955774	Emergomyces pasteurianus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1970513	Gammaproteobacteria bacterium 28-57-27
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1970566	Rhodospirillales bacterium 20-64-7
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1973888	Acidobacteria bacterium CG_4_9_14_3_um_filter_49_7
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1977877	Acinetobacter sp. ANC 5054
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1986651	bacterium TMED15
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	1986718	Flavobacteriaceae bacterium TMED68
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2006182	Methanobrevibacter sp. NOE
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2013098	Alphaproteobacteria bacterium MarineAlpha9_Bin3
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2013683	Bacteroidetes bacterium HGW-Bacteroidetes-15
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2013733	Candidatus Cloacimonetes bacterium HGW-Cloacimonetes-1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2014307	Elusimicrobia bacterium CG06_land_8_20_14_3_00_38_11
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2014326	Parcubacteria group bacterium CG10_big_fil_rev_8_21_14_0_10_36_14
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2015555	Pseudomonas sp. PGPPP3
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2017192	Parcubacteria group bacterium Gr01-1014_70
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2024896	Anaerolineaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2026353	Geodermatophilus daqingensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2026720	Candidatus Saccharibacteria bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2026739	Euryarchaeota archaeon
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2026760	Candidatus Marinimicrobia bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2026779	Planctomycetaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2026807	Zetaproteobacteria bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2030808	Candidatus Cloacimonetes bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2030823	Robiginitomaculum sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2030882	Thiotrichaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2033014	Armatimonadetes bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2035344	Amylibacter cionae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2035425	bacterium HR30
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2035432	bacterium HR37
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2044595	Candidatus Gracilibacteria bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2044883	bacterium DOLZORAL124_64_63
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2048252	Sporosarcina sp. P29
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2053489	Candidatus Lokiarchaeota archaeon
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2108365	Tepiditoga spiralis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2126181	Mycena indigotica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2174442	Marinicaulis sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2202197	Candidatus Methylumidiphilus alinenensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2202823	Pseudomonas sp. Q1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2211376	Candidatus Methylomirabilis lanthanidiphila
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2211642	Monosporascus sp. 5C6A
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2230876	Vagococcus sp. DIV0080
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2248760	Tropicimonas sp. IMCC34043
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2282107	Pyrrhoderma noxium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2282142	Acidobacteriales bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2283141	Agarivorans sp. Toyoura001
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2291710	Dokdonella sp.
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2316732	Corallococcus sp. CA053C
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2320272	Roseovarius spongiae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2447902	Nostocales cyanobacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2448604	Lentisphaerales bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2483110	Clostridium sp. JN-1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2483801	Leptolyngbya sp. IPPAS B-1204
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2484221	Cyanobacteria bacterium CYA
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2484964	Leptospira noumeaensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2484979	Leptospira fluminis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2486356	Qipengyuania marisflavi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2493639	Fluviispira sanaruensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2494336	Perkinsus sp. BL_2016
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2494373	Flammeovirga pectinis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2496029	Aquabacter cavernae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2499850	Jacksonvillea sp. ISTCYN1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2509717	Ciceribacter sp. F8825
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2510331	Candidatus Actinomarinales bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2511165	Microchloropsis salina
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2527666	Wolbachia endosymbiont of Idionella rugosa
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2528631	Puteibacter caeruleilacunae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2530368	Actinomadura rubrisoli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2546356	Gloeothece citriformis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2562669	Paraburkholderia sp. BCC1885
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2565365	Asticcacaulis tiandongensis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2587410	Thermothielavioides terrestris
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2596890	Candidatus Uabimicrobium amorphum
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2600227	Tulasnella sp. 419
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2603411	Pseudonocardia sp. EV170527-09
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2607655	Adhaeribacter soli
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2610884	Aequorivita lutea
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2614247	Ardenticatenaceae bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2652380	Alteromonas sp. I4
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2653133	Burkholderia sp. 8Y
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2654216	Shinella sp. CPCC 100929
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2654677	Streptomyces apocyni
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2655010	Melanogaster broomeanus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2663376	Xylariaceae sp. FL1272
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2666256	Marinobacter profundi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2668036	Fauchea furcellata
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2675216	Corynebacterium kalinowskii
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2676064	Pseudomethylobacillus aquaticus
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2692213	Chelativorans sp. ZYF759
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2692428	Fusarium sp. NRRL 66182
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2692584	Sunxiuqinia indica
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2692821	Microcoleus sp. FACHB-1515
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2692859	Pseudanabaena sp. FACHB-2040
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2708340	Actinomyces sp. zg-332
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2710755	Wenzhouxiangella sp. XN201
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2714109	Candidatus Frankia meridionalis
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2724999	Tricholoma furcatifolium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2728875	Rhodospirillaceae bacterium B3
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2729096	Gluconacetobacter dulcium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2732488	Microsporidium sp. FI-F-10
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2741701	Candidatus Paracaedibacteraceae bacterium 'Lake Konstanz'
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2748010	Thiomicrorhabdus sp. HH1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2750080	Candidatus Sungbacteria bacterium
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2772423	Tylopilus hayatae
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2772457	Pelorhabdus rhamnosifermentans
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2778367	Ktedonobacter sp. SOSP1-85
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2779863	Haplosporangium gracile
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2787148	Clostridium sp. 1001271B_151109_B4
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2821407	Jiella sp. KSK16Y-1
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2839758	Penicillium sp. RFL-2021a
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2851015	Bacillus sp. 7D3
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2853422	Gefionella okellyi
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2859781	Clostridium sp. YB-6
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2860393	Pseudohoeflea sp. DP4N28-3
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2867405	Blumeria hordei
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2874601	Myxococcus sp. RHSTA-1-4
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2883239	Dyella sp. 2HG41-7
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2885156	Trebouxiophyceae sp. M-hakoo 311
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2885158	Acidocella sp. KAb 2-4
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2895559	Subtercola sp. AK-R2A1-2
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2902621	Aeromicrobium sp. zg-Y1379
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	0.001390	1	2908004	Terrimonas sp. NA20
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	3.131080	2253	10239	Viruses
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	18.716993	13468	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1734836208329/kaiju_output/GCF_032362555.1.kaiju	97.819513	3228044	NA	unclassified

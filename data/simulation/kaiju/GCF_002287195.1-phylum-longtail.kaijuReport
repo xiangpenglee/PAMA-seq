@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	99.977097	2741948	28890	Euryarchaeota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.002698	74	1239	Firmicutes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.001531	42	1224	Proteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000182	5	2283796	Candidatus Thermoplasmatota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000073	2	201174	Actinobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	976	Bacteroidetes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	57723	Acidobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	200795	Chloroflexi
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	363464	Candidatus Gracilibacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	651137	Thaumarchaeota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	928852	Candidatus Bathyarchaeota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	1134404	Ignavibacteriae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	1379697	candidate division Zixibacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	1935019	Candidatus Hydrothermarchaeota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	2582935	Candidatus Altiarchaeota
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.018012	494	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	5.428414	157424	NA	unclassified

@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	99.965729	2741636	183925	Methanobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.011084	304	224756	Methanomicrobia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.002516	69	186801	Clostridia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.001458	40	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000182	5	183967	Thermoplasmata
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000073	2	1760	Actinomycetia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000073	2	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000073	2	91061	Bacilli
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000073	2	171536	Methanonatronarchaeia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	117743	Flavobacteriia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	183963	Halobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	204432	Acidobacteriia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	526524	Erysipelotrichia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	795747	Ignavibacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000036	1	1676648	Limnochordia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	0.018523	508	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF002287195..kaiju	5.428414	157424	NA	unclassified

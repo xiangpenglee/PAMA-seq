@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	99.721489	91662	2206	Methanosarcinaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.016319	15	143067	Methanotrichaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.013055	12	2062	Streptomycetaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.008703	8	1392996	Candidatus Methanoperedenaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.003264	3	196117	Methanocaldococcaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.003264	3	216572	Oscillospiraceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.002176	2	2194	Methanomicrobiaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.002176	2	1639119	Plasmodiidae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.002176	2	2603322	Vallitaleaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.001088	1	2159	Methanobacteriaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.001088	1	2259	Thermococcaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.001088	1	85023	Microbacteriaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.001088	1	186807	Peptococcaceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.001088	1	213119	Desulfobacteraceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.001088	1	388449	Ktedonobacteraceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	0.220849	203	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000007345.1.kaiju	8.082000	8082	NA	unclassified

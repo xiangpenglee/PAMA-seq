@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	99.423256	97572	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.048911	48	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.020379	20	91061	Bacilli
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.014266	14	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.007133	7	33849	Bacillariophyceae
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.006114	6	203683	Planctomycetia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.004076	4	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.001019	1	118001	Chrysiogenetes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.001019	1	186801	Clostridia
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.001019	1	214506	Glomeromycetes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.001019	1	431957	Wallemiomycetes
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	0.471785	463	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000967895.1.kaiju	1.862000	1862	NA	unclassified

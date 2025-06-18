@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	98.761353	191599	2222	Methanothrix
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.007732	15	2175	Methanohalophilus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.006186	12	2608792	Candidatus Argoarchaeum
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.004124	8	182623	Smithella
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.003608	7	1779002	Halocalculus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.001546	3	81416	Methanofollis
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.001546	3	2795782	Botrimarina
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.001031	2	1883	Streptomyces
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.000515	1	2207	Methanosarcina
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.000515	1	83867	Palaeococcus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.000515	1	218207	Desulfatibacillum
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.000515	1	513557	Syntrophorhabdus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.000515	1	1377992	Halovenus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	1.210297	2348	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	2.999000	5998	NA	unclassified

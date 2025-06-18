@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	98.761353	191599	2905377	Methanotrichales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.014948	29	94695	Methanosarcinales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.004124	8	2235	Halobacteriales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.004124	8	2914038	Syntrophales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.001546	3	2191	Methanomicrobiales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.001546	3	2691354	Pirellulales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.001031	2	85011	Streptomycetales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.000515	1	2258	Thermococcales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.000515	1	213118	Desulfobacterales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.000515	1	2819262	Syntrophorhabdales
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	1.209781	2347	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1734836548881/kaiju_output/GCF_000204415.1.kaiju	2.999000	5998	NA	unclassified
