@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	62.051285	242	1224	Proteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	19.743589	77	976	Bacteroidetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	4.615385	18	2836	Bacillariophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	1.794872	7	201174	Actinobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	1.025641	4	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.769231	3	1117	Cyanobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.512821	2	1239	Firmicutes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.512821	2	57723	Acidobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.512821	2	203682	Planctomycetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.512821	2	1853220	Rhodothermaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.256410	1	1090	Chlorobi
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.256410	1	3041	Chlorophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.256410	1	4762	Oomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.256410	1	5204	Basidiomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.256410	1	28890	Euryarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.256410	1	40117	Nitrospirae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.256410	1	203691	Spirochaetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.256410	1	555369	Tubulinea
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.256410	1	651137	Thaumarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	0.769231	3	10239	Viruses
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	4.871795	19	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_4.kaiju	61.000001	610	NA	unclassified

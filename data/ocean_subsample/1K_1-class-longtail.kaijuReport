@@ -1,0 +1,27 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	37.637363	137	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	19.230770	70	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	17.032967	62	117743	Flavobacteriia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	2.747253	10	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	2.472528	9	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	1.648352	6	33836	Coscinodiscophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	1.648352	6	1937959	Saprospiria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	1.098901	4	1760	Actinomycetia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.824176	3	33849	Bacillariophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.824176	3	203683	Planctomycetia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.549451	2	75966	Trebouxiophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.549451	2	203494	Verrucomicrobiae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.549451	2	219685	Gemmatimonadetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.549451	2	292625	Anaerolineae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.549451	2	768503	Cytophagia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.274725	1	2864	Dinophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.274725	1	35422	Pedinophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.274725	1	35675	Pelagophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.274725	1	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.274725	1	388447	Ktedonobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.274725	1	1035538	Mamiellophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.274725	1	1293498	Nitrospinia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.274725	1	1853222	Rhodothermia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	0.274725	1	10239	Viruses
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	9.615385	35	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_1.kaiju	63.599998	636	NA	unclassified

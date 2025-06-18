@@ -1,0 +1,26 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	36.666668	143	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	20.512821	80	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	13.589745	53	117743	Flavobacteriia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	2.820513	11	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	2.564103	10	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	2.307692	9	33836	Coscinodiscophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	2.051282	8	33849	Bacillariophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	1.538462	6	1760	Actinomycetia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	1.538462	6	768503	Cytophagia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	1.025641	4	203683	Planctomycetia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	1.025641	4	1035538	Mamiellophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.769231	3	203494	Verrucomicrobiae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.512821	2	200643	Bacteroidia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.512821	2	1853222	Rhodothermia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.512821	2	1937959	Saprospiria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	2864	Dinophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	33829	Spirotrichea
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	91061	Bacilli
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	292625	Anaerolineae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	432002	Atractiellomycetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	589449	Mediophyceae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	1807140	Acidithiobacillia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	10.256411	40	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	61.000001	610	NA	unclassified

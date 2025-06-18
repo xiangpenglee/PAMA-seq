@@ -1,0 +1,165 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	62.463062	240336	1224	Proteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	21.794861	83859	976	Bacteroidetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	4.417502	16997	2836	Bacillariophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	1.928970	7422	201174	Actinobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	1.405793	5409	203682	Planctomycetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	1.373826	5286	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.777098	2990	3041	Chlorophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.430133	1655	1117	Cyanobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.354242	1363	1239	Firmicutes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.295245	1136	200795	Chloroflexi
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.201941	777	57723	Acidobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.163996	631	1853220	Rhodothermaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.115395	444	40117	Nitrospirae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.113836	438	4890	Ascomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.087586	337	651137	Thaumarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.080049	308	203691	Spirochaetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.076150	293	142182	Gemmatimonadetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.072512	279	5878	Ciliophora
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.063415	244	4762	Oomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.043143	166	28890	Euryarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.041584	160	1913637	Mucoromycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.040284	155	5204	Basidiomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.039765	153	1134404	Ignavibacteriae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.034826	134	363464	Candidatus Gracilibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.033527	129	1936987	Balneolaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.033007	127	134625	Kiritimatiellaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.032227	124	1930617	Calditrichaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.027029	104	256845	Lentisphaerae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.025470	98	2763	Rhodophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.024430	94	67819	Armatimonadetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.024171	93	33682	Euglenozoa
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.023911	92	204428	Chlamydiae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.023911	92	1293497	Nitrospinae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.021572	83	2830	Haptophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.019752	76	1297	Deinococcus-Thermus
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.018713	72	5794	Apicomplexa
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.017413	67	4761	Chytridiomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.016374	63	928852	Candidatus Bathyarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.016374	63	2605435	Evosea
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.016114	62	67817	Candidatus Aminicenantes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.015074	58	67812	Candidatus Omnitrophica
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.014294	55	62680	Candidatus Marinimicrobia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.014035	54	200940	Thermodesulfobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.014035	54	1379697	candidate division Zixibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.013775	53	1752708	Candidatus Rokubacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.012995	50	2283796	Candidatus Thermoplasmatota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.012215	47	74152	Elusimicrobia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.012215	47	544448	Tenericutes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.011176	43	1090	Chlorobi
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.010136	39	1752716	Candidatus Dadabacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.010136	39	1913638	Zoopagomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.009616	37	6029	Microsporidia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.008837	34	32066	Fusobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.008577	33	142187	Candidatus Hydrogenedentes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.008057	31	74015	Candidatus Latescibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.007017	27	200783	Aquificae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.005458	21	1802339	Candidatus Tectomicrobia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.005198	20	2604748	Endomyxa
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.004938	19	456828	Candidatus Cloacimonetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.004678	18	1703755	candidate division WOR-3
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.004418	17	2662611	Preaxostyla
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.004158	16	1798710	Candidatus Melainabacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.004158	16	2798537	Candidatus Blackallbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.003898	15	265317	Candidatus Poribacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.003898	15	1619053	Candidatus Peregrinibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.003639	14	200918	Thermotogae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.003639	14	200930	Deferribacteres
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.003639	14	1031332	Cryptomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.003639	14	1752737	Candidatus Moranbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.003379	13	508458	Synergistetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.003379	13	1936272	Candidatus Heimdallarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002859	11	65842	Fibrobacteres
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002859	11	1752734	Candidatus Kaiserbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002859	11	1817801	Candidatus Eisenbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002599	10	29178	Foraminifera
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002599	10	1706441	Candidatus Thorarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002599	10	1801616	Candidatus Woesearchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002339	9	95818	Candidatus Saccharibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002339	9	221216	Candidatus Parcubacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002339	9	743724	Candidatus Aenigmarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002079	8	451459	Blastocladiomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002079	8	555280	Discosea
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002079	8	1052815	Candidatus Aerophobetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002079	8	1729712	Candidatus Fermentibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.002079	8	1752724	Candidatus Pacebacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001819	7	640293	candidate division NC10
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001819	7	2093358	Candidatus Abyssubacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001819	7	2497438	Perkinsozoa
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001559	6	5752	Heterolobosea
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001559	6	207245	Fornicata
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001559	6	1752722	Candidatus Woesebacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001559	6	1752732	Candidatus Uhrbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001559	6	1817808	Candidatus Margulisbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001299	5	67818	Atribacterota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001299	5	200295	Candidatus Sumerlaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001299	5	1752728	Candidatus Falkowbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001299	5	1817806	Candidatus Handelsmanbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001299	5	1817925	Candidatus Zambryskibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001299	5	2202805	Olpidiomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	28889	Crenarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	67814	Caldiserica
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	136419	Cercozoa
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	221235	Candidatus Absconditabacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	1618339	candidate division CPR2
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	1662329	Candidatus Kapabacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	1752723	Candidatus Roizmanbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	1817797	Candidatus Coatesbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	1817799	Candidatus Doudnabacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	1817811	Candidatus Schekmanbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	1817905	Candidatus Harrisonbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.001040	4	2703810	Candidatus Mcinerneyibacteriota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000780	3	5719	Parabasalia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000780	3	200938	Chrysiogenetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000780	3	1752720	Candidatus Gottesmanbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000780	3	1752731	Candidatus Magasanikbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000780	3	1752733	Candidatus Yanofskybacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000780	3	1817798	Candidatus Delongbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000780	3	1817802	Candidatus Firestonebacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000780	3	1817807	Candidatus Lindowbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000780	3	1817916	Candidatus Staskawiczbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000780	3	2582935	Candidatus Altiarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	67810	Candidatus Bipolaricaulota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	422282	candidate division WWE3
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1736114	Imbricatea
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1752719	Candidatus Levybacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1752738	Candidatus Giovannonibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1817796	Candidatus Abawacabacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1817803	Candidatus Fischerbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1817809	Candidatus Raymondbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1817810	Candidatus Riflebacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1817812	Candidatus Wallbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1817903	Candidatus Buchananbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1817907	Candidatus Kerfeldbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1817908	Candidatus Komeilibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1817911	Candidatus Nealsonbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1817913	Candidatus Portnoybacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	1855361	Candidatus Kryptonia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	2013583	Candidatus Goldbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	2498705	Candidatus Cryosericota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000520	2	2576005	candidate division LCP-89
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	51967	Candidatus Korarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	68297	Dictyoglomi
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	419944	Picozoa
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1655434	Candidatus Lokiarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1752729	Candidatus Nomurabacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1752736	Candidatus Adlerbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1752741	Candidatus Azambacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1817804	Candidatus Fraserbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1817805	Candidatus Glassbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1817901	Candidatus Andersenbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1817909	Candidatus Liptonbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1817915	Candidatus Spechtbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1817917	Candidatus Sungbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1817920	Candidatus Terrybacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1817922	Candidatus Vogelbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1817923	Candidatus Wildermuthbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1915410	Candidatus Verstraetearchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	1936271	Candidatus Odinarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	2052312	Candidatus Dormibacteraeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	2138240	Coprothermobacterota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.000260	1	2767197	Candidatus Muirbacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	0.281211	1082	10239	Viruses
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	2.594831	9984	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1M_1.kaiju	61.523497	615235	NA	unclassified

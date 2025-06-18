@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	64.462814	234	1224	Proteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	17.630854	64	976	Bacteroidetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	4.958678	18	2836	Bacillariophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	3.305785	12	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	1.928375	7	203682	Planctomycetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	1.652892	6	201174	Actinobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	1.101928	4	1239	Firmicutes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	0.550964	2	4890	Ascomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	0.550964	2	200795	Chloroflexi
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	0.275482	1	28890	Euryarchaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	0.275482	1	40117	Nitrospirae
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	0.275482	1	200930	Deferribacteres
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	0.275482	1	1798710	Candidatus Melainabacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	0.275482	1	1853220	Rhodothermaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	0.275482	1	1936987	Balneolaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	2.203857	8	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_5.kaiju	63.700002	637	NA	unclassified

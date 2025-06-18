@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	63.333332	247	1224	Proteobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	21.025640	82	976	Bacteroidetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	5.384615	21	2836	Bacillariophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	1.794872	7	203682	Planctomycetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	1.538462	6	201174	Actinobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	1.282051	5	3041	Chlorophyta
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	1.282051	5	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.512821	2	1853220	Rhodothermaeota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	1117	Cyanobacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	1239	Firmicutes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	5204	Basidiomycota
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	5878	Ciliophora
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	95818	Candidatus Saccharibacteria
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	200795	Chloroflexi
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.256410	1	203691	Spirochaetes
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	0.000000	0	10239	Viruses
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	2.051282	8	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1732655090008/kaiju_output/1K_2.kaiju	61.000001	610	NA	unclassified
