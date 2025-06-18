@@ -32,6 +32,35 @@ ocean_subsample/
 zymo/
 ```
 
+## Required Tools
 
+FastP 
+
+Bowtie2 
+
+Samtools 
+
+MetaPhlAn4
+
+BMTagger
+
+Kraken2
+
+GOTTCHA2
+
+Kaiju
+
+CZID.org 
+
+Kbase.us
+
+Python
+
+Seqtk toolkit 
+
+
+## Data availability
+All sequencing data is accessible at the NCBI Sequence Read Archive (Accession numbers: PRJNA1232616).
+For Intermediate files and output files, please contact the author: (xli@chem.fsu.edu).
 
 
