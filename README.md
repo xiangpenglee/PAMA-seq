@@ -9,7 +9,7 @@ Microbial communities encompass diverse bacteria, archaea, and eukaryotes that p
 
 ## Contents
 
-code/
+code/ (python jupyter notebook for all data analysis)
 ```
 PAMA-seq_Simulation_analysis.ipynb
 PAMA-seq_ocean_subsample.ipynb
@@ -17,14 +17,14 @@ PAMA-seq_ocean_venn_diagram_R.ipynb
 PAMA-seq_zymo.ipynb
 PAMA_seq_gut.ipynb
 ```
-data/
+data/ (Data for analysis)
 ```
 gut/
 ocean/
 ocean_subsample/
 zymo/
 ```
-output/
+output/ (output files after analysis)
 ```
 gut/
 ocean/
