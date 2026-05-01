@@ -16,6 +16,12 @@ PAMA-seq_ocean_subsample.ipynb
 PAMA-seq_ocean_venn_diagram_R.ipynb
 PAMA-seq_zymo.ipynb
 PAMA_seq_gut.ipynb
+PAMA-seq_ocean_vs_river/1_OL_pama-seq.ipynb
+PAMA-seq_ocean_vs_river/2_OL_16s-seq.ipynb
+PAMA-seq_ocean_vs_river/3_OL_18S_trim100.ipynb
+PAMA-seq_ocean_vs_river/4_pama_vs_16S_comparison.ipynb
+PAMA-seq_ocean_vs_river/5_pama_vs_18S_comparison-Copy1.ipynb
+PAMA-seq_ocean_vs_river/6_Genus-level differential abundance analysis.ipynb
 ```
 data/ (Data for analysis)
 ```
@@ -23,6 +29,7 @@ gut/
 ocean/
 ocean_subsample/
 zymo/
+Ocean_vs_river/
 ```
 output/ (output files after analysis)
 ```
@@ -30,6 +37,7 @@ gut/
 ocean/
 ocean_subsample/
 zymo/
+Ocean_vs_river/
 ```
 
 ## Required Tools
@@ -57,6 +65,8 @@ Kbase.us
 Python
 
 Seqtk toolkit 
+
+Qiime2
 
 
 ## Data availability
