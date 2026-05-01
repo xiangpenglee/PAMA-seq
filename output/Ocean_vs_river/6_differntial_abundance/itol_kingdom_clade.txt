@@ -1,0 +1,9 @@
+TREE_COLORS
+SEPARATOR TAB
+DATA
+Bacteria|Acidobacteriota|Acidobacteriae|Bryobacterales|Bryobacteraceae|Bryobacter|Bacteria|Verrucomicrobiota|Verrucomicrobiae|Verrucomicrobiales|Rubritaleaceae|Persicirhabdus	label_background	#A8D5A2
+Bacteria|Acidobacteriota|Acidobacteriae|Bryobacterales|Bryobacteraceae|Bryobacter|Bacteria|Verrucomicrobiota|Verrucomicrobiae|Verrucomicrobiales|Rubritaleaceae|Persicirhabdus	label	Bacteria	#000000	bold	4
+Eukaryota|Annelida|Polychaeta|Opheliidae|Opheliidae|Opheliidae|Eukaryota|SA1-3C06|SA1-3C06|SA1-3C06|SA1-3C06|SA1-3C06	label_background	#F4C6A0
+Eukaryota|Annelida|Polychaeta|Opheliidae|Opheliidae|Opheliidae|Eukaryota|SA1-3C06|SA1-3C06|SA1-3C06|SA1-3C06|SA1-3C06	label	Eukaryota	#000000	bold	4
+Archaea|Thermoplasmatota|Thermoplasmata|Marine_Group_II|Marine_Group_II|Marine_Group_II|Archaea|Thermoplasmatota|Thermoplasmata|Marine_Group_II|Marine_Group_II|Marine_Group_II	label_background	#C3B1E1
+Archaea|Thermoplasmatota|Thermoplasmata|Marine_Group_II|Marine_Group_II|Marine_Group_II|Archaea|Thermoplasmatota|Thermoplasmata|Marine_Group_II|Marine_Group_II|Marine_Group_II	label	Archaea	#000000	bold	4
